@@ -1,0 +1,17 @@
+#Cp468 based on p156
+#CScot Ellison – 1 Nov 2004
+x = 82, y = 42, rule = B3/S23
+20boo38boo$20bo39boo$21bo$$19bo3boo37boo$8boo5b3obo12boo14boo12boobboo
+4boo$9bo5boobbo12bo16bo16boo4bo$9bobobbobbo12bobo16bobo18bobo$5bo4boo
+3bo14boo4bo8bo4boo18boo4bo$5b3o26b3o8b3o26b3o$8bo14boo8bo14bo12bobo9bo
+$7boo10b3o3bo7boo12boo12bobo9boo$22bobbo29b3o3bo$19boob3o30bo7boo$7bo
+11b3obo31bobbobboboo10boo$5boobo10bo32b3oboo4bo12boo$5boo13boo7boo21bo
+bbo$5bobo20bobbo5bo14bobbo11boo$27boobbo5bo16bo12booboo4boo$4b3o4bob3o
+12boo36bo9boo$oo9boboobo8bobobbo8bobo25bob3o8boo$obo8bobbobo8boboobo9b
+oo8b3obo25boo$12boo12b3obo4b3o6boo9bo$4bo5bobboo29boo4booboo12bo$4bo5b
+obbo20bobo16boo11bobbo$11boo7boo13boo29bobbo$22bo10boboo8boo12bo4boob
+3o$18bob3o11bo10boo10boobobbobbo$17b3oboo34boo7bo$16bobbo40bo3b3o$7boo
+7bo3b3o35bobo12boo$8bo8boo39bobo12bo$5b3o66b3o$5bo4boo14bo3boo18boo18b
+oo4bo$9bobo12bobbobbobo16bobo18bobo$9bo12bobboo5bo16bo4boo16bo$8boo12b
+ob3o5boo14boo4boobboo12boo$17boo3bo35boo$$20bo23bo$21bo23bo14boo$20boo
+21b3o14boo!

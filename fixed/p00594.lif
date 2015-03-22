@@ -1,0 +1,24 @@
+#C p594 gun
+#C Reduced using Nicolay's p27
+#C
+#C Adam P. Goucher, 2010
+x = 100, y = 76, rule = B3/S23
+38bo$66bo$19boo43b3o$20bo7bo34bo$20bobo14boo24boo$21boo12boobbo$25b3o
+7booboo21bo$25booboo7b3o20bobo$25bobboo12boo15bo3bo$26boo14bobo14bobbo
+$36bo7bo14bobbo$44boo14boo$$boo23bo$bbo21bobo$bbobo13b3o4boo$3boo3bo8b
+o3bo$7boboo6bo4bo39boo$6bo4bo6boobo9bo29bobbo$7bo3bo8bo3boo6bo28bobbo
+12bo$8b3o13bobo3b3o27bo3bo10b3o$26bo34bobo10bo$26boo34bo11boo$$37bo21b
+oo4bo$35bobo22bo3bo6b3o$36boo19b3o4b3o3boboo$25boo30bo12bobbo$8bo16bo
+4bo40boo3bo$7b3o13bobo4boo39boo$6b3obo7boo3boo4bobo27bo$5b3obbo6b4o38b
+obo$6b4o6bobb3o11bo24bobo$bboo3boo7bob3o13boo21b3o$bobo13b3o4boo6boo
+23bobo$bo16bo6boo7bo24bo13boo$oo22bo32bobo9bo3boo$57boo13bobbo7boo$43b
+oo27boobo7boo$43bo28b3o$25b3o13bobo19boo19bo$24bo3bo8bo3boo20bo19b3o$
+23bo4bo6boobo25b3o3boo11boboo$24boboo6bo4bo26bo4bo$20boo3bo8bo3bo7boo
+18bob3o17bo$19bobo13b3o9bo17boobo11boo7bo$19bo24b3o4boo26b3o6bobo$18b
+oo24bo6boo25bobbo6boboo$77bob3o6b4o$$53bo21bo18boobboo$48boo3bo20boo
+19booboo$49boo19booboo19boo$45bobo22boobboo18bo$44bobbo9bo$45bo3bo3bo
+bbobo19b4o6b3obo$47bobobb3o23boobo6bobbo$46bobbobbooboboo20bobo6b3o$
+40boo3b3o12bo19bo7boo$36boo8boo6b3obboo20bo$36boo21bo$42bo21boo17boobo
+$41boobb3o6boo8boo18b3o$41bo12b3o3boo23bo$43booboboobbobbo$47b3obbobo
+30boo$43bobobbo3bo3bo28boo$44bo9bobbo$54bobo$51boo$48bo3boo$48bo$$86bo
+$49boo36bo$49boo34b3o!

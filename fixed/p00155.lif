@@ -1,0 +1,21 @@
+#C p155 gun using alternate p5 F171 component.
+#C Found using modified Hersrch:  Dave Greene, 8 October 2006
+x = 127, y = 65, rule = B3/S23
+66bo$31bo77boo$31b3o75boo5boo$34bo81boo$33boo45boo$26bo54bo$26b3o51bo
+14boo17boo$29bo50boo14bo17boo$28boo66bobo21boo$59b3o35boo21boo$50bo8b
+3o$25boo22bobo6bo$26bo22bobb4o7boo36bobbo$26bobo21boob3o4bo3boo17boo
+13boobobboo$27boo31booboo18boo13boobo4bo$60b4o34boo$100bo4boo$21bo78b
+ooboo$21b3o97bo$24bo94b3o$7boo14boo28boo63bo$7boo43bobo38boo23boo$25b
+3o24bo41bo$25b3o6boo15boo25boo11b3o$boo26b3obbobo41boobboobbo4bo$boo
+28bo4bo45bobbobo$5boo23bobbobbo46bobobo$5boo26b3o28boo16booboboo$40boo
+23bo15bo3bo3bo$39bobbo19b3o15bobobo4bo7bo$19bo19bobobbobbobo12bo17bo3b
+oo3bo5b3o$oo16bo19boobob5ob3o22boo5boobo4bo4bo$oo16b3o10boo4bo3bo10bo
+21bo10bo3bo4boo10b3o16boo$32bo4bo4boboo5boo22b3ob5oboboo19bo16boo$29b
+3o5bo3boo3bo17bo12bobobbobbobo19bo$29bo7bo4bobobo15b3o19bobbo$37bo3bo
+3bo15bo23boo$38booboboo16boo28b3o26boo$39bobobo46bobbobbo23boo$39bobo
+bbo45bo4bo28boo$35bo4bobboobboo41bobobb3o26boo$33b3o11boo25boo15boo6b
+3o$32bo41bo24b3o$7boo23boo38bobo43boo$8bo63boo28boo14boo$5b3o94bo$5bo
+97b3o$22booboo78bo$20boo4bo$27boo34b4o$20bo4boboo13boo18booboo31boo$
+21boobboboo13boo17boo3bo4b3oboo21bobo$22bobbo36boo7b4obbo22bo$68bo6bob
+o22boo$65b3o8bo$5boo21boo35b3o$5boo21bobo$11boo17bo14boo$11boo17boo14b
+o$45bo$45boo45boo$9boo81bo$9boo5boo75b3o9bo$16boo77bo10bo$60bo43b3o!

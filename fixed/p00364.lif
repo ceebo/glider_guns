@@ -1,0 +1,19 @@
+#Cp00364 gun found using Hersrch
+#CKarel Suhajda, 14 Sep 2003
+x = 108, y = 80, rule = B3/S23
+33bo$33b3o39bo$36bo36b3o$35boo35bo$72boo$55boo19boo$56bo19boo$10boo44b
+obo$10boo45boo$78bo$77bobo$4boo72bo$4boo73b3o$8boo71bo$8boo$$69b3o$68b
+3obo$3boo62b3obboo4boo$3boo61boo3b3o4boo$71bo$$94bobooboo$50boo42boobo
+bo3bo$44boo5bo17bo27bobb6o$44bobob3o17boo24b3obobo5bo$22boo13boo7bobo
+18bobbo21b3o3bobb4obo$22boo13boo7boo20bobo20bo6b4obobo$68boo21boo10bo$
+98booboboo$10boo87bobo3bo$11bo49boo34bobbob3obbo$5boob3o50boo34boobobo
+boboo$6bobo90bobobbobo$6bobo90bob4obbo$4boboboo50boo36boobo3bobo$3bob
+oobbo39bo11bo4boo30bobb4obo$3bo3b3o30boo5b3o8b3o5boo30b3o3bo$bob4obbo
+30boo4bo11bo39bobboobo$obo3boboo36boo50boobobo$obb4obo90bobo$bobobbobo
+90bobo$ooboboboboo34boo50b3oboo$obb3obobbo34boo49bo$bbo3bobo87boo$3boo
+boboo$4bo10boo21boo$bbobob4o6bo20bobo20boo7boo13boo$bob4obbo3b3o21bobb
+o18bobo7boo13boo$bo5bobob3o24boo10boo5b3obobo$bb6obbo27bo11bo5bo5boo$
+4bo3boboboo34bobo5boo$7booboobo34boo3$36b3o64boo$36bobboo62boo$37b3o$
+38bo$$37bo60boo$31b3obb3o59boo$35boboo63boo$31bo3booboo62boo$33bobo11b
+oobboo$33bobo11boobbo$33boo17b3o41boo$54bo41boo3$35boobo$33boobobo32b
+oo$36b3o32bo$33b3o36b3o$74bo3$39bo$40bo$38b3o!

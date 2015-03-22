@@ -1,0 +1,19 @@
+#C p458 gun - Karel Suhajda's 916 with another Herschel
+#C Scot Ellison - 18 July 2003     117 119 222 (x2)
+x = 135, y = 75, rule = B3/S23
+97bo$95b3o$94bo$94boo$77boo19boo$59boo17bo19boo$60bo17bobo$47bo11bo19b
+oo$30boobo13b3o9boo39bo$29bobboobboo12bo48bobo$28bobo5bobo10boo49bo$
+19boo8bob5obbo62b3o$20bo10bo6bobo62bo$19bo10bo3boo3boo$19boo8bo3bobo
+26boo$4bo6bo17boo3bo27boo27b3o$3bobo5b3o76b3obo$3bobo8bo74b3obboo4boo$
+b3oboo6boo73boo3b3o4boo$o92bo$b3oboo15boo$3boboo15boo$72boo$53boo18bo
+17bo25boo$53bo16b3o17boo25bo$54b3o13bo18bobbo22bobo$oo54bo33bobo18boo
+bboo5boo$bo88boo19boo10bo$bobo118bo$bboo118boo$83boo$54bo28boo$45boo5b
+3o$45boo4bo$51boo29boo$83bo4boo$80b3o5boo$50boo28bo$50boo$11boo118boo$
+12bo118bobo$11bo10boo19boo88bo$11boo5boobboo18bobo33bo54boo$17bobo22bo
+bbo18bo13b3o$17bo25boo10boo5b3o16bo$16boo25bo11bo5bo18boo$53bobo5boo$
+53boo56boo15boobo$111boo15boob3o$134bo$41b3o76boo6boob3o$41bobboo74bo
+8bobo$42b3o76b3o5bobo$43bo27boo27bo3boo17bo6bo$71boo26bobo3bo8boo$42bo
+51boo3boo3bo10bo$36b3obb3o50bobo6bo10bo$40boboo52bobb5obo8boo$36bo3boo
+boo39boo10bobo5bobo$38bobo11boobboo26bo12boobboobbo$38bobo11boobbo17b
+oo9b3o13boboo$38boo17b3o15bo11bo$59bo14bo$74boo$$40boobo$38boobobo$41b
+3o$38b3o4$44bo$45bo$43b3o!

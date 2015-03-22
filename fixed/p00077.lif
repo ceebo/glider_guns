@@ -1,0 +1,19 @@
+#C p77x2
+x = 110, y = 75, rule = B3/S23
+70bo20bo$68b3o11bo7bobo$67bo14b3o6bo$67b2o16bo16bo$84b2o14b3o$44bo54bo
+$30bo13b3o24b3o5bo19b2o$28b3o16bo22b5o3b2o$2b2o23bo18b2o21bob2o2bo4bo
+16bo$3bo23b2o39b2ob5o20bobo$3bobo63b5obo17b3obo6b2o$4b2o2b2o60bo3b3ob
+2o13b3o8bo$8b2o64b4o24bobo$44bo57b2o$22b2o18b2ob2o$42bo3bo47b3o$21bobo
+13b2o3bo46b2o$19bo17b2o4bobo34b2o6bobo3b2o$15b2obob2o38b2o19bo6bo$16bo
+b2o40bobo17bo6b2o$17bo44bo17b2o$50b2o10b2o$50bo$2b2o36b2o9b3o$bobo16b
+2o19bo11bo$bo18bobo17bo50b2o$2o20bo17b2o48bobo$16b2o4b2o66bo$5b3o8bo2b
+o69b2o$7bo10b2o$5bobo2b2o$10b3o$7b2o2b2o$6b3o2b2o88bo$2o4b2o92b3o6bo$b
+o3bo93bo2b2o3bobo$o107b2o$2o2$6b2o2bo93bo$7b3o92b2o$8bo88b2o2b3o$97b2o
+2b2o$97b3o$98b2o2bobo$90b2o10bo$19b2o69bo2bo8b3o$19bo66b2o4b2o$17bobo
+48b2o17bo20b2o$17b2o50bo17bobo18bo$56bo11bo19b2o16bobo$56b3o9b2o36b2o$
+59bo$46b2o10b2o$28b2o17bo44bo$21b2o6bo17bobo40b2obo$21bo6bo19b2o38b2ob
+ob2o$14b2o3bobo6b2o34bobo4b2o17bo$19b2o46bo3b2o13bobo$13b3o47bo3bo$63b
+2ob2o18b2o$6b2o57bo$5bobo24b4o64b2o$5bo8b3o13b2ob3o3bo60b2o2b2o$4b2o6b
+ob3o17bob5o63bobo$11bobo20b5ob2o39b2o23bo$12bo16bo4bo2b2obo21b2o18bo
+23b2o$30b2o3b5o22bo16b3o$9b2o19bo5b3o24b3o13bo$10bo54bo$7b3o14b2o$7bo
+16bo16b2o$18bo6b3o14bo$17bobo7bo11b3o$18bo20bo!

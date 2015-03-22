@@ -1,0 +1,23 @@
+#Cp00645 Tripled the p215 Gun.  Scot Ellison, 5 Dec 2003
+#CAnother glider used and tripler moved inside the gun
+#C - Karel Suhajda, 16 Mar 2003
+x = 114, y = 89, rule = B3/S23
+6boo13boo$5bobbo5bo5bobbo8boo$5bobobbobbobobbobbobo8boo5boo$4boob4o3bo
+3b4oboo14boo$$9b3o5b3o$8bo3bo3bo3bo16boo$8boobbobobobboo16boo$13b3o27b
+oo$14bo28boo$$bboo$3bo$3bobo$4boo5$12bo70bo$11b3o10boo57b3o$10boobbo9b
+oo21bo38bo23boo$10bob4o29b3o37boo23bo$10bo4bo28bo63bobo$10bobboo29boo
+20bo37boobboo$12boo34boo16b3o35boo$49bo19bo$8bo38bo20boo11boo$8bobo36b
+oo32boo$8boo5$bo48boo12bobo$obo28boo17boo12bobobo$oo29boo36boo39boo$
+68bo23boo16bobo$oo89bobo18bo$o29boo52boobo3bo20boo$bo29bo52boob3obo4b
+oo$oo26b3o12boo45bo3bobbo$27bo15bo40boob3o4boo$27boo15b3o31boo5bobo15b
+oo$9boo18bo4boo10bo20bo10boo4bo18boo$9boo15bobo5boo31b3o15boo$18boo4b
+3oboo40bo15bo$16bobbo3bo45boo12b3o26boo$16boo4bob3oboo52bo29bo$oo20bo
+3boboo52boo29bo$bo18bobo89boo$bobo16boo23bo$bboo39boo36boo29boo$45bobo
+bo12boo17boo28bobo$47bobo12boo48bo5$104boo$31boo32boo36bobo$31boo11boo
+20bo38bo$44bo19bo$8boo35b3o16boo34boo$4boobboo37bo20boo29boobbo$3bobo
+63bo28bo4bo$3bo62b3o29b4obo$bboo62bo21boo9bobboo$88boo10b3o$44bobboboo
+bobbo45bo$44b4oboob4o$44bobboboobobbo3$108boo$47boobboo55bobo$46bob4ob
+o56bo$45boob4oboo55boo$45bobbobbobbo$46boo4boo15boo28bo$69boo27b3o$75b
+oo16boobbobobobboo$75boo16bo3bo3bo3bo$94b3o5b3o$$73boo14boob4o3bo3b4ob
+oo$49bo23boo5boo8bobobbobbobobbobbobo$50bo29boo8bobbo5bo5bobbo$48b3o
+40boo13boo!

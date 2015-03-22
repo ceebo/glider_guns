@@ -1,0 +1,17 @@
+#C P00308 gun - Trimmed 2 rows with N. Beluchenko's p4 toadsucker.
+#C Technique identified by J. Summers.  - 21 Jan 2005 (S. Ellison)
+x = 102, y = 44, rule = B3/S23
+7bo79bo$bboo3bobo4bo66bo5boobobb3obboo$bbobboobboboboobobb3obboo50boo
+3bobobobooboboboobboo$4boo7booboboboobboo50bobboobbo4bo6b3o$3b3o7bo7b
+3o54boo17bo$23bo53b3o17bo$23bo$$9boo80boo$9boo80boo$86bo$29boo40boo12b
+3o$29bo42bo11bobobo$15bo11bobo42bobo9bobobo$14b3o10boo44boo7boob3oboo$
+oo11booboo63bobooboboobo8boo$oo10boo3boo12boo7bo20bo7boo9boobo5boboo7b
+oo$13booboo13boo5b3o20b3o5boo10boobo3boboo$37bo26bo17b3o3b3o$37boo24b
+oo$$69bo12b3o3b3o$13booboo50b3o10boobo3boboo$oo10boo3boo5bo42b4o9boobo
+5boboo7boo$oo11booboo5bobo5boo33bo14bobooboboobo8boo$14b3o5bobbo4bobb
+oo30boobbo3boo7boob3oboo$15bo7bo6booboo29b3obobobboo9bobobo$23b4o3boob
+oo30boobb3obo10bobobo$24bobbo4bo33bo3b4o11b3o$25bobo39b3obooboo10bo$
+26bo18bo22b4o$46bo$30boo12b3o7bo15boo$30bo23bobo14bo$31b3o20boo12b3o$
+33bo34bo16boo$10boo8boo58boobo4boboo$10bobb6obbo58bo10bo$11boo6boo60b
+oo6boo$8b3o10b3o54b3obb6obb3o$8bobbobo4bobobbo54bobbo8bobbo$9boo4boo4b
+oo33bo22boo10boo$57bo$55b3o!

@@ -1,0 +1,41 @@
+#C 17 Mar 2004 Jason Summers first made this type of p65 gun
+#C 18 Mar 2004 David Eppstein trimmed it by using a different endcap
+#C  for one of the p130s and modifying two adjacent pairs of p5s.
+#C  Scot Ellison welded the two pair for a reduction.
+#C  Karel Suhajda welded the pair one cell closer.
+#C 19 Mar 2004 David Eppstein's new p5 removes two rows and a column.
+#C 07 Jun 2007 Nicolay Beluchenko's new p5 removes two more rows
+x = 102, y = 88, rule = B3/S23
+23boo38bobboo$22bobbo36bobobbo$17bobbobbobo36bobobo$17b5oboboo5b5o24b
+ooboboo$23boo3bobbo3boo5bo16bo3boo3bo$19b3obboo6boo7boo7bo11boobboobo$
+6boo10bobobbobo3bo7bo3bo6bobbo6bo3bobobbobo$7bobboo6boboobboo11bo7bo3b
+oo11boobb3o$7bobobbo6bo3boo3bo16boo12bo3boo$6booboboboboo3booboboo19bo
+14boobob5o$7boboboboobo4bobobo15bobbo17bobobbobbo$5bo3b3o8bobbobo16b3o
+17bobbo$4bob3obob4o4boobbo38boo$4bo11bo$5b3obobob3o47boo$7booboboo28b
+3o17bobbo$41bobbo17bobobbo$46bo14boobob4o$oo27bobo4bo8boo12bo3boo5bo$b
+obboo22bo5b4o7bo3boo11boobb3obo$bobobo25bob5o3bo6bobbo6bo3bobobboboboo
+$bbo23bo3booboo6boo7bo11boobboobobbo$21boo3bobo3bo9bo16bo3boo3bobo$4bo
+15bobbo7bo29booboboobboo$3bobo15boo9bo29bobbobboobbo$4bo57bo4bobbobo$b
+3o12b3o44b4oboboboo16bobbo$bo14booboo45bobobobo16boboobo$17bobobo41boo
+9bo15bobbo$18bobboo39bobb3obob3obo14bobbo6boo$19b4o40bo4b3o4bo13boboob
+o4bobo$64b3ob3ob3o15bobbobboo$19b4o43b7o26bo$18bobboo73bo$17bobobo75b
+oo$bo14booboo17bo20boo35bo$b3o12b3o17b3o21bobboo19bo10boboobo$4bo30bo
+24bobobo18bobo7boobo4bo$3bobo15boo11bobo24bo7bo12boobbo9bo3boo$4bo15bo
+bbo11bo31booboo14bo$21boo4bo34bobbo3bo15boo6bobbo$bbo25bo8bo24bobo5bo
+bbo21boo$bobobo21bo6bobobo24bo6bobbo6boobbo$bobboo28boobbo21b3o9bo7boo
+boo$oo36boo20bo19bo3bo$81b3o$69bobobo$7booboboo12booboboo36b5o$5b3obob
+ob3o8b3obobob3o$4bo11bo6bo11bo33b5o$4bob3obob4o7bob3obob5o33bobobo$5bo
+3b3o12bo3b3o38boo10b3o$7boboboboobo9boboboboo35bo10bo3bo$6booboboboboo
+8boobobobo31bo15booboo$7bobobbo11bobbobbobobbo26bobo15boobbo$7bobboo
+12boobboobbobobo14bo11boo6bo23boo$6boo21bobobbobo8b3obboo17boo14boo6bo
+bbo$28bobbooboboo7bo3b3o34bo$26b3obo3boobbo6boobob3o29boobbo9bo3boo$
+25bo3bobboo3b3o6bo4bobo29bobo7boobo4bo$26booboboboobb3o7boboo3bo29bo
+10boboobo$28boboboo3b3o9boo3bo41bo$28bo5boobbo10bobobbo42boo$29b4obob
+oo11bo3bo42bo$31bobbobo12boobo46bo$33bobbo14bo38bobbobboo$34boo53boboo
+bo4bobo$51bo38bobbo6boo$49boobo37bobbo$49bo3bo25bo9boboobo$49bobobbo
+25boo8bobbo$49boo3bo6bobo15boo$47boboo3bo5boob3o$37boo7bo4bobo7bo4bo4b
+oo$37bobo5boobob3o17bobo$38b3o4bo3b3o10bo6b3o$39boo4b3obboo10bo3bobboo
+$36boobo11bo11b3o4boboo$38bo32bo$32bo3boo34boo3bo$31bo3bo38bo3bo$29b3o
+boo40boob3o$28bo5boo38boo5bo$28bobooboobobo32bobobooboobo$29boo4boboo
+32boobo4boo$32boobo38boboo18bo$29boobobboboo32boobobboboo16bo$29bobobb
+ooboo32booboobbobo14b3o!

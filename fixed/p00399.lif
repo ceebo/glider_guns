@@ -1,0 +1,16 @@
+#C p00399 gun based on Karel Suhajda's p798
+#C Scot Ellison - 19 Aug 2003
+x = 139, y = 55, rule = B3/S23
+16boo$9boo5boo$9boo62boo$45boo27bo25bo$45bo28bobo21b3o$11boo17boo14bo
+11bo16boo20bo$11boo17bo14boo9b3o38boo$5boo21bobo24bo$5boo21boo25boo10b
+oo48bo$67bo25bo21b3o$65bobo25boo19bo$65boo25bobo6boo11boo14boo$42boo
+57boo27boo$42boo37bo$79boo$79b3obboo50boo$78bo5boo50boo$5bo73bo4b3o45b
+oo$5b3o71bo3bobboo44boo$8bo72bo5bo$7boo23boo42boo$32bo18boo23boo11boo$
+33b3o16bo36bo47boo$35bo13b3o38b3o44boo$39boo8bo42bo$39bo23bo$37bobo23b
+3o6boo$37boo27bo5bo27boo$65boo6b3o23bobo$75bo23bo$46bo42bo8boo$oo44b3o
+38b3o13bo$oo47bo36bo16b3o$48boo11boo23boo18bo$61boo42boo$51bo5bo$5boo
+44boobbo3bo$5boo45b3o4bo$boo50boo5bo$boo50boobb3o$58boo78bo$57bo37boo
+39bobo$7boo27boo57boo40boo$7boo14boo11boo6bobo25boo$24bo19boo25bobo$
+21b3o21bo25bo$21bo48boo10boo25boo21boo$83bo24bobo21boo$40boo38b3o9boo
+14bo17boo$41bo20boo16bo11bo14boo17boo$38b3o21bobo28bo$38bo25bo27boo$
+64boo62boo$121boo5boo$121boo!

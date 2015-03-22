@@ -1,0 +1,14 @@
+#C p378 gun; trivial improvement by Scot Ellison  12 Aug 2003
+x = 112, y = 62, rule = B3/S23
+31boobo16boo6boo20boobo7bo$bboo27boboo16bobbo4boo20boboo7b3o$3bo44boob
+oboo40bo14bo$3bobo41bobobo42boo12b3o$4boobboo37bo3boboo52bo$8boo35b3o
+bbobboo42boo8boo$44bo5boo38bobo$31boo11boo46bo$31boo73boo$88bo3boo12b
+oo$88boboboo$91bo5$bboo52boo32boo$bobo16boo34boo11boo20bo$bo18bobo46bo
+19bo$oo20bo47b3o16boo$16boo4boo48bo20boo$16bobbo74bo$18boo32boo37b3o$
+9boo41bo38bo$9boo20boo20b3o$32bo22bo$29b3o$oo27bo$bo109bo$o108bobo$oo
+108boo4$82bo$80b3o$56bo22bo$56b3o20boo20boo$20bo38bo41boo$18b3o37boo
+32boo$17bo74bobbo$17boo20bo48boo4boo$21boo16b3o47bo20boo$22bo19bo46bob
+o18bo$20bo20boo11boo34boo16bobo$20boo32boo52boo5$20bo$18boobobo$4boo
+12boo3bo$4boo73boo$19bo46boo11boo$19bobo38boo5bo$3boo8boo42boobbobb3o
+35boo$4bo52boobo3bo37boobboo$b3o12boo42bobobo41bobo$bo14bo40booboboo
+44bo$17b3o7boobo20boo4bobbo16boobo27boo$19bo7boboo20boo6boo16boboo!

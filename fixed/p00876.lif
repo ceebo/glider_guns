@@ -1,0 +1,14 @@
+#C p00876 From Hersrch - Scot Ellison July 9, 2008
+#C (64+77+116+116+65)*2 - 1 Herschel
+x = 139, y = 58, rule = B3/S23
+91boo7boo$59boo7boo21boo7bobo$59boo7bobo27bobob3o$38bo27bobob3o25boo5b
+o$38b3o25boo5bo30boo22bo$41bo30boo52b3o$40boo83bo$125boo$21bo$21b3o$
+24bo$7boo14boo11boo$7boo27boo$132bo$131boo$boo$boo126b3obbo$5boo124bob
+obo$5boo125bobbo$133boo$$131b4o$oo128bo3bo$oo128boo$89boo$57boo31bo$
+58bo28b3o28boo$37boo16b3o29bo10boo18boo$37bobo15bo43bo$39bo43bo15bobo$
+19boo18boo10bo29b3o16boo$19boo28b3o28bo$48bo31boo$48boo25boo$7boo65b3o
+60boo$4bo3bo64boo62boo$4b4o65boo$88boo$4boo82boo$3bobbo125boo$3bobobo
+124boo$4bobb3o126boo$136boo$6boo$6bo72boo$79boo20boo27boo$101boo11boo
+14boo$74b3o37bo$73bobbo38b3o$117bo$12boo$13bo60bobo$10b3o52boo8boo$10b
+o22boo30bo5boo$33bo5boo25b3obobo$34b3obobo27bobo7boo23bo$36bobo7boo21b
+oo7boo24bo$37boo7boo54b3o!

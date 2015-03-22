@@ -1,0 +1,30 @@
+#C p00813 found using Karel Suhajda's Hersrch program
+#C Scot Ellison - July 24, 2003   
+#C 64 65 64 125 125 125 77 156 176 153 125 125 65 64 117
+x = 166, y = 92, rule = B3/S23
+37bo14boo$35b3o14bo24boo$34bo18b3o6boo13bo$11bo22boo19bo6boo11bobo20b
+oo$11b3o61boo13boo6bo31bo20bo$14bo75boo4bobo29b3o11bo7bobo$13boo81boo
+4boo23bo14b3o6bo$101bobo23boo16bo16bo$99b3obobo38boo14b3o$98bo5boobboo
+49bo$44boo52boo8boo49boo$44boo$$oo84boo$oo84boo49boo25boo$137boo18bo6b
+o$156boo3boobo$47boo106b4o4bo$48bo25boo78boo3bo$45b3o13boo3boo6boo3bo
+75bo$45bo6bo9bo3bo11bobo68boo8bobo$50b3o6b3o5b3o9bobo58boo6bobo8boo$
+49bo9bo9bo11bo38boo19bo6bo$9boboo36boo30boo37bobo17bo6boo5bobo$7b3oboo
+109bo17boo13bo$6bo17boo96boo$7b3oboo11boo$9bobo102boo$9bobo102bo8boo$
+10bo104b3o5boo26boo$62boo44boo7bo32bobo$62boo44boo40bo$149boo$8boobo$
+8boboo91boo30bo29bo$103bobo28bobo26bobo$9b5o91bo28bobo27boo$4boobbo4bo
+91boo26boob3o$4bobbobbo128bo3bo$5boboboo81boo19boo18boob3o4b3o$4boobo
+5bo37boobo37boo20bo18boobo9bo$7bo4bobo36boob3o42boo13bobo28boo14boo$7b
+oobbobbo23boo17bo41boo5boo7boo44boo$12boo24boo11boob3o49boo$52bobo14b
+oobo6boo$52bobo14boboo5bobbo$5boo46bo24bobo23boo$4bobbo62b5o4bob4o19b
+oo$4bobobbo55boobbo4bo5booboo25boo$5bo3bo55bobbobbo9bo28boo$9bo11boo
+43boboboo$6bo15boo41boobo5bo$7boo12bo4boo40bo4bobo59boo$26bo41boobbobb
+o59boo$27b3o43boo87boo$29bo132bobo$164bo$24bobo137boo$23boboo$21b3o$7b
+oo11bo4boo65booboo$7boo11b5obo64bobobobo$7boo15bo66bobobbo$7boo11boo3b
+o64boobo$6bobbo10bobo3bo62bo3boo$5bobbo12bo3boo63bobobbobo$4bo35bo43b
+oo3booboobboo20boo32boo$b4o33b3o13bo29bobo31boo32boo$b6o6bo3b3o17bo16b
+3o29bo$12bobobb5o15boo18bo28boo$12bo8boo33boo$13b3o4boo$8b3o4boo3bo$7b
+oobo$bboobbo$bboo3boo$8bo$46boo50boo32boo$8boo36boo49bobo31bobo$8boo
+13boo72bo18boobo11bo18boobo$22bobo71boo18boob3o8boo18boob3o$22bo99bo
+33bo$21boo10boo23boboo21boo31boob3o28boob3o$34bo21b3oboo21boo32bobo31b
+obo$31b3o9boo10bo21boo38bobo31bobo$31bo11bo12b3oboo15boo39bo33bo$44bo
+13bobo$43boo13bobo$59bo19boo$72boo5boo$72boo32boo32boo$106boo32boo!

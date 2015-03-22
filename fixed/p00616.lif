@@ -1,0 +1,18 @@
+#C P00616 - Trimmed 2 rows with N. Beluchenko's p4 toadsucker.
+#C Technique identified by J. Summers.  - 21 Jan 2005 (S. Ellison)
+x = 102, y = 48, rule = B3/S23
+7bo79bo$bboo3bobo4bo66bo5boobobb3obboo$bbobboobboboboobobb3obboo50boo
+3bobobobooboboboobboo$4boo7booboboboobboo50bobboobbo4bo6b3o$3b3o7bo7b
+3o54boo17bo$23bo53b3o17bo$23bo$85b3o$9boo4bo75boo$9boo4bo69bobo3boo$
+14bobo69bo$29boo40boo$13booboo11bo42bo$9boo3bobo3boo5bobo42bobo9bo3bo
+11bo$6b5o3bobo3b5ob3o44boo8bo5bo6bo$oo3b3obbo4bo4bobb4o68bo5bo$oobboo
+3bo5bo5bo3boo4boo7bo20bo7boo13bo3bo6bobooboo$5bo19bo5boo5b3o20b3o5boo
+14b3o8bo$6b3o13b3o12bo26bo$37boo24boo$$6b3o13b3o9b3o37boo$5bo19bo8bobo
+31boo3b4o8b3o8bo$oobboo3bo5bo5bo3boo7bo37boo3bo6bo3bo6bobooboo$oo3b3o
+bbo4bo4bobb3o12bo34bobboo17bo5bo$6b5o3bobo3b5o9booboo22bo12b3o6bo5bo6b
+o$9boo3bobo3boo12boobbo22bobo11bo8bo3bo11bo$13booboo18bo24boo$$14bobo
+69bo$15bo69bobo$15bo$30boo38boo13b3o$30bo40bo$31b3o14boo18b3o$33bo13bo
+bbo17bo16boo$10boo8boo26b3o13boo14boobo4boboo$10bobb6obbo27bo14boo14bo
+10bo$11boo6boo60boo6boo$8b3o10b3o54b3obb6obb3o$8bobbobo4bobobbo40b3o
+11bobbo8bobbo$9boo4boo4boo42boo12boo10boo$62boo$62b3o$63bobo$60bo3boo$
+61bo$59b3o!

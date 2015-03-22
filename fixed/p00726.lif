@@ -1,0 +1,15 @@
+#Cp00726 found using Karel Suhajda's Hersrch program
+#CScot Ellison - May 2003
+#Ctwo rows shaved by Karel Suhajda, 19 Aug 2003
+x = 101, y = 68, rule = B3/S23
+63boo4bo$54boo7bobobbobo$55bo9b4obbo$55bobo6bo4bobo$56boo6boobbooboo$
+74bo$68boob4obbo$33boo33boobo3b3o$34bo39bo$34bobo26boo9boo$35boo25boo$
+16boo46bo$9boo5boo37bo$9boo43b4o34boo$53bo3bo34boo$54b3obo3boo$11boo
+17boo23b3o$11boo17bo26bo40boo$5boo21bobo67boo$5boo21boo64boo$94boo4$
+99boo$36boo24boo35boo$bboo32boo11boo10bobo4boo$3bo45bo11bo6bo$3bobo44b
+3o7boo7b3o$4boo46bo6bo11bo$60bobo$59boob3o$65bo$64boo$35boo$35bo$36b3o
+boo$38bobo$29bo11bo6bo$29b3o7boo7b3o$32bo6bo11bo$31boo4bobo10boo11boo$
+oo35boo24boo35bo$oo96bobo$99boo3$5boo$5boo64boo21boo$boo67bobo21boo$b
+oo67bo17boo$69boo17boo$$7boo$7boo81boo$83boo5boo$83boo$64boo$25boo37bo
+bo$26bo39bo$23b3o3boboo33boo$23bobb4oboo$26bo$28booboobboo6boo$29bobo
+4bo6bobo$29bobb4o9bo$30bobobbobo7boo$31bo4boo!

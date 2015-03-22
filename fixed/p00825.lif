@@ -1,0 +1,21 @@
+#Cp00825 gun
+#CConstructed using p00275 gun and Scot Ellison's period tripler
+#CKarel Suhajda, 9 Aug 2003
+x = 190, y = 50, rule = B3/S23
+16boo66boo7boo$9boo5boo39bo9bo15bobo7boo$9boo46b3o5b3o13b3obobo27bo14b
+oo$45boo13bo3bo15bo5boo25b3o14bo24boo$45bo13boo3boo14boo30bo18b3o6boo
+13bo$11boo17boo14bo65boo19bo6boo11bobo$11boo17bo14boo106boo13boo$5boo
+21bobo137boo$5boo21boo$$21b3o78bob3o67boo$21boboboo73boobo3bo66boo$21b
+obobbo15boo57bo4boo14boo46boo$26b3o13boo58b4obo14boo46boo$27boo$27bo$$
+5bo169boo$5b3o167boo$8bo64boo50boo$7boo23boo19bo6boo11bobo50bo$32bo18b
+3o6boo13bo49bo13boo3boo$33b3o14bo24boboo46boo13bo3bo32boo6boo$35bo14b
+oo24bob3o56b3o5b3o27bo4bobbo4bo$81bo13boo40bo9bo27bo4bobbo4bo$29bo9bo
+40boo13bo79bo4bobbo4bo$29b3o5b3o56b3obo24boo14bo35boo6boo$32bo3bo13boo
+46boobo24bo14b3o$31boo3boo13bo49bo13boo6b3o18bo$50bo50bobo11boo6bo19b
+oo35bobbo$50boo50boo74bob4obo$oo175bobbobbobbo$oo175bobbobbobbo$178boo
+4boo$149bo$148boo$5boo46boo14bob4o58boo13b3o$5boo46boo14boo4bo57boo15b
+obbobo$boo66bo3boboo73boobobo$boo67b3obo78b3o$$147boo21boo$7boo137bobo
+21boo$7boo13boo106boo14bo17boo$21bobo11boo6bo19boo65bo14boo17boo$21bo
+13boo6b3o18bo30boo14boo3boo13bo$20boo24bo14b3o25boo5bo15bo3bo13boo$45b
+oo14bo27bobob3o13b3o5b3o46boo20bo$82boo7bobo15bo9bo39boo5boo21bo$82boo
+7boo66boo26b3o!

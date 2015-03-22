@@ -1,0 +1,13 @@
+#Cp36 gun
+#CAdam P. Goucher reduced this gun to two engines
+#C and a p4, 19 Jan 2010
+#CS Ellison reduced the size of the p4 oscillator, 4 April 2010
+x = 50, y = 49, rule = B3/S23
+48bo$46b3o$45bo$45boo5$43bo$42b3o$33boo7boboo$32bobbo$32bobobbo$33bo3b
+o$37bo7bo$34bo8b3o$35boo7bo$41bobbo$41b3o$$38b3o$37bobbo$37bo7boo$36b
+3o8bo$26boo8bo7bo$oo23bobbo15bo3bo$bo21bobbobo15bobbobo$bobo7bo10bo4bo
+18bobbo$bboo3boobbo3bo6bo13boobo7boo$6bo5bobb3o6b3o10b3o$5boobbobo3b3o
+20bo$6boo3bo$7b3o$29b3o$27bo3boo$21b3o3bobobboo$12b3o6b3obbo5bo7bo$16b
+o6bo3bobboo6bobo$11bo4bo10bo11boo$10bobobbo$10bobbo$11boo11bo5b4obboo$
+23bobob8obbo$23bob12o$20boobobo11b3o$20booboo11bobbo9bo$23bo13boo8bobo
+$23bobo4boo16boo$24boo4boo!

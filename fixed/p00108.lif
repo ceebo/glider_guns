@@ -1,0 +1,19 @@
+#Cp108 gun
+#CAdam P. Goucher reduced the p36 gun to 2 engines
+#C and a p4, 19 Jan 2010
+#CS Ellison reduced the size of the p4, 4 April 2010
+x = 102, y = 51, rule = B3/S23
+48bo4bo$46b3o4b3o$45bo10bo$45boo8boo4$44bo$41b4o$40bo$33boo5boboo23boo
+$32bobbo6boo22bobbo$32bobobo7bo13bo6bobobo$33bob3o5b4o10b3o3b3obbo$35b
+o6bo13boobbo$35boo5boo3bo10b3o4boo$35boo5boobbo19bo$44boo4$36boo$35bo
+bboo5boo8bo$34bo3boo5boo8boo4b3o$26boo11bo6bo14bobboo8boo$oo23bobbo6b
+4o5b3obo4bobb3o3b3o8bobbo23boo$bo24bobo8bo7bobobobbobobo6bo9bobo24bo$b
+obo18b4obo10boo6bobbobbobbo18bo3boo8bo9bobo$bboo6bo11booboo10bo3bo5boo
+4boo20boobo8b4o7boo$11bo4bobo6bo11bo3bo34bo8b5obo$16bobbo17bobbo35bo7b
+o6boo$7bo3bo3bobbo15boo47bo3bob3o$7bo8boo15bobbo42bo4bo3b3o$8boo11boo
+11boo38b3o3bo4bo$20bobbo39bo9b3obo3bo$19bobbo40bobo6boo6bo7bo$13bo6bob
+o40boo8bob5o8bo$12booboo57b4o8boboo$11bob4o59bo8boo3bo$10bobo17bo12bo
+45bobo$10bobbo15bo14bo43bobbo$11boo11bo11boo4b3o19boobb4o5bo11boo$23bo
+bo11bo26bobb8obobo$23bobobb9o17bo10b12obo$20boobobbob7obb3o14bobo5b3o
+11boboboo$20boobo4b6obbobbo14boo6bobbo11booboo$23bo13boo24boo13bo$23bo
+bo4boo38boo4bobo$24boo4boo20bo17boo4boo$53bo$51b3o!

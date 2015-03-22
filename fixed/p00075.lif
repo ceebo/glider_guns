@@ -1,0 +1,20 @@
+#CPseudo p75 gun
+#CKarel Suhajda, 8 Mar 2004
+x = 85, y = 65, rule = B3/S23
+38boo$37bobo$22bobo11bo6boo$17bo4bobbo10bobbobbobboboo11boo$18boo5boo
+9bo6boobboo11bobo$13boo8bo3boo8bobo15boo6bo11bobo$13boo10boo11boo11boo
+bobbobbobbo10bobbo$22bobbo8bo16boobboo6bo9boo6boo$22bobo10boo23bobo8b
+oo3bo3bobbo$34boo24boo11boo6boo$65bo8bobbo3boo$22bo40boo10bobo3bo$20b
+4o40boo14bobo$11boo5b4oboo55bobo$9bobbo3bo3boob3o8boo45bo$oo6bo7bo3boo
+boo9boo5bobo$oo6bo6bo3b5o18boo$8bo7b3o3bo19bo35boo3boo$9bobbo43bobo19b
+obobobo$11boo26boo15boo21b5o$39bo17bo22b3o$24bo12bobo41bo$25boo10boo
+15bo$24boo23boo3boo$54bobo$55boo$10boo$10boo$27boo3bo17b3o27boo$27boo
+3boo46boo$32bo22bo15boo$54bo17bobboo$10bo43bo17bobobbo$10bo9bo25boo23b
+ooboboboboo$9bobo8boo25bo24bo5boobo$8booboo6bobo22b3o23bo3b3o$7bo5bo
+25bo4bo10bo13bob3obob4o$10bo29boo13bo8bo4bo11bo$7boo3boo25boo14bo9boo
+3b3o5b3o$64boo6bo5bo$73b5o$12b3o$12boboo$14boo$13boo$11bobo$9boobbo22b
+o25boo$34bobo25boo$33bobo$27boo3bobbo$27boo4bobo$34bobo$10b5o21bo$9bob
+3obo43boo$10bo3bo44bo6booboboo$11b3o46bo3b3obobob3o$12bo46boobbo11bo8b
+o$45boo3boo11bob3obob4o7bobo$36bobo8b3o14bo3b3o12boo$36bobbo6bo3bo15bo
+boboboobo$11boo14boo10boo6bobo15booboboboboo$11boo14boo8bo3boo5bo17bob
+obbo$32boo5boo25bobboo$31bo4bobbo25boo$36bobo!

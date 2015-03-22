@@ -1,0 +1,22 @@
+#C p00968 Doubled the 484 gun - Scot Ellison July 2, 2008
+#C (64+64+158+77)*2 - P22 Pulse divider - p8 doubler - 3 Herschels
+x = 127, y = 68, rule = B3/S23
+57bo4boo$56bobobbobo7boo$55bobb4o9bo$55bobo4bo6bobo$54booboobboo6boo$
+52bo$49bobb4oboo$49b3o3boboo$52bo$51boo33boo6boo$86boo4bobbo$92boobob
+oo10boo$95bobobo9boo5boo$33boo57boobo3bo16boo$33boo57boobbobboo$95boo$
+114boo$27boo3b3o52boo25boo$27boo3bo53bo33boo$32boobo5boo77boo$34boo8bo
+44bo$39boo4boo41bobo$38boo6bo41bobo7bo$37b3obboobbo50bobbo$26boobboo
+10boobo51bo3bo$26booboo32boo24boo6bo3bo$11bo18boo25boo4bobo10boo11boo
+5boo3bo21boo$9b3o19b3o24bo6bo11bo19bobbo22bo$8bo23boo21b3o7boo7b3o44bo
+bo$8boo23bo21bo11bo6bo46boo$64bobo35booboo$32boo11boobbooboo8b3oboo33b
+obobobo$5boo25boo11bobobbobo8bo39bobobbo$4bobbo40boo3bo7boo37boobo$4bo
+3bobbo37boboo37boo7bo3boo$5b5obbo33bobbobo39bo8bobobbobo$8b3o34bobobob
+o33boob3o8booboobboo$8boo36booboo35bobo$9boo67bo6bo11bo$3boo4boo7boo
+56b3o7boo7b3o$3boo13boo55bo11bo6bo$4boo56boo11boo10bobo4boo$3b3o56boo
+24boo35boo$bobb5o116boo$bbobbo3bo$6bobbo$7boo$120boo$31boo87boo$o3boo
+25boo91boo$5bo7boo22boo44bo40boo$bb3o8boo22boo43bobo4boo$bbo53boo22boo
+5bo$52boobbobboo19bobboo3bo29boo$35boo16bo3boboo19b3o35boo$21boo12boo
+5boo9bobobo$21bo20boo10booboboo28bo$22b3o32bobbo4boo22bobo$24bo32boo6b
+oo22boo9boo$100bo$11boo81boobo3b3o$12bo14bo66boob4obbo$9b3o10b3oboobb
+oo68bo$9bo12b4o4boo50boo6boobbooboo$26boo53bobo6bo4bobo$41bo39bo9b4obb
+o$42bo37boo7bobobbobo$40b3o46boo4bo!

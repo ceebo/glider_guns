@@ -1,0 +1,20 @@
+#C 22 Jan 2001 David Eppstein wrote: "This is pretty much the obvious
+#C construction for a p880 gun: add a p5 period-doubler to a p440 gun.
+#C But the new p22 technology makes this somewhat smaller than
+#C Leithner's p880 (which crashed two p44 glider streams to produce a
+#C p220 Herschel stream, then period-quadrupled the Herschels)."
+#C 21 Apr 2004 - Scot Ellison - Welding brings in the p44 component.
+x = 74, y = 63, rule = B3/S23
+60bo$9boo10boo35b3o$8bobbo8bobbo33bo$8b3obb6obb3o33boo$11boo6boo$10bo
+10bo33bo$10boobo4boboo32bobo$15boo36bo3bo$53bobbo$53bobbo$54boo4$29boo
+$15bo13bo$14b3o10bobo26boo$13b5o9boo26bobbo$oo10boo3boo36bobbo12bo$oo
+9boo5boo11boo7bo13bo3bo10b3o$12boo3boo12boo5b3o14bobo10bo$13bo3bo19bo
+18bo11boo3bo$37boo$53boo4bo$13bo3bo36bo3bo6b3o$12boo3boo32b3o4b3o3bob
+oo$oo9boo5boo4bo7bo18bo12bobbo$oo10boo3boo3boo7b3o31boo3bo$13b5o12b5o
+30boo$14b3o8boobboo3boo17bo$15bo7bob3obb5o18bobo$25bobo3b3o19boo$27bo
+4bo$26bo$47b3o17boo$30boo31bo3boo$30bo20bo14bobbo$31b3o17bo14boobo$14b
+oo17bo5boo10bo14b3o$9boobo4bobooboo15boo$9bo10bobo24b3o$10boo6boo3bo3b
+o36boo$7b3obb6obb3obobobo36bo$7bobbo8bo4bobobo33b3o$8boo10b5oboboo24b
+oo6bo$26bobbo20boobboobboo$22b4obbo21boobbobbobo$21bo3boobbo26b3o$21bo
+b3obbo27boo$22bo3bobbo4boo$23booboboo4boo$24bobobo$23bobbobo$23boobbo$
+42boo$42bo$43b3o$45bo$$32boo$33bo24bo$30b3o26bo$30bo26b3o!

@@ -1,0 +1,18 @@
+#Cp279 - Scot Ellison - May 19, 2003
+#Cbounding box optimized by Karel Suhajda, 28 Aug 2003
+x = 114, y = 77, rule = B3/S23
+19boo$12boo5boo$12boo$$51boo$33boo8boo6bo31bo$15boo9boo5bo9boo4bobo29b
+3o11bo$8boo5boobobobo3boo3bobo15boo4boo23bo14b3o$8boo5boobbobobo7boo
+21bobo23boo16bo14bo$21bobo28b3obobo38boo12b3o$51bo5boobboo38boo7bo$51b
+oo8boo39bo7boo$95bo$94bo5boo$16boboo19boo52boo14boo$16b3o20boo49boobb
+oo4boo7boo$17bo72boo3bo$100bo$28bo$27bo3bo$27bo4bo$5boo21bo4bo$6bo24b
+oobo58boo$6bobo25bo38boo19bo$7boo25boo37bobo16bo$75bo16boo$75boo19boo$
+97bo$67boo25b3o$67bo26bo$68b3o$61boo7bo$61boo$113bo$88bo22bobo$56boo
+30b3o21boo$8boo46bobo32bo$8boo14boo32bo31boo14boo$oo22bo33boo46boo$bo
+23b3o$bobo23bo17boo$bboo41boo8$40boo7boo26boo$40boo7bobo25bo14boo13boo
+$47bobob3o21bobo14boo13bobo$47boo5bo20boo32bo$43boo8boo54boo$43boo$$
+47b3o$47bobboobobo$47b6o5b3o45bo$51boo3boobbo44boo$54b4oboo$bboo44boo
+6b3o44b3obbo$bobo33bo10boo55bobobo$bo34bo69bobbo$oo34b3o68boo$14bo$13b
+o3boo$9boobo5bo11boo42boo$9bo6boboboo8boo29boo11boo$10b4obooboboo40bo$
+16bobo40b3o37boo$12b3obobo40bo39bo$11bo3bobo82b3o$11boobbo22boo38boo
+22bo$14boo23bo39bo$36b3o37b3o$36bo39bo!

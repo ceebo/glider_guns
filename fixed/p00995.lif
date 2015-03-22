@@ -1,0 +1,23 @@
+#C p00995 found using Karel Suhajda's Hersrch program
+#C  Scot Ellison - 4 November 2003
+#C Reduced by 8 cols and rows with smaller P5, Scot Ellison 4 May 2007
+x = 115, y = 96, rule = B3/S23
+78boo4bo$69boo7bobobbobo$70bo9b4obbo$70bobo6bo4bobo$71boo6boobbooboo$
+89bo$44boo7boo28boob4obbo$17bo25bobo7boo28boobo3b3o$17b3o21b3obobo41bo
+$20bo19bo5boo41boo$13boo4boo19boo$3boo8bo85b4o$4bo5boobo84boboobo$3bo
+5boboboo83boobboo$3boo4bo88boobboo$6booboo87boboobo$b5oboboboo86b4o$o
+8bobobo$oo3b4obooboo98boo$4bo5bo3bo98bo$5boo7bo84boo10bobo$5boo7bo83bo
+bbo9boo$4bo5bo3bo82boobbo$oo3b4obooboo83boobbo$o8bobobo85b4o5boo$b5obo
+boboo64boo29boo$6booboo65bobo4boo$3boo4bo66bo6bo7boo$3bo5boboboo60boo
+7b3o4boo$4bo5boobo72bo$3boo8bo41boo$13boo40bo$56b3o11boo28boo$9bo48bo
+11boo28boo$9b3o$12bo$11boo28boo$41bo$39bobo40bo$35boobboo40bobo$35boo
+44bobo30bo$80boob3o26bobo$86bo3bo22boo$60boo18boob3o4b3o$34boo4boo19bo
+18boobo9bo$34boo4boo19bobo28boo14boo$62boo44boo4$7boo$6bobo$6bo$5boo$
+9boo$9boo3bo$13bobo6boo58boo$14bobo5boo29booboobboo20boo$16bo37bobobbo
+bo47boo$16boo35bo3boo50bobo$54boobo53bo$55bobobbo50boo$55bobobobo$56b
+ooboo6$28boo$27bobo69boo$27bo71boo$26boo$$74boo$32bo14bo26boo$30b3obb
+oo6boobb3o18boo$29bo7b6o7bo17boo$29boboo3boo4boo3boobo$28boobo16boboo$
+29bobb5o6b5obbo19boo$29bo8bobbo8bo12boo5boo7boo$30b3oboobo4boboob3o13b
+oo13bobo$32bobobboobboobbobo30bo18boobo$32bobboboboobobobbo29boo18boob
+3o$33bobobo4bobobo56bo$32boobobo4boboboo49boob3o$35bo8bo53bobo$35bobo
+4bobo53bobo$36boo4boo55bo5$87boo$87boo!

@@ -1,0 +1,19 @@
+#Cp154 glider gun, DE 8/27/00
+x = 70, y = 62, rule = B3/S23
+56bo$54b3o$53bo$53boo3$18boo13boo$19bo6b3o3bobbo14boo$19bobo5bo3bo17b
+oobbobo$20boo4bo4bobboboo11bo3boboo$27bobbobob3o10boob3oboo$26b3obobo
+bbo11boobobo$25boobobbo4bo4boo5b6o$31bo3bo5bobo5boobboo$27bobbo3b3o6bo
+6b6o13bo$23bo4boo13boo6boboboo$24bo23boob3oboo$oo7bo5boo5b3o22boobo3bo
+$bo6b3o3b3o31bobobboo12bo$bobo6bobboobboo33boo11b3o$bboo4boobb5oboo44b
+o$10b3obobobbo9bo34boo$7bobbobob3o10bobo26bo$7boob5obboo4boo3boo19boo
+5bobo$8boobboobbo6bobo24bo5boo$10b3o3b3o6bo21b3o11bo$10boo5bo7boo20bo
+13boobobo$51bo7bobbooboo$33bobboo12bo7bobboo3bo$34bo4bo10b3o5bo$33bo5b
+oo18bobboo$33bo8bo17boobboo$33bo4bobobbo18boobbo$34bo3boo5boo20bo$42bo
+4bo11bo3boobbo$38bo3bo5bo10booboobbo$36b3obboobobbo11boboboo$42bo4bo
+16bo$11boo27bobobobo$10bobboo15boo7bobobbobbo$10bo3bo7bo7bo7booboobbob
+oo$10bo4bo4booboo3bobo7b3oboobboo12boo$11bob3obo10boo9boobbobbo14bo$
+11bobo3bo5boo7bo7bobo15b3o$12boo5bo3bobo6boo24bo$7boo10bob3obo5bobo$6b
+obo3booboo4bo4bo$6bo7bo7bo3bo$5boo15boobbo$24boo3boo$28bobbo16boo$28bo
+bboo7bo7bo$29b3o7bobo4bobo$29boobboo3booboo3boo$33b3obbooboo$30booboo
+bb3o$25boo3booboo3boobboo$24bobo4bobo7b3o$24bo7bo7boobbo$23boo16bobbo
+22bo$42boo24bo$18bo47b3o!

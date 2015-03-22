@@ -1,0 +1,19 @@
+#Cp00529 found using Karel Suhajda's Hersrch program
+#C Scot Ellison - May 2003
+#CMinor bounding box improvement - Scot Ellison - July 17 2003
+x = 117, y = 100, rule = B3/S23
+72bo$72b3o16boo$75bo15boo5boo$18boo54boo22boo$18boo42boo$63bo$62bo33b
+oo$12boo48boo32boo$12boo88boo$16boo84boo$16boo$$37boo$37boo26boo$11boo
+52boo$11boo5$35boo$34bobo38boo$34bo41bo$33boo25boo11b3o$60boo11bo35boo
+$109bo$107bobo$46boo59booboo$47bo62bo$44b3o63bobo$44bo42boo20boob3o$7b
+o48boo30bo26bo$7b3o46bo31bobo18booboobbo$10bo46b3o29boo18booboboo$9boo
+14boo32bo54bo$25boo87bo$36boo74boboo$36bo75boobbo$37b3o50boo14bobo6boo
+$39bo51bo15boo$88b3o16bo$88bo12bo$101bo$100bo$112boo$112bo$103b3o7b3o$
+26boo73bobbo10bo$26bobo72bobo$28bo58boo12b3o$13b3o12boo58bo$13bobo72bo
+bo$bo10bobbo73boo$b3o7b3o$4bo$3boo$16bo$15bo$15bo12bo$9bo16b3o$8boo15b
+o51bo$oo6bobo14boo50b3o$obboo75bo$boobo74boo$bbo87boo$bbo54bo32boo14b
+oo$booboboo18boo29b3o46bo$obbooboo18bobo31bo46b3o$bo26bo30boo48bo$bb3o
+boo20boo42bo$4bobo63b3o$6bo62bo$5booboo59boo$7bobo$7bo$6boo35bo11boo$
+41b3o11boo25boo$40bo41bo$40boo38bobo$80boo5$104boo$50boo52boo$50boo26b
+oo$78boo$$99boo$13boo84boo$13boo88boo$19boo32boo48boo$19boo33bo$53bo$
+53boo42boo$17boo78boo$17boo5boo18bo$24boo19bo$43b3o!

@@ -1,0 +1,17 @@
+#Cp00855 gun
+#CKarel Suhajda, 16 May 2003
+#Cbounding box improved 9 Apr 2003
+x = 130, y = 79, rule = B3/S23
+48boo14bo25bo$23boo24bo14b3o21b3o$24bo13boo6b3o18bo19bo$24bobo11boo6bo
+19boo19boo$10boo13boo$10boo3$4boo$4boo87boo$8boo46boo35bobo$8boo46boo
+37bobboo$93bobobobo$92bobbobo$91bo5bobbo$3boo90bobb3o$3boo89b4o$53boo
+37bo5bo$53bo38b6o$34boo3boo13bo$35bo3bo13boo39boo$32b3o5b3o51boo$32bo
+9bo5$10boo$11bo$8b3o$8bo$23boo$23bobo$25bo$25boo$27bo74boo14bo$25b3o
+74boo12b3o$24bo90bo$24boo89boo4$82boo$81bobo$26boo53bo$26boo52boo46boo
+$bboo124boo$bobo88bo$bo89booboo$oo88bob4o$89bobo$89bobbo$90boo$$36boo
+39bo$21boo14bo25bo13b3o37boobo$21boo14bobo21b3o16bo36boob3o$38boo20bo
+18boo23boo17bo$60boo42boo11boob3o$118bobo$118bobo$16bo102bo$15b3o$8boo
+4bobboo$8boo4bo3bo7boo$8bo6boobo7boo42boo$6bob3o6boo51boo$5bobobo83boo
+$5bobbo84bobo$6boo87bo$83boo10boo$83bo$18boo19boo32boo9b3o$18boo19boo
+11boo20bo11bo$52bo20bo$14boo37b3o17boo$15bo19bo19bo$12b3o21bo$12bo21b
+3o!

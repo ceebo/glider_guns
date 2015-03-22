@@ -1,0 +1,19 @@
+#C p744 gun based on Dave Greene's p232
+#C Scot Ellison - 15 November 2005
+x = 99, y = 68, rule = B3/S23
+58bo$$53boo$51boboo9boo12bo$41bo8bo12bobbo9b3o$41b3o9bo8bobobo8bo$44bo
+4boobo9boboboo7boo$43boo4boo9boobobo3bo$60bobbobboobo3bo$46bo10boobobo
+bo4bobbobo$45bobo9bobboobboboo5boobboo$41boobboo11boo3bobbo10boo11boo$
+41boo17booboobo22bobo$60bo4bo23bo$61b4o18boobboob4o$62bo20bobbo3bobbo$
+60bo24boobo5boo$60boo24bo4b3obbo$86boboo4boobo$87bo3bobo3bo$88b3o3b3o$
+90bobobo$91b3o$92bo$$15boo$8boo5boo75bo$8boo81bobo$30boo10bo9bo38boo$
+29bobo10b3o5b3o42boo$10boo19bo13bo3bo45bobo$10boo32boo3boo39boo5bo$4b
+oo84boo5boo$4boo4$58bo$$35boo19bob3o$35boo21boobo$47boo9boboo$46bobbo
+9b3obo$47boo4boo$53bobo5bo$bo53bo9bo$b3o51boo7bobo$4bo40boo18boo$3boo
+41bo14boo23boo5boo$43b3o14bobo23boo5bo$30boo11bo16bo5boo23bobo$30boobb
+oo23boo5boo23boo$34bobo50boo$25bo9bobboo26boo19bobo$23b3o40bo21bo3bo$
+22bo9boobbo3bo27bo22boo$22boo9bobbo4bo25b4o19boboo$30b3o5bobobo23bo4bo
+17b3obbo$30bo8bobobo22bobobobo18bobobo$oo38bo4bo18boo4bobo10boo7bobobo
+$oo39bo3bo17bobboo4boo5boobboo8bobb3o$63boobobbobobbo3bobo13boobo$42b
+oo22bobbo3b3o3bo15boo$66boobobobbo20bo$17bo50boboboo7boo$9boo5bobo8bo
+40bobobo8bo$9boo6bo10bo40bobbo9b3o$26b3o41boo12bo!

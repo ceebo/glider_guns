@@ -1,0 +1,25 @@
+#C p00795 gun constructed using period tripler on p00265 gun
+#C Karel Suhajda, 9 Apr 2003
+#C Shaved four rows by moving the p15 - Scot Ellison, 5 Dec 2003
+x = 149, y = 73, rule = B3/S23
+92bo$92b3o$15boo78bo$16bo77boo29boo$15bo109boo5boo$15boo34bo12boo66boo
+$7bo42bobo12bo$7b3o40bobo11bo$10bo40bo12boo45boo17boo$9boo101bo17boo$
+112bobo21boo$18boo93boo21boo$18boo$39boo23bo$39boo12b3o6boobobo$54bobb
+o4boo3bo$55b3o$63bo$48b3o4bo7bobo$28boo18b3o$29bo17bo3bo4bo$26b3o8boo
+6boo$26bo9bobo6boo30boo$24bobo9bo8boo6bo24bo30boo16boo$16bo7boo9boo13b
+oobo8boo11b3o25boo5bo15boo$15b3o29boo13boo11bo27bobob3o18bo$14booboo
+77boo7bobo35boo$oo16bo77boo7boo36bo$oboboo18boo22boo84boo5bobo$bboboo
+10bo7bobo22bo82bobbo5booboo$bo13boo9bo19b3o82b3obbo7bobo$booboo8boobo
+8boo18bo88boo7bobo$bbobo53boo61boo8b3o9booboo$bbobo53bo63bo7bo5bo10bo$
+3booboo51b3o60bobo5boobboo7boobo$5bobo5bo11boobbooboo27bo61boo5bobbo9b
+oobobo$5bo6boo11bobobbobo98b3o13boo$4boo22boo3bo$29boboo$26bobbobo59b
+oo7boo21boo$21bob3obobobbo31bo9bo15bobo7boo20bobo$22b3oboob3obbo29b3o
+5b3o13b3obobo27bo$11boo9bo9b3o17boo13bo3bo15bo5boo25b3o$10b4o17bo20bo
+13boo3boo14boo8boo20bo$9bo4bo16boo20bo43boo20boo$8boo4boo36boo$8boo4b
+oo$9bo4bo69boboo$10b4o69bobboobb3obbo$11boo70bo6booboobo$83boo4boobbo
+bbo$49boo34bo8bo8bo25boo$49boo36boo6bo8bo24boo$17boo83b3o$12boobbobbo
+118boo$9bobbo4bobo118bo$8bobobo5bo120b3o$9bobboboo94boo29bo$12bobbo64b
+oo28boo20boo$13bo4bo7b3o31bo6boo11bobo50bo$14b5o8bo6boo22b3o6boo13bo
+49bo$27bo5boobo20bo24boo48boo$13boboo9b3o3bo3bo20boo$13boobo15b4o66boo
+$26b3o4boo67bo$26b3o4boo68b3o$32b4o69bo$26b3o3bo3bo$27bo5boobo$27bo6b
+oo$26b3o23bo$53bo$51b3o!

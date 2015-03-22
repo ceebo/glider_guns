@@ -1,0 +1,14 @@
+#C p658 gun, improved by better gluing of two eaters, DE 2/23/03
+x = 64, y = 51, rule = B3/S23
+44bo3bo3bo$42b3obbobobb3o$41bo5bobo5bo$40bob5obob5obo$40bobo3bo3bo5bo$
+11bo3bo3bo21bobooboboboboobo$9b3obbobobb3o20bo5boobb3o$8bo5bobo5bo$7bo
+b5obob5obo22b4obo$7bo5bo3bo5bo19boo4b4o$8bobobobbobobobbo22bo4bobo$9b
+oo3b3oboobo$17boboo40bo$14b3oboo39b3o$11b4o4bo38bo$11bo4boobo38boo$$bb
+o36boo$bb3o34boo6bo$5bo40b3o13boo$4boo39b5o12bo$14boo28boo3boo9bobo$
+13boobo6boo20b5o10boo$11b3obboo5boo16boo3b3o$oo8boo4boo22bobo4bo$bo8b
+oo5boo21bo$bobo14bo18boobo$bboo12boo17b3obo22boo$16bo4boo11bo27boo$21b
+obo10boo$23bo$23bobo4boo$oo7bo14boo4boo$oo7bo$8bo$50bo4boobo$50b4o4bo$
+53b3oboo$56boboo$48boo3b3oboobo$5bobo4bo34bobobobbobobobbo$5b4o4boo31b
+o5bo3bo5bo$6bob4o34bob5obob5obo$47bo5bobo5bo$3b3obboo5bo32b3obbobobb3o
+$bbobooboboboboobo33bo3bo3bo$bo5bo3bo3bobo$bob5obob5obo$bbo5bobo5bo17b
+o$3b3obbobobb3o19bo$5bo3bo3bo19b3o!

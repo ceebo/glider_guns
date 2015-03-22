@@ -1,0 +1,21 @@
+#C p182 - Scot Ellison - May 15, 2003
+#C Herschel track Fx77 L156 Fx158 R64 Fx77 L156 Fx158 R64
+#C Results from Karel Suhajda's Hersrch program.
+x = 100, y = 75, rule = B3/S23
+18boo15boo27bo20bo$11boo5boo16bo25b3o11bo7bobo$11boo23boboo8bo12bo14b
+3o6bo$34bobobo7b3o12boo16bo16bo$34boobbo6bo32boo14b3o$13boo23bobo4boo
+46bo$13boo24boo52boo$7boo$7boo33bo$41bobo$40bobbo27boo25boo$40bo30boo
+18bo6bo$40bobbo46boo3boobo$40b3o46b4o4bo$38b3o47boo3bo$89bo$37bobbo11b
+oo29boo8bobo$36bobobbobbo7boo20boo6bobo8boo$36bo6boo30bo6bo$37bo36bo6b
+oo5bobo$37bo36boo13bo$4boo9b3o21bobb3o$5bo11bo33boo$5bobo8bo34bo$6boo
+3bo33boobo3b3o$10bobbo31boob4obbo30boo$9bo4bo36bo32bobo$9bo5bo25boobb
+oob3o33bo$8booboo20boo6bo4bobo34boo$11boobo19bo7b4obbo$10boobbo16b3o
+12boo51bo$11b3o17bo12boo51bobo$12bo32bo52boo$44bo$oo42boo$bo74boo$o6b
+oo15boo51bo$oo5boo15bobo50bobo15boo$26bo51boo15boo$oo24boo$obo55boo$bo
+57bo$58bo$58boo12bo$56boo12b3o$55bobb4o7bo$19boo34bobo4bo6boo$19bo33b
+3oboobboo$17bobo32bo$17boo30bobb4oboo$49b3o3boboo37boo$52bo43bobo$51b
+oo45bo$98boo$28boo$21boo6bo$21bo6bo$19bobo6boo$19boo$77bo$32bo42b3o$6b
+oo20boo3boboo38bobo$5bobo20boo4b3o38bo$5bo23boobboo$4boo23b3o6boo$31bo
+3bo3boo$29bobo3booboo55boo$30bo4b4o56boo$9boo19bo32boo24boo$10bo46boo
+4bobo23boo$7b3o14boo32bo6bobboo$7bo16bo16boo12b3o7bobobo$18bo6b3o14bo
+12bo8boobo23boo$17bobo7bo11b3o25bo16boo5boo$18bo20bo27boo15boo!

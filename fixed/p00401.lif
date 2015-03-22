@@ -1,0 +1,18 @@
+#C p00401 From Hersrch - Scot Ellison June 11, 2008
+#C 64+64+171+158+112+156+77 - 2 Herschels
+x = 100, y = 77, rule = B3/S23
+60bo4boo$59bobobbobo7boo$58bobb4o9bo$58bobo4bo6bobo$57booboobboo6boo$
+55bo$52bobb4oboo$52b3o3boboo$55bo$54boo12bo$66bobbo26boo$31bo30b3ob3o
+27bo$31b3o27b4obboboo23bobo$34bo25b4o5boo19boobboo$33boo18boo4bo4bo4b
+oo19boo$26bo26boo3b3obboo4bo$26b3o30booboo$29bo33boo$28boo32boo3$25boo
+$26bo$26bobo$27boo$66boo28boo$60boo4bobo9boo16bobo$21bo39bo6bo8bobo18b
+o$21b3o34b3o7boo7bo20boo$24bo33bo17boo4boo$7boo14boo55bobbo$7boo71boo$
+89boo$89boo$boo$boo$5boo29bo61boo$5boo30bo60bo$36boo61bo$35b3o60boo$
+35boo$oo$oo29boo$32bo$29b3o$29bo3$19boobbooboo51boo$19bobobbobo53bo$
+22boo3bo7bo44bobo$23boboo6b3o45boo$20bobbobo6bo$7boo10bobobobo6boo$8bo
+11booboo$5b3o44bo$5bo44b3o17boo$32b4o13bo20bo6boo$31boobbo13boo20bo6bo
+$30boobbo35boo6bobo$31bobbo44boo$32boo$39bobo$41bo50boo$38bo53bobo$5b
+oo32bob3o23boo25bo$5boo34b3o23boo25boo$11boo29boo$11boo28bobo$30boo10b
+o$26boobbobboo7bo46boo$9boo16bo3boboo54bo$9boo5boo9bobobo42boo14b3o$
+16boo10booboboo40bo16bo$31bobbo4boo19bo11b3o6bo$31boo6boo20bo10bo7bobo
+$59b3o19bo!

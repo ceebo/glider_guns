@@ -1,0 +1,19 @@
+#C P00969 gun Karel Suhajda, 14 Jun 2003
+#C Single column shaved - Scot Ellison  21 October 2003
+x = 130, y = 78, rule = B3/S23
+44bo49bo20bo$42b3o20boo6boo17b3o11bo7bobo$41bo23bobbo4boo16bo14b3o6bo$
+18bo22boo19booboboo22boo16bo16bo$18b3o40bobobo42boo14b3o$21bo39bo3bob
+oo54bo$20boo37b3obbobboo54boo$58bo5boo$45boo11boo$45boo$101boo25boo$
+101boo18bo6bo$12boo106boo3boobo$11bobbo104b4o4bo$11bobobo102boo3bo$12b
+ob3o102bo$14bo98boo8bobo$14boo54boo32boo6bobo8boo$14boo54boo11boo20bo
+6bo$83bo20bo6boo5bobo$84b3o17boo13bo$86bo$$66boo$44boo20bo$6boo19boo
+14bobo21b3o45boo$7bo19boo14bo25bo44bobo$7bobo32boo70bo$5booboo103boo$
+6bo$4bobo122bo$bb3oboo20boo97bobo$bo26bo99boo$obbooboo18bobo$booboboo
+18boo79bo$bbo104b3o$bbo107bo$boobo104boo14boo$obboo120boo$oo23boo$25bo
+$26b3o$28bo3$3boo$4bo$b3o$bo$104booboobboo$105bobobbobo13boo$96bo7bo3b
+oo16bobo$96b3o6boobo19bo$99bo6bobobbo16boo$98boo6bobobobo$39bo9bo57boo
+boo$39b3o5b3o29bo$42bo3bo13boo17b3o$33boo6boo3boo13bo20bo$33boo25bo20b
+oo11boo$60boo32boo5$13boo$12bobo48boo60boo$12bo50boo60boo$11boo106boo$
+23bo95boo$23bo$22boobo71boobo$21bo3boo70boob3o18boo$20bobo9boo69bo10b
+oo5boo$20bobbo7bobo11boo6bo19boo22boob3o11boo$21boo8bo13boo6b3o18bo16b
+oo5bobo$30boo24bo14b3o17boo5bobo$55boo14bo27bo!

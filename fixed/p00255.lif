@@ -1,0 +1,22 @@
+#C p255x2 gun
+x = 87, y = 80, rule = B3/S23
+24bo20boo$23bobo17bo3bo$13boo7boboo16bo5bo13boo$12bobo6booboo15bobbo3b
+o13boo4b3o$bboo7bo6b3oboboo22bo10boo6b5o$bboo7bobbobbobbobbobo8boo3bo
+3bo3bo10b3o5bo3bobo$11bo6boo4bo9boboboboo3boo12boo6bo3boo$12bobo21bobo
+11bobo9boo$13boo21bobo11boo10boo$37bo13bo$25bobo$26boo$26bo$$44bo$42b
+oo$43boo3boo19boo$49bo19bo6bo5boo$30b3o16bobo7bobo5bobo4b3o5boo$30bo7b
+o11boo7bo3bo3boo4bo$31bo5bobo23bo9boo$37boo20bo4bo$63bo6bo$59bo3bo6bo$
+59bobo$36bo$35bobo30boo3boo$35boo32b5o$70b3o$71bo9b5o$80bob3obo$9bobbo
+boobobbo60bo3bo$8boobbo4bobboo17bo42b3o$9bobboboobobbo18bo43bo$$79bo$
+78boo$36boo39boo4boo$9b4o24boo37b3o4boo$8b6o13boobbo4bo40boo4boo$7b8o
+15boo46boo$6boo6boo10bobbooboo45bo$7b8o11booboo$8b6o15bobbo$9b4o15boob
+oo$29bo14boo$44boo$3boo25bobbo$bbobo27bo$b3o71boobo$boo72boboo$boo$bbo
+bo28boo33boo$3bo29bobo32boo8boo$34bo42bobbo$26bo10boo38bobobbobbo$oo3b
+oo17boo11bobo36boobob5o$oo3boo18boo10bo4boo3boo27bobbo$44b3o30bobb4o$
+bb3o38bo3bo10boo16bobboo3bo$bb3o18b3o18bobo10bobbo16bobb3obo$3bo21bo
+19bo6bobbobbobo15bobbo3bo$24bo27b5oboboo14booboboo$42b3o13bo3bo14bobob
+o$42b3o9boobo4bo14bobobbo$7bobo22boo19bo3boo3bo15bobboo$5bo3bo5b3o14bo
+20bobobo4bo$5bo7bobobbobboo7bobo21bo3bo3bo$4bo4bo7boobbobbo5boo8boo3b
+oo8booboboo$5bo19bo15b5o10bobobo$5bo3bobb3o10bo16b3o10bobbobo$7bobo15b
+o17bo11boobbo$21bobbo$21boo11bo$34bobo$35bobo$22boo11bobbo$22boo11bobo
+46bo$34bobo48bo$34bo48b3o!

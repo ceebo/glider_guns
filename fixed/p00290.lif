@@ -1,0 +1,21 @@
+#C p00290 found using Karel Suhajda's Hersrch program
+#C  Scot Ellison - 4 November 2003
+#C Reduced by 16 columns with smaller P5 - Scot Ellison 4 May 2007
+x = 112, y = 54, rule = B3/S23
+52boo14bo25bo$27boo24bo14b3o21b3o$28bo13boo6b3o18bo19bo9bo$28bobo11boo
+6bo19boo19boo6b5o$14boo13boo67bo5bo$14boo82boboobbo$86bo10boobobob3obo
+$85boo15bo4boo$8boo75boobooboo7boboboo$8boo77b3o9boobobob5o$12boo46boo
+26bobbo5boo3bo5bobbo$12boo46boo31bo3boobobb4o3boo$87b4o5boobb3o4bo$87b
+oobbo4b3o6bobo$89bo6b3o6bobo$7boo87boobb3o4bo$7boo70boo16boobobb4o3boo
+$57boo20boo8bo7boo3bo5bobbo$27bo3boo24bo30bobo8boobobob5o$26bobo3bo5b
+oo3boo13bo32bo8boboboo$26boo3bo7bo3bo13boo29bobbo10bo4boo$30bo5b3o5b3o
+42boboo4boobobob3obo$26b5obo3bo9bo44b3o4boboobbo$26bo4boo55booboo5bo5b
+o$27b3o58boobbo6b5o$29boboo56b3o9bo$30bobo57bo$21bo57bobo$10bo9b3o56b
+oobo$8b5o6bobboo58b3o$7bo5bo5booboo55boo4bo$7bobboobo4b3o44bo9bo3bob5o
+$3bob3oboboboo4boobo42b3o5b3o5bo$3boo4bo10bobbo29boo13bo3bo7bo3boo$6b
+oobobo8bo32bo13boo3boo5bo3bobo$b5oboboboo8bobo30bo24boo3bo$obbo5bo3boo
+7bo8boo20boo$oo3b4obboboo16boo70boo$4bo4b3obboo87boo$4bobo6b3o6bo$4bob
+o6b3o4bobboo$4bo4b3obboo5b4o$oo3b4obboboo3bo31boo46boo$obbo5bo3boo5bo
+bbo26boo46boo$b5oboboboo9b3o77boo$6boobobo7boobooboo75boo$3boo4bo15boo
+$3bob3oboboboo10bo$7bobboobo82boo$7bo5bo67boo13boo$8b5o6boo40bo6boo11b
+obo$10bo9bo22bo15b3o6boo13bo$17b3o24bo13bo24boo$17bo24b3o13boo!

@@ -1,0 +1,26 @@
+#C p00623 found using Karel Suhajda's Hersrch program using the -d 
+#C  switch for open tracks - Scot Ellison - 10 Sept 2003
+#C Three column welding reduction - Scot Ellison - 8 Jan 2006
+x = 104, y = 92, rule = B3/S23
+72boo$71bobbo$72boo7$68bo$68bo$67bobo$$69boo$$69boo5$13bobbobbo$13b7o
+bbo$20b3o$15b4o$14bobob3o$14bobo4bo$13boobb4obo$14bobo3bobo15bo$14bo3b
+oobboo14b3o28boo$12bobobbobobo19bo27boo$12booboobbobo10bo7boo36boo$15b
+oboboboo7b3o22boo19bobbo$15bobbobo8bo25bo20boo4boo$12boob4obo8boo22bob
+o4boo20bo$12bobo3boboo20bo10boo6bo18bobo$15b4obbo5bo13bobo17bobo16boo
+13boo$19b3o4bobo12bobo18boo31boo$15b4obbo5boobboo3boo4bo$15bobboboo9b
+oobbobo15boo$20bo14bo17bobo45boo$18bobo13boo19bo45boo$18boo35boo40boo$
+97boo4$102boo$44boo22boo32boo$44boo18boobboo$63bobo$63bo$bboo5boo51boo
+$3bo5boo$3bobo$4boo$8boo$7bobo$8bo5$5b5o72boo$3b3obob3o17booboo47bobo$
+bbo4bo4bo15bobobo38bo9bo21bo$bbobooboboobo15bo3bo38b3o5b3o19bobo$oobob
+o3bobobooboo9booboboboo38bo3bo23boo$obbo7bobboboobboo5bobboobobo37boo
+3boo$boob7oboo6bobo4b3o3bo$bbo9bo8bo5bobb4obo$bbo9bo14boobo3bobo$oboo
+7boobo3boo8bob4obbo$oo5bo5bobo3bo8bobobbobooboo50boo$3b9o3b4o7boobobob
+o3bobo50boo$3obbo3bobb3o12bobobboo3bo$obbobbobobbobbobo10bobobobboobo
+59boboo$boo9bobob3o6boobboo3bobobooboo54boobo$11boobo4bo6bobo3bobobobo
+booboboobb3o$5booboo3bobboob3o4bob4obbobo6bobo$3b3o3b3obboobo4bo4bo4bo
+bobb4obobbobbobobo$bbo4bo4boo5boobo5b3obobo5boboobb3obob3o$3b4oboobobb
+ob3oboboo6b4o3boo5boo4bo4bo37boo$6boboboobbo5bobbobb3o8bob5obb3obb4o
+38bobo$5bobbobo4booboboo4bobb7obobo3b4obbobo43bo$6b3ob4obobbobo8bobbo
+bbobobb3o4bobobbo14boo26boo$9bo4bobbobbo16bobobbob4ob3o16bo$8bobboo5b
+oo17bobbobbo4bo16b3o3boboo$9booboo24boo5boobbo15bobb4oboo$44booboo19bo
+$69b3oboo$71boobbo$74boo!

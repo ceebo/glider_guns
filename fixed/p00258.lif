@@ -1,0 +1,19 @@
+#C p00258 gun based on p387 - Scot Ellison - 19 Aug 2003
+x = 93, y = 83, rule = B3/S23
+27bo15boboo27bo$26bobo7bo6boobo25b3o$27bo6b3o34bo$16bo16bo37boo$16b3o
+7bo6boo$19bo5b3o52boo$18boo3boobbo52bo$23bobbo3b3o49bo$26bobo4bo47b4o$
+24bo8bo46bo4bo$13boo10boo5boo6boo37bobooboo$14bo11bo13boo37bobbo3boo$
+14bobo10bo3bo46boobobboobbo$15boo12bo46bo4boboboboo$76boboobbobbo$76bo
+3boboboo$28boo48boobobo$28bobo6boo40bobobo$30bo6bo41bobbo$30boo6bo41b
+oo$37boo5$26boo$26bobo$28bo$28boo$85boo$bo83bo$b3o79bobo$4bo78booboo$
+3boo81bo$86bobo$63boo20boob3o$28bo35bo26bo$26b3o35bobo18booboobbo$25bo
+39boo18booboboo$oo23boo63bo$obboo85bo$boobo83boboo$bbo85boobbo$bbo63b
+oo15bo7boo$booboboo18boo39bo16boo$obbooboo18bobo35b3o16boo$bo26bo35bo$
+bb3oboo20boo$4bobo$6bo81boo$5booboo69b3o6bo$7bobo69bobo7b3o$7bo70bobbo
+9bo$6boo68booboo$63boo11booboo$64bo13bo$22bo41bobo$21b3o41boo$20bobboo
+$20booboo$19b3o$20boobo$21bobbo29boo$11boo8bo32bo6boo$10bobbo8bobo30bo
+6bo$9bobobo9bo8boo20boo6bobo$9boboboo17boo29boo$7boobo3bo$7bobbob3o8bo
+$4boobobobobbo6bobboo50boo$4bobbo5boo7b4o50bobo$5boo4bobo5bo31boo25bo$
+7b5obo7bobbo26boo25boo$7bo4bo10b3o$8b4o8boobooboo$10bo15boo$12bo13bo
+46boo$11boo60bo$58boo14b3o$20boo37bo16bo$21bo22bo11b3o6bo$18b3o24bo10b
+o7bobo$18bo24b3o19bo!

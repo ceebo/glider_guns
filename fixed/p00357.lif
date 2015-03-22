@@ -1,0 +1,24 @@
+#C p00357: (Fx77 + p7 pulse-divider transceiver) x 2.  2 Herschels.
+#C Both pulse divider blocks are in the "slow" position (+119 each).
+#C p7 pipsquirter extension extracts an output glider from one Fx77.
+#C Dave Greene, 16 May 2007
+x = 104, y = 86, rule = B3/S23
+9boo$5bobobbo53boo$3b3oboo56bobbobbo4boo$bbo60bo4b6obbo$3b3oboo53bob4o
+6bobo$5boboo22bo30bo4bobobobooboo$31b3o19boobbobbobobbobbobbobbobo$34b
+o18bo3b4oboobo5bobbobo$33boo16bobo7bo4b4obobobboo$50bobo3boboobob3o4b
+oobobo$46boo3bo4boobooboobb3o3bobbo$oo44boo18bobb3o3boo$bo22boo43bo$bo
+bo20bo$bboo11bo6bobo$13bobo6boo34boo$14boo42boo4$59bo9boo$58boo9boo$
+58bobo$53boo$33boo17bobo$33boo11boo4bo$46bo3bobo$10boo35b4oboo$6boobb
+oo$5bobo39boo6boo$5bo41boo5bobo$4boo48bo$53boo$50bo$48b3o$47bo50boo$
+47boo6boo41bo$55boo39bobo$92boobboo$50boob4o35boo$51bobo3bo$51bo4boo
+11boo$49bobo17boo$49boo$43bobo$33boo9boo$33boo9bo4$44boo42boo$44boo34b
+oo6bobo$79bobo6bo11boo$79bo20bobo$34bo43boo22bo$27boo3b3obbo18boo44boo
+$28bobbo3b3obboobooboo4bo3boo$28boboboo4b3oboboobo3bobo$26boobbobob4o
+4bo7bobo$27bobobbo5boboob4o3bo$27bobobbobbobbobbobobbobboo12bo3bo$26b
+ooboobobobo4bo19b3obob3o25boobo$27bobo6b4obo18bo3b3o3bo24boob3o$27bobb
+6o4bo19boboo3boobo30bo$26boo4bobbobbo19boobobo3boboboo22boob3o$38boo
+18bobbobo3bobobbo20bobbobo$59boob7oboo21boo$60bo9bo$60bo3bobo3bo$58bob
+oobb3obboobo$58boo3bobobo3boo$61b4ob4o$58b3o9b3o$54boobo3bo7bobbo$55b
+oobobo3b3o3boo$53bo4boboo$51b3oboobbo3bobobo$50bo4boboobb3obob3o$50bob
+oo5boo4bo4bo$49boobob5obb3obb4o$49bobbobo3b4obbobo$51boobb3o4bobobbo$
+52bobobbob4ob3o$52bobbobbo4bo37bo$53boo5boobbo37bo$59booboo36b3o!

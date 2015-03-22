@@ -1,0 +1,15 @@
+#Cp00753 gun
+#CKarel Suhajda, 1 Jun 2003
+#Cbounding box reduced 28 Sep 2003
+x = 103, y = 85, rule = B3/S23
+95bo$93b3o$92bo$82boo8boo$83bo$83bobo$84boo$70bo27boo$70b3o25boo$73bo$
+45boo25boo$20boo24bo$21bo13boo6b3o52boo$21bobo11boo6bo54boo$7boo13boo$
+7boo3$boo71boo$boo71boo$5boo46boo45boo$5boo46boo45bo$98bobo$98boo$$oo$
+oo$50boo$50bo$31boo3boo13bo$32bo3bo13boo$29b3o5b3o$29bo9bo$19boo$19boo
+59boobo$80boboo$$7boo$4bo3bo87boobo$4b4o29boo57boboo$36bobbo$4boo28bo
+bbobo49boo$3bobbo26bo4bo50boo$3bobobo25bo$4bobb3o25b3o$$6boo39boo$6bo
+40bo$45bobo$45boo32boo$80bo$80bobo$81boo$12boo83bo$13bo81b3o$10b3o12b
+oo67bo$10bo14boo67boo4$62boo$47boo14bo$47boo14bobo$64boo4$42bo58boo$
+41b3o57boo$34boo4bobboo$34boo4bo3bo7boo$34bo6boobo7boo$32bob3o6boo51b
+oo$31bobobo60boo$31bobbo65boo$32boo66boo3$44boo19boo27boo$44boo19boo
+11boo14boo$78bo$40boo37b3o$41bo19bo19bo$38b3o21bo$38bo21b3o!

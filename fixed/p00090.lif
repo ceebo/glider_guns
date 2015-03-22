@@ -1,0 +1,7 @@
+#C By Paul Rendell
+x = 37, y = 30, rule = B3/S23
+25bo$25b4o$9bo16b4o$8bobo5boo8bobbo5boo$6boo3bo14b4o5boo$boo3boo3bo4bo
+boboo3b4o$boo3boo3bo5boo3bobbo$8bobo10bo$9bo8bobbo3$16bo$16b4o$6boo9b
+4o$6boo9bobbo$11bo5b4o$11bo4b4o$16bo3$36bo$9boo9b3o11bobo$bo7bobbo9bo
+12boo$o3boo7bo7bo5bo$o5bo6bo12b4o$b5o7bo11boobobo$9bobbo11b3obobbobboo
+$9boo14boobobo3boo$26b4o$27bo!

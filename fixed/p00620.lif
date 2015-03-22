@@ -1,0 +1,15 @@
+#C p620 gun (p540+40N, N=2) based on p5 period doubler,
+#C using the suppressed Herschel output: Dave Greene, 23 January 2007
+x = 122, y = 85, rule = B3/S23
+111boo$56boo53bobbobo$57bobboo51boob3o$57bobobbo56bo$56boobbobboboo46b
+oob3o$57boboboboobo23bo22boobo$55bo3b3o15bo10b3o$54bob3obob4obboo5b3o
+9bo$54bo3bo3bo3bobbo4bo12boo$55b3o5b3o3bobo3bo$57bob3obo6bobo3bo$58b5o
+8bo3boo43boo$59b3o34boo22bo$97bo20bobo$97bobo18boo$98boo$$61boo$61boo
+39bobo$102boo$51boo50bo$51boo$$67boo$67bobo17boo$69bo4boo11boo$69bobo
+3bo$68boob4o35boo$110boobboo$73boo39bobo$73boo41bo$116boo4$36boo$37bo$
+37bobo$38boo9$73bo$72bo$72b3o4$4boo$5bo41boo$5bobo39boo$6boobboo$10boo
+35b4oboo$46bo3bobo$33boo11boo4bo$33boo17bobo$53boo$$69boo$69boo$$59boo
+$59boo$$22boo$bboo18bobo$bobo20bo$bo22boo34b3o$oo43boo3bo8b5o$45bo3bob
+o6bob3obo$46bo3bobo3b3o5b3o$33boo12bo4bobbo3bo3bo3bo$34bo9b3o5boobb4ob
+ob3obo$31b3o10bo15b3o3bo$5boboo22bo23boboobobobo$3b3oboo46boobobbobboo
+$bbo56bobbobo$3b3oboo51boobbo54bo$5bobobbo53boo54bo$9boo107b3o!

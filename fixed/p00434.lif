@@ -1,0 +1,14 @@
+#C p434 - Scot Ellison - May 19, 2003
+x = 145, y = 49, rule = B3/S23
+16boo$9boo5boo39bo9bo15bo14boo$9boo46b3o5b3o13b3o14bo24boo$45boo13bo3b
+o15bo18b3o6boo13bo$45bo13boo3boo14boo19bo6boo11bobo$11boo17boo14bo74b
+oo13boo$11boo17bo14boo89boo$5boo21bobo$5boo21boo$92b3o47boo$91booboo
+46boo$91bobboo42boo$42boo48boo44boo$42boo3$143boo$5bo137boo$5b3o85boo$
+8bo64boo19bo$7boo23boo19bo6boo11bobo17bo13boo3boo$32bo18b3o6boo13bo17b
+oo13bo3bo$33b3o14bo24boo28b3o5b3o$35bo14boo53bo9bo$$29bo9bo53boo14bo$
+29b3o5b3o28boo24bo14b3o$32bo3bo13boo17bo13boo6b3o18bo$31boo3boo13bo17b
+obo11boo6bo19boo$50bo19boo$50boo$oo$oo$$144bo$101boo39bobo$5boo44boo
+48boo40boo$5boo42boobbo$boo46booboo$boo47b3o$115boo21boo$114bobo21boo$
+7boo89boo14bo17boo$7boo13boo74bo14boo17boo$21bobo11boo6bo19boo14boo3b
+oo13bo$21bo13boo6b3o18bo15bo3bo13boo$20boo24bo14b3o13b3o5b3o46boo$45b
+oo14bo15bo9bo39boo5boo$127boo!

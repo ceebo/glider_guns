@@ -1,0 +1,19 @@
+#Cp00700 gun found using Hersrch
+#CKarel Suhajda, 22 Jun 2003
+#Cbounding box improved by Karel Suhajda, 14 Sep 2003
+x = 105, y = 79, rule = B3/S23
+46bo20bo$45bobo7bo11b3o$46bo6b3o14bo$35bo16bo16boo22bo$35b3o14boo37b3o
+$38bo51bo10bo$37boo51boo9b3o$104bo$101boobo$97boobbobo$32boo25boo36bob
+obo$33bo25boo38boboo$33bobo63boo$34boo61boo$95bobbo3bo$95bobo3bobo$47b
+oo46bobbo3bo$47bobo6boo39boo$49bo6bo42boo$49boo6bo41boboo$56boo39bobob
+o$97boobbobo$101boobo$104bo$101b3o$30boo13boo36boo16bo$30boo13bobo35b
+oo$47bo$47boo$$64bo$43bobbo17b3o$43bobbo20bo$8boo31boobooboo17boo34boo
+$8boo33bobbo55boo$43bobbo$41boobooboo$bboo39bobbo$bboo39bobbo50boo$6b
+oo89boo$6boo50bobbo39boo$58bobbo39boo$56boobooboo$58bobbo$boo55bobbo
+33boo$boo34boo17boobooboo31boo$37bo20bobbo$38b3o17bobbo$40bo$$56boo$
+57bo$20boo35bobo13boo$3bo10b3o3boo36boo13boo$b3o9bo3bo$o$oboo8bo$bobo
+bboo5b5o$3bobobo8bo30boo$bboobo41bo6boo$4boo42bo6bo$6boo17boo20boo6bob
+o$bbo3bobbo15boo29boo$bobo3bobo$bbo3bobbo5boo$6boo7boo52boo$4boo63bobo
+$bboobo38boo25bo$3bobobo36boo25boo$bobobboo9boo$oboo13boo$o$b3o9boo51b
+oo$3bo10bo51bo$11b3o37boo14b3o$11bo40bo16bo$37bo11b3o6bo$38bo10bo7bobo
+$36b3o19bo!

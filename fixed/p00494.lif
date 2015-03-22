@@ -1,0 +1,18 @@
+#C p00494 based on Karel Suhajda's p988
+#C Scot Ellison - May 2003
+x = 144, y = 63, rule = B3/S23
+30bo39bo12boo6boo20boobo7bo$28b3o37b3o12bobbo4boo20boboo7b3o$bboo23bo
+39bo12booboboo40bo14bo$3bo23boo38boo10bobobo42boo12b3o$3bobo73bo3boboo
+52bo$4boobboo37bo30boobbobboo42boo8boo$8boo35b3o34boo38bobo$44bo79bo$
+31boo11boo92boo$31boo87bo3boo12boo$120boboboo$123bo5$88boo32boo$bboo
+84boo11boo20bo$bobo16boo79bo18b3o$bo18bobo79b3o15bo$oo20bo81bo20boo$
+16boo4boo102bo$16bobo65boo37b3o$18bo33boo30bo38bo$9boo7boo10boo20bo5b
+oo25b3o$9boo18bobo21b3obobo27bo$29bo25bobo7boo$28boo26boo7boo$oo141bo$
+bo139bobo$o141boo$oo4$77boo7boo26boo$77boo7bobo25bo$56bo27bobob3o21bob
+o18boo$56b3o25boo5bo20boo10boo7boo$20bo38bo30boo33bo$18b3o37boo65bobo$
+17bo102boo4boo$17boo20bo81bo20boo$23bo15b3o79bobo18bo$21b3o18bo79boo
+16bobo$20bo20boo11boo84boo$20boo32boo5$20bo$18boobobo$4boo12boo3bo87b
+oo$4boo92boo11boo$19bo79bo$19bobo38boo34b3o35boo$3boo8boo42boobbobboo
+30bo37boobboo$4bo52boobo3bo73bobo$b3o12boo42bobobo10boo38boo23bo$bo14b
+o40booboboo12bo39bo23boo$17b3o7boobo20boo4bobbo12b3o37b3o$19bo7boboo
+20boo6boo12bo39bo!

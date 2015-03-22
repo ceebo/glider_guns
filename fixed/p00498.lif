@@ -1,0 +1,19 @@
+#C p00498 found using Karel Suhajda's Hersrch program
+#C Scot Ellison - May 2003
+#C Bounding box reduced by Karel Suhajda, 1 Jun 2003
+x = 143, y = 61, rule = B3/S23
+96boboo$96boobo$15boo109bo$16bo107b3o$15bo67bo39bo$15boo47boo17b3o37b
+oo$7bo57bo20bo$7b3o54bo20boo11boo19boo$10bo53boo32boo19boo$9boo$$18boo
+111boo$18boo101bo8bobbo$39boo79bobo5bobbobo$39boo26boo54bo4bo3bo$67boo
+42boo7bobbo4bo$111boo8boboo6bo$123b3o3boo$120booboo$28boo90boobbo$29bo
+91b3o$26b3o8boo83bo$26bo9bobo38boo$24bobo9bo41bo20boo$24boo9boo25boo
+11b3o21bobo14boo19boo$62boo11bo25bo14boo19bo$81bo19boo32bobo$oo79b3o
+51booboo$oboboo18boo22boo34bo53bobo$bboboo18bobo22bo33boo53bobo$bo24bo
+19b3o47bo18boo20booboo$booboo20boo18bo47b3o19bo24bo$bbobo53boo33bo22bo
+bo18boobo$bbobo53bo34boo22boo18boobobo$3booboo51b3o79boo$5bobo32boo19b
+o$5bo19boo14bo25bo11boo$4boo19boo14bobo21b3o11boo25boo9boo$42boo20bo
+41bo9bobo$64boo38bobo9bo$20bo83boo8b3o$19b3o91bo$18bobboo90boo$18boob
+oo$12boo3b3o$11bo6boobo8boo$14bo4bobbo7boo42boo$10bo3bo4bo54boo26boo$
+9bobobbo5bobo79boo$9bobbo8bo101boo$10boo111boo$$132boo$22boo19boo32boo
+53bo$22boo19boo11boo20bo54b3o$56bo20bo57bo$18boo37b3o17boo47boo$19bo
+39bo67bo$16b3o21bo85bo$16bo24bo84boo$39b3o!

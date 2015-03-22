@@ -1,0 +1,16 @@
+#C p00486 found using Karel Suhajda's Hersrch program
+#C Scot Ellison - May 2003
+x = 126, y = 66, rule = B3/S23
+28boo$28bobboo$29boob3o60bo$35bo27bo29b3o$29boob4obbo22b3o28bo$29boobo
+3b3o21bo31boo$35bo24boo$7boo26boo$8bo$8bobo106boo$9boo89boo15boo$100b
+oo$$94boo27boo$93bobo27boo$3boboo88bo23boo$3boobo66bo8boo35boo$71b3o8b
+oo$12boo57b3o$12boo56bo3bo3boobbobo$71b4o3boobbobo39boo$71boobo6bo3bo
+38boo$82b3o$83boo$24boo3boo56boo$25bo3bo47boo8boo$22b3o5b3o12boo30bo5b
+oo$boo19bo9bo12bo5boo25b3obobo$bbo17bobo23b3obobo27bobo7boo$bbobo15boo
+26bobo7boo21boo7boo$3boo44boo7boo5$66boo7boo$34boo7boo21boo7bobo26boo$
+34boo7bobo27bobob3o23bobo$41bobob3o25boo5bo12bo9bo21bo$41boo5bo30boo
+12b3o5b3o19bobo$37boo8boo47bo3bo23boo$37boo56boo3boo$41boo$41b3o$oo38b
+o3bo6boboo$oo39bobobboo3b4o$41bobobboo3bo3bo56boo$52b3o57boo$42boo8b3o
+$5boo35boo8bo66boboo$5boo23bo88boobo$boo27bobo$boo27boo$$24boo$7boo15b
+oo89boo$7boo106bobo$117bo$89boo26boo$64boo24bo$32boo31bo21b3o3boboo$
+33bo28b3o22bobb4oboo$30b3o29bo27bo$30bo60b3oboo$93boobbo$96boo!

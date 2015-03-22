@@ -1,0 +1,21 @@
+#C p675 gun
+#C Thinned from p225 using Nicolay's p27
+#C
+#C Adam P. Goucher, 2010
+x = 90, y = 85, rule = B3/S23
+17bo3$11bobboboobobbo$10boobbo4bobboo$11bobboboobobbo3$42bo$40b3o$39bo
+$26boo11boo14boo$26boo27boo$$56bo$7boo47boo3boo$7bobo48bobboo$8bo45bob
+oo15boo$44bo3boo4b3o16boo$43boo4b3o$42boo8bo$43b5obbobo$45b3o3bo6b6o
+10boo$60b4o9boobo$3boboo53bo12bobbo$3boobo49bobbo13b3o3bo$55bobbo10boo
+3boobbobo$12boo42boo10bobbo6bobo$12boo12boo28boo11boo8bo$27bo28boo$24b
+3o29boo8boo13b3o4boo$24bo40bobboo10booboo3boo$60boo3booboo10boobbo$60b
+oo4b3o13boo$$22boo46bo8boo$22bo46bobo6bobbo$20bobo46bobobboo3boo$20boo
+20boo26bo3b3o$4boo35bobo29bobbo$5bo35bo31boboo$5bobo32boo32boo$6boo3$
+39bo35boo$6boo29b3o35boo$6boo28bo$6boo28boo12boo$6boo42boo$5bobbo$4bo
+bbo49boboo$3bo53boobo$4o$6o6bo3b3o$11bobobb5o49boo$11bo8boo48boo$12b3o
+4boo$7b3o4boo3bo$6boobo45bo$boobbo48bobo12bo$boo3boo47boo11boboo$7bo
+60boboo$65bo3boo$7boo27boo26bobo7boo$7boo14boo11boo26bobo6bobbo$24bo
+40bo8boo13bo$21b3o63bobo$21bo33boo4boo14boo9boo$55boo4b3o12bobbo$60bo
+bbo12b3o4boo$41bobboboobobbo8boo14boo4boo$40boobbo4bobboo$41bobboboobo
+bbo11boo8bo$63bobbo6bobo$64boo7bobo$69boo3bo$68boobo$68boobo$70bo4$68b
+oo$68boo!

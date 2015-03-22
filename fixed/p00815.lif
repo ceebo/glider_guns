@@ -1,0 +1,19 @@
+#C p00815 found using Karel Suhajda's Hersrch program
+#C  Scot Ellison - 4 November 2003
+#C Reduced by 8 columns with smaller P5 - Scot Ellison 4 May 2007
+x = 135, y = 60, rule = B3/S23
+111boo$45bo15bo9bo39boo5boo$45b3o13b3o5b3o46boo$48bo15bo3bo13boo$47boo
+14boo3boo13bo$82bo14boo17boo$28bo53boo14bo17boo$28b3o67bobo21boo$31bo
+67boo21boo$14boo14boo11boo$14boo27boo$$85boo$8boo75boo$8boo$12boo$12b
+oo3$54boo$7boo44bobo11boo6bo19boo$7boo44bo13boo6b3o18bo$52boo24bo14b3o
+$27bo3boo44boo14bo35boo$26bobo3bo96bo$26boo3bo12boo81bobo$30bo13bobo
+80booboo$26b5obo13bo83bobo$26bo4boo13boo82bobo$27b3o77boo20booboo$29bo
+boo75bo24bo$30bobo75bobo18boobo$109boo18boobobo$10bo122boo$8b5o$7bo5bo
+$7bobboobo95boo$3bob3oboboboo66boo25bobo$3boo4bo43boo27bo25bo$6booboo
+42bo28bobo21b3o$b5obobobbo41bo11bo16boo20bo$o6bo3bobo39boo9b3o38boo$oo
+bb5oboobo49bo$12boo49boo10boo$5boo4b3o61bo$5boo4b3o59bobo$12boo59boo$
+oobb5oboobo36boo$o6bo3bobo36boo9bo3boo48boo$b5obobobbo47b3ob4o47boo$6b
+ooboo48boo6bo$3boo4bo48b3o5bo57boo$3bob3oboboboo45bo4bo58bo$7bobboobo
+47bo63b3o$7bo5bo50bo62bo$8b5o6boo19boo17bo3bo20boo32boo$10bo9bo19bo18b
+o24boo11boo20bo$17b3o21b3o16bo17bo18bo20bo$17bo25bo13b3o19bo18b3o17boo
+$57bo19b3o20bo!

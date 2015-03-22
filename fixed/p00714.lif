@@ -1,0 +1,19 @@
+#C p00714: (Fx77 + p7 pulse-divider transceiver) x 2.  Same as 00357
+#C but with just one Herschel. A p6 unix extracts the output glider.
+#C Dave Greene, 16 May 2007
+x = 104, y = 67, rule = B3/S23
+9boo$5bobobbo53boo$3b3oboo56bobbobbo4boo$bbo60bo4b6obbo$3b3oboo53bob4o
+6bobo$5boboo22bo30bobobbobbob3oboo$31b3o19boobbobbobobobobobbobbobo$
+34bo18bo3b4ob4o3boboboobo$33boo16bobo7bo4b4obobobboo$50bobo3boboobob3o
+4boobobo$46boo3bo4boob5obb3o3bobbo$oo44boo18bobb3o3boo$bo22boo43bo$bob
+o20bo$bboo18bobo$22boo34boo$58boo4$69boo$69boo$$53boo$33boo17bobo$33b
+oo11boo4bo$46bo3bobo$10boo35b4oboo$6boobboo$5bobo39boo6boo$5bo41boo5bo
+bo$4boo48bo$53boo$50bo$48b3o$47bo50boo$47boo6boo41bo$55boo39bobo$92boo
+bboo$50boob4o21bo13boo$51bobo3bo19boo$51bo4boo11boo6bobo$49bobo17boo$
+49boo39bo$91boo$33boo51boobb3o$33boo51boo5bo$87bo4bo$88bo3bo$82bo7bo$
+44boo39bo$44boo34bo4bo$79boboo17boo$79bo20bobo$34bo43boo22bo$27boo3b3o
+bbo18boo44boo$28bobbo3b3obb5oboo4bo3boo$28boboboo4b3oboboobo3bobo$26b
+oobbobob4o4bo7bobo9b4o$27boboobobo3b4ob4o3bo10bo4bo$27bobobbobbobobobo
+bobbobboo9bobo3bo$26boob3obobbobbobo17bobo3bo29boobo$27bobo6b4obo17bo
+35boob3o$27bobb6o4bo18bo41bo$26boo4bobbobbo20bobbo19bo12boob3o$38boo
+20boo21bo9bobbobo$81b3o9boo!

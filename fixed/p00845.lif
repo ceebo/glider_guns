@@ -1,0 +1,27 @@
+#C p00845 found using Karel Suhajda's Hersrch program using the -d 
+#C  switch for open tracks - Scot Ellison - 08 Sept 2003
+#C Smaller p5 reflectors - Scot Ellison, 5 Dec 2003
+x = 140, y = 86, rule = B3/S23
+96bo$94b3o$93bo$93boo12$121bo$112bo7bobo$112b3o6bo$115bo16bo$114boo14b
+3o$31boo96bo$30bobbo95boo$29boboobobboo$29bobobbo3bo88bo$28boo3bob3o
+88bobo$28bobbobobo43bo27boo14b3obo6boo$29b3o3bo43b3o25boo14b3o8bo$82bo
+49bobo$25boobb4obbo7boo36bobo48boo$25bobbo6bo8bobbo33boo$26boboo3boo5b
+obbo3b3o74b3o$23b3obo5bo6boo8bo30boo12boo22boo$22bo4bo8boo3bo7boo30bo
+13bo14boo6bobo3boo$20b3obooboo7boo4bo21boo17bo5bobo4b3o12bo6bo$19bo3bo
+boo3bo10boo21bo17boo5boobo5bo11bo6boo$18bobbo5bo6bo27bobo27bo17boo$18b
+ob3o4bo3bobobo15bo10boo28boo$16bobo4bobbo7boobboo10bobo$16boobobobob3o
+bo8boo10bobo$19bo3bobo19boo4bo$19bobobobboo16bobo15boo57boo$20bobobobo
+17bo17bobo55bobo$21bobbobo16boo19bo55bo$24boo38boo53boo$$8boo$8bo$11b
+4o$10b3obo$10b3o40boo84bo$17boo34boo82bobo$bboo13boo119boo$bbobo7boo$
+4bo7boo$4boo3bo6boo$bboobbo3boo3bobo$bobbo4b3o4bo$obo3boobo84bo$oboob
+ooboo56bo27b3o32boo$bo4bobo55b3o30bo31boo$bb3obobobo52bo32boo22boo$4b
+oo3boobboobbobo43boo55bobbo$11b3oboobobo19boo25boo47boo4boo$8bobo5bo3b
+3o16bobobbo23bo48bo20boo$8booboboobb3o3bo15bobobobo20bo50bobo18bo$11bo
+bo3bo3b3o14boobbobobo19boo50boo16bobo$11bobbobb4o16bobbobobobo89boo$
+12boobbo4bo4boo8b3oboboobooboo$13boboo3bobo3boobboo4bo10bobo$13bobbobo
+bbo8bobo3bo3boboboobo$14bo3b3o10bo4bo7bobbo$15b3o5boo11bo3bobo3bo22boo
+$18bo3bobbobbobo6booboob3o4boo17boo$17boo6b4o9bo4bo6boo$24b3o11bob3o$
+22bo7boboobboobo$21bobo7bobo3bobbo8boo$21boo8boob3obboo9bo79boo$31bo
+15b3o12boo66boobboo$35boo10bo14bo16boo53bobo$30bobobobbo25b3o14bo30boo
+23bo$28b3ob3oboo27bo11b3o25boo5bo23boo$27bo3bobbobo40bo27bobob3o$27boo
+bboboobo61boo7bobo$32bobbo62boo7boo$33boo!

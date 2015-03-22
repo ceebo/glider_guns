@@ -1,0 +1,20 @@
+#C p70
+x = 110, y = 75, rule = B3/S23
+70bo20bo$68b3o11bo7bobo$67bo14b3o6bo$67b2o16bo16bo$84b2o14b3o$44bo19b
+3o9bo22bo$30bo13b3o19bo7bo3bo20b2o$28b3o16bo17bo13bo$2b2o23bo18bo25b2o
+5b2o16bo$3bo23b2o17bo3bo21bo8bo14bobo$3bobo45bo20bo4bobo13b3obo6b2o$4b
+2o2b2o38bo24b3o3bo2bo10b3o8bo$8b2o37bo4bo25bo2b2o19bobo$22bo22b3o5bo
+24b3o21b2o$21b5o20b2o6bo24bo$20bo26b3ob4o39b3o$21b2o14b2o9bo3b2o35b2o$
+22b2o14bo41b2o6bobo3b2o$24bo35b2o19bo6bo$60bobo17bo6b2o$62bo17b2o$50b
+2o10b2o$50bo$2b2o36b2o9b3o$bobo16b2o19bo11bo$bo18bobo17bo50b2o$2o20bo
+17b2o48bobo$8bo7b2o4b2o66bo$8b3o5bo2bo69b2o$9bo8b2o$100b3o$99bo2bo$99b
+o3bo$98b2o2bo$2o98bo8bo$bo99b2o4bobo$o100b3o4b2o$2o99b3o3$98b3o$98b2o
+3b2o$98b4ob2o$99bob2o$98bo$90b2o7bo$19b2o69bo2bo8b3o$9b2o8bo66b2o4b2o$
+8b2o7bobo48b2o17bo20b2o$10bo6b2o50bo17bobo18bo$56bo11bo19b2o16bobo$13b
+2o41b3o9b2o24b2o10b2o$10b2o2bo44bo31b2ob3o$10bo2bo32b2o10b2o31b2o3b2o$
+11b3o14b2o17bo45bobo2bo$21b2o6bo17bobo43b3o2b2o$21bo6bo19b2o43bobob2o$
+19bobo6b2o38b3o26bo$19b2o46bo3bo15bo$71bo14bo$67b2ob2o14b3o$6b2o61bo$
+5bobo92b2o$5bo10b3o4b2o6b2o14b2o2bo48b2o2b2o$4b2o16b2ob2o4b2o13b3o2b2o
+51bobo$17bo8bo20b2o2b3o27b2o23bo$17bobobo4bo20b2o2b2o9b2o18bo23b2o$16b
+o8bo36bo16b3o$9b2o5bo4bo41b3o13bo$10bo5bo2bo5bo39bo$7b3o7bo7bo$7bo16bo
+16b2o$17bo2bo4b3o14bo$17bobo7bo11b3o$18bo20bo!

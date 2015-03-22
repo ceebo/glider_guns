@@ -1,0 +1,13 @@
+#C p00415 From Hersrch - Scot Ellison July 10, 2008
+#C (64+64+171+116)*2 - 2 Herschels
+x = 110, y = 71, rule = B3/S23
+59bo$59b3o$62bo$61boo29boo$92boo5boo$31bo67boo$31b3o$34bo$33boo43boo
+17boo$26bo52bo17boo$26b3o50bobo21boo$29bo50boo21boo$28boo3$25boo$26bo$
+26bobo$27boo$$35boo67bo$21bo12bobbo64b3o$21b3o11bobo63bo$24bo10b3o38b
+oo23boo$7boo14boo45boo5bo$7boo61bobob3o$33boo28boo7bobo$33boo28boo7boo
+$boo92boo$boo91bobo$5boo89bo$5boo73bo$78b3o$77bo$34b3o40boo29boo$oo
+106boo$oo29boo40b3o$32bo$29b3o$29bo73boo$13bo89boo$13bobo91boo$13boo
+92boo$36boo7boo28boo$35bobo7boo28boo$33b3obobo61boo$32bo5boo45boo14boo
+$7boo23boo38b3o10bo$8bo63bobo11b3o$5b3o64bobbo12bo$5bo67boo$$81boo$81b
+obo$83bo$83boo3$80boo$5boo73bo$5boo74b3o$11boo70bo$11boo62boo$75bo$76b
+3o$9boo67bo$9boo5boo$16boo29boo$38bo8bo$39bo8b3o$37b3o10bo!

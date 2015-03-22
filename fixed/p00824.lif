@@ -1,0 +1,17 @@
+#C p00824 From Hersrch - Scot Ellison July 9, 2008
+#C (64+158+112+78)*2 - 1 Herschel
+x = 111, y = 71, rule = B3/S23
+28bo7boboo45boo$26b3o7boobo45boo5boo$10bo14bo66boo$10b3o12boo$13bo52bo
+$12boo50b3o4boo17boo$63bo8bo17boo$63boo7bobo21boo$13boo58boo21boo$13b
+oo17boo$32boo6$29boo$29bo19boo$31bo16bobo$30boo16bo$26boo19boo10boo14b
+oo$26bo33bo10boobboo$27b3o27b3o10bobo$29bo27bo13bo31boo$bo101bo$b3o63b
+oo4boo26bobo$4bo60boboo4bo27booboo$3boo59bo9b3o27bo$67bo8bo27bobo$63b
+oobo14boo20boob3o$28bo34boo17bo26bo$26b3o53bobo18booboobbo$25bo57boo
+18booboboo$oo23boo81bo$obboo103bo$boobo101boboo$bbo103boobbo$bbo81boo
+23boo$booboboo18boo57bo$obbooboo18bobo16b3o34b3o$bo26bo19bo33bo$bb3ob
+oo20boo14bo3bo$4bobo27bo8bobobbo$6bo27b3o4bobbobo59boo$5booboo27bo3bo
+3bo60bo$7bobo26boo3bo65b3o$7bo34b3o64bo$6boo31bo13bo27bo$38bobo10b3o
+27b3o$34boobboo10bo33bo$34boo14boo10boo19boo$62bo16boo$60bobo16bo$60b
+oo19bo$80boo$41b3o$41bo4bo$41bo$42bo3bo$44bo$77boo$77boo17boo$13boo21b
+oo58boo$13boo21bobo7boo$19boo17bo8bo$19boo17boo4b3o50boo$44bo52bo$84b
+oo12b3o$17boo50bo15bo14bo$17boo5boo44bo11b3o$24boo42b3o11bo!

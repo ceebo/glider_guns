@@ -1,0 +1,19 @@
+#C p00177 From Hersrch - Scot Ellison July 8, 2008
+#C (112+112+65+65)*2 - 4 Herschels
+x = 90, y = 90, rule = B3/S23
+59boobo7bo$59boboo7b3o$32bo40bo14bo$32b3o37boo12b3o$35bo49bo$34boo39b
+oo8boo$68bobo$38boo30bo$38boo44boo$66bo3boo12boo$66boboboo$26boo41bo$
+25bobbo7boo$25bobobbo5boo6boo$26bo3bo12b4o$30bo11boobobo$27bo15b3obo
+20boo$28boo15boo22bo$45bo21bo$67boo$71boo$72bo$69b3o$69bo$41boo$28boo
+11boo$28boo$$89bo$bboo83bobo$3bo15boo67boo$3bobo13boo$4boobboo$8boo26b
+oo$26boo8boo$22boobb3obboo$21boo4bobobbo$22boboobo3bo7boo38boo$23boo3b
+o10bobo37boo$41bo28boo$41boo27bobbo$30bo35boo4boo$30bo26boo8bo20boo$
+28boboo24bobbo7bobo18bo$bboo23boo3bo23bobo9boo16bobo$bobo16boo9bobo23b
+o3boo23boo$bo18bobo7bobbo24boobo$oo20bo8boo26bo$16boo4boo35bo$16bobbo
+27boo$18boo28bo$9boo37bobo10bo3boo$9boo38boo7bo3boboobo$57bobbobo4boo$
+57boobb3obboo$oo50boo8boo$bo50boo26boo$o79boobboo$oo67boo13bobo$69boo
+15bo$86boo3$60boo$47boo11boo$47boo$20bo$18b3o$17bo$17boo$21boo$22bo21b
+o$20bo22boo15boo$20boo20bob3o15bo$42boboboo11bo$43b4o12bo3bo$44boo6boo
+5bobbobo$52boo7bobbo$20bo41boo$18boobobo$4boo12boo3bo$4boo44boo$19bo
+30boo$19bobo$3boo8boo39boo$4bo49bo$b3o12boo37b3o$bo14bo40bo$17b3o7boob
+o$19bo7boboo!

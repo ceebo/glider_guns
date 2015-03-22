@@ -1,0 +1,21 @@
+#C p506 - doubled period of p253 - Scot Ellison - August 11, 2003
+x = 93, y = 80, rule = B3/S23
+36bo$boo22b3o3bo$boo20b5obbobo12boo$22boo3boo3bo12boo$17boobobboo3bobb
+o$oo10b3obboobbobbo3b3o$oo11boo6bo$14b3o3boobbo3b3o$15bo3bo3boo3bobbo$
+22boo3boo3bo$15bo3bo3b5obbobo$14b3o3boo3b3o3bo$oo11boo6bo43bobbo$oo10b
+3obboobbo33b3o7bo$17boobo20boo11bo4bo9bo$41boo10bo5bo8boo$boo51bo8bo$b
+oo52boo8boo$34bo$35bo19boo8boo$33b3o18bo8bo$20bo32bo5bo8boo$20boo32bo
+4bo9bo$7boo9bob3o32b3o7bo$7boo13boo15bo25bobbo$21boo17boo$21bo17boo$$
+21bo$21boo$7boo13boo10boo10bo$7boo9bob3o11boo8bobo$20boo23boo$20bo$$
+58boo$52bo3boobbo$51bo4boo$37bo13bo5bo$37b3o16boo$40bo6boobboo3booboo$
+39boo6bo3boo4bob4o22bo$46boo4boo4bobboo3boo17boo$46boo4boo4bo8bo17b3o$
+41boo8b3o3bo9bobo5bo6boo$40bobbo7boo4bo10boo4b3o5b3o$15bo24bobboo13bo
+3bo10bobbo5b3o$16bo3bo20bo18boo12b3o5bobbo$7boobboo8bo12boo6b3o29b3o5b
+3o4boo$7boobbo5boobbo12boo8bo30boo6bo5bobo$11bobo5boo50b3o17bo$12boo3b
+3o52boo17boo$73bo$12boo3b3o$11bobo5boo17bo$7boobbo5boobbo16boobo$7boo
+bboo8bo15bobobo14bo3b3o$16bo3bo34bobobb5o$15bo39bo3boo$56bobbo3boobo$
+32boo23b3o3boob3o$31bobo35bo$boo30bo23b3o3boob3o$boo53bobbo3boobo$41b
+oo12bo3boo$15boo24boo12bobobb5o$oo12booboo37bo3b3o$oo13bobbo$15bobbo8b
+4o$16boo8boobbo$25boobbo$16boo8bobbo$15bobbo8boo$oo13bobbo$oo12booboo
+8boo$15boo9bobbo$25boobbo15boo45bo$boo23boobbo14boo43bobo$boo24b4o60b
+oo$34bo!

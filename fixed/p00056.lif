@@ -1,0 +1,26 @@
+#Cpseudo p56 bootstrapped Herschel gun  Dave Greene  9 Mar 2003
+x = 133, y = 104, rule = B3/S23
+92boo$$90bo3bo$55bo34bo4bo$54bobo35bobobo8bo$53bo3bo35bobobo5b3o$54bo
+3bo8bo26bo4bobbo$55bo3bo5b3o27bo3bobboo$56bo3bo3bo$57bobo4boo30boobbo$
+58bo40bobo$62bo37boobboo$61bobo40boo$62boobboo$66boo18boo5boo$87bo5boo
+6b3o$87bobo11bo$88boo12bo$92boo$91bobo$92bo$88bo40bo$87b3o39boo$86bob
+3o37boobo$85bo3bo37bobb3o$84bo3bo37bobobo$83b3obo37bobobo$84b3o36b3obb
+o$50bo34bo38boboo$48boo75boo$49boo25b3o43bo3bo$33bo42bo44bobo$77bo43b
+oo$31b3obo89boo$21bo8boboo91bobo$21b3o6boobo86boo5bo$24bo3bob3o28bo42b
+o15boo5boo$23boo36b3o38b3o$30bo33bo36bo$26bo20boo14boo11boo23boo15bo$
+25bobo19boo15booboobo5boo38bobo$21boobboo38boobobbo45boo$21boo42bo5bo
+34bo$41boo24bobobboo32boo$41boo23boobo3bo31bobo$bboo41boo20bobobobo27b
+oo$45boo23b3o27bo3bo8boo$o3bo99bo7bobbo$o4bo54bobo42boo6boo$bbobobo53b
+oo26boo15bo$3bobobo32boo19bo27bo14bo$4bo4bo24bo5boo44b3o6boboo17boo$5b
+o3bo25bo50bo6b3oboo17bo$33b3o24bo3boo26bo24b3o12bo$6boobbo48bobo3bo27b
+3oboo20bo10bobo$9bobo47boo3bo30bobo33boo$10boo10bo40bo12boo17bobo$6boo
+12boo37b5obo10bo19bo10boo$5bobo13boo36bo4boo11b3o27bo$5bo5boo47b3o16bo
+28b3o$4boo5boo49boboo44bo$63bobo$22boo50bo$18boobboo49b3o$17bobo52b3ob
+o$18bo35bo18bo3bo8bo$53b3o18bo3bo5b3o$13b3o4boo30boobbo18bob3o3bo$13b
+3o4bo33b3o19b3o4boo$13b3o5b3o53bo19boo$10b3o10bo57bo$10b3o67bobo13bo3b
+o$10b3o68boobboo8bo4bo$85boo7bobobo$50bobb3o37bobobo$50boboobbo34bo4bo
+$52bo3boo12bo20bo3bo$57bo13boo$54bobbo12boo18bobboo$43boobo7bobbo31bob
+o$43boboo8boo32boo$74bo18boo$73bo19bobo$73b3o12boo5bo$88boo5boo4$75boo
+$75boobboo$79bobo$71boo7bo$67boobboo$66bobo8boo4b3o$67bo10bo4b3o$63bo
+11b3o5b3o$62bobo4boo4bo10b3o$61bo3bo3bo16b3o$60bo3bo5b3o13b3o$59bo3bo
+8bo$58bo3bo$59bobo$60bo$67bo!

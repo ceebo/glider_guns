@@ -1,0 +1,14 @@
+#C p00456 found using Karel Suhajda's Hersrch program
+#C Scot Ellison - May 2003
+x = 126, y = 68, rule = B3/S23
+31boo7boo$30bobo7boo21boo7boo24boobo$28b3obobo27bobo7boo24boboo$bboo
+23bo5boo25b3obobo$3bo23boo30bo5boo39bo$3bobo53boo45b3o$4boobboo99bo14b
+o$8boo98boo12b3o$121bo$111boo8boo$104bobo$106bo$120boo$102bo3boo12boo$
+102boboboo$105bo3$bboo$bobo16boo$bo18bobo81boo$oo20bo82bo$16boo4boo79b
+o$16bobbo83boo$18boo22boo63boo$9boo31bo31boo32bo$9boo32b3o28bo30b3o$
+45bo29b3o27bo$77bo$oo$bo$o$oo123bo$123bobo$124boo5$48bo$20bo27b3o29bo$
+18b3o30bo28b3o32boo$17bo32boo31bo31boo$17boo63boo22boo$21boo83bobbo$
+22bo79boo4boo$20bo82bo20boo$20boo81bobo18bo$104boo16bobo$122boo3$20bo$
+18boobobo$4boo12boo3bo$4boo$19bo$19bobo$3boo8boo$4bo$b3o12boo98boo$bo
+14bo99boobboo$17b3o45boo53bobo$19bo39boo5bo30boo23bo$59bobob3o25boo5bo
+23boo$24boobo24boo7bobo27bobob3o$24boboo24boo7boo21boo7bobo$84boo7boo!

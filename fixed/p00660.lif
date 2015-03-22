@@ -1,0 +1,12 @@
+#Cp00660 - Four queen bee thinners added to the p132.
+#CScot Ellison   March 2003
+x = 62, y = 47, rule = B3/S23
+9boo10boo$8bobbo8bobbo$8b3o10b3o$11b10o28boo$10bobb6obbo26bobbo$10boo
+bb4obboo29bo$51bo$49bobo$21bo27bobo$21b3o26bo$24bo$23boo32boo$47boo3b
+oo3boo$44bobbo5bo$32bo9b3o$31b3o7bo6bo3bo$15bo14bobbo7boo6b3o6bo$oo12b
+3o14boo24bobo$oo11bo3bo38bo3bo$13booboo39b3o$32b3o20boo3boo$30boo$30bo
+bbo$31b3o16boo$13booboo32boo$oo11bo3bo$oo12b3o22bo$15bo11boo11boo$27bo
+bo8boo$29bo10bo$29boo$58boo$38bobo17boo$36bo3bo$29boo5bo$29boo4bo4bo8b
+oo$36bo12boo$36bo3bo$10boobb4obboo16bobo$10bobb6obbo39bo$11b10o28bo9bo
+bo$8b3o10b3o24boo10boo$8bobbo8bobbo13boo8boo4boo$9boo10boo14boo7b3o4b
+oobboo$47boo4boobboo$48boo$49bo!

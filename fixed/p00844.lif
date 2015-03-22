@@ -1,0 +1,17 @@
+#C p844 gun - Karel Suhajda - April  26, 2003
+#C Trimmed two rows - Scot Ellison – April 28, 2003
+x = 120, y = 69, rule = B3/S23
+30bo49bo20bo$28b3o20boo6boo17b3o11bo7bobo$bboo23bo23bobbo4boo16bo14b3o
+6bo$3bo23boo19booboboo22boo16bo16bo$3bobo41bobobo42boo14b3o$4boobboo
+37bo3boboo54bo$8boo35b3obbobboo54boo$44bo5boo$31boo11boo61bo$31boo73bo
+bo$87boo14b3obo6boo$87boo14b3o8bo$112bobo$112boo$$104b3o$99boo$bboo52b
+oo32boo6bobo3boo$bobo16boo34boo11boo20bo6bo$bo18bobo46bo20bo6boo$oo20b
+o47b3o17boo$16boo4boo48bo$16bobbo$18boo32boo$9boo41bo$9boo20boo20b3o
+45boo$32bo22bo44bobo$29b3o68bo$oo27bo69boo$bo$o$oo3$119bo$117bobo$118b
+oo4$19boo69bo$19bo68b3o$17bobo44bo22bo$17boo45b3o20boo20boo$67bo41boo$
+66boo32boo$100bobbo$47bo48boo4boo$28boo17b3o47bo20boo$21boo6bo20bo46bo
+bo18bo$21bo6bo20boo11boo34boo16bobo$19bobo6boo32boo52boo$19boo3$6boo$
+5bobo$5bo25boo$4boo25boo$87boo$74boo11boo$68boo5bo$9boo54boobbobb3o35b
+oo$10bo54boobo3bo37boobboo$7b3o14boo42bobobo41bobo$7bo16bo16boo22boobo
+boo19boo23bo$18bo6b3o14bo16boo4bobbo23bo23boo$17bobo7bo11b3o17boo6boo
+20b3o$18bo20bo49bo!

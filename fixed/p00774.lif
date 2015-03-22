@@ -1,0 +1,18 @@
+#Cp00774 found using Karel Suhajda's Hersrch program
+#CScot Ellison - May 2003
+#Ctwo columns shaved by Karel Suhajda, 19 Aug 2003
+x = 93, y = 83, rule = B3/S23
+27bo15boboo27bo$26bobo7bo6boobo25b3o$27bo6b3o34bo$16bo16bo37boo$16b3o
+14boo$19bo$18boo3$77boo$13boo25boo35bobo$14bo25boo37bobboo$14bobo61boo
+bobo$15boo60bo3bo$77b5obbo$82b3o$28boo47bo3bo$28bobo6boo37bo5bo$30bo6b
+o38b6o$30boo6bo$37boo39boo$78boo4$26boo$26bobo$28bo$28boo$85boo$bo83bo
+$b3o79bobo$4bo78booboo$3boo81bo$86bobo$63boo20boob3o$28bo35bo26bo$26b
+3o35bobo18booboobbo$25bo39boo18booboboo$oo23boo63bo$obboo85bo$boobo83b
+oboo$bbo85boobbo$bbo63boo23boo$booboboo18boo39bo$obbooboo18bobo35b3o$b
+o26bo35bo$bb3oboo20boo$4bobo$6bo81boo$5booboo78bo$7bobo79b3o$7bo83bo$
+6boo$63boo$64bo$22bo41bobo$21b3o41boo$20bobboo$20booboo$19b3o$13boo5b
+oobo$13boo6bobbo29boo$21bo32bo6boo$11b6o5bobo30bo6bo$10bo5bo6bo8boo20b
+oo6bobo$11bo3bo16boo29boo$8b3o$8bobb5o7bo$11bo3bo5bobboo50boo$9boboboo
+7b4o50bobo$9boobbo5bo31boo25bo$13bobo5bobbo26boo25boo$14boo7b3o$20boob
+ooboo$26boo$26bo46boo$73bo$58boo14b3o$20boo37bo16bo$21bo22bo11b3o6bo$
+18b3o24bo10bo7bobo$18bo24b3o19bo!

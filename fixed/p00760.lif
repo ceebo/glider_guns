@@ -1,0 +1,16 @@
+#C p760 gun based on Dave Greene's p232
+#C Scot Ellison - 15 November 2005
+x = 106, y = 71, rule = B3/S23
+62bo$56b3o10bo$59bo$55bo3bo7bob3o$45bo8bobobbo9boobo8bo$45b3o4bobbobo
+11boboo6b3o$48bo3bo3bo13b3obo3bo$47boo3bo25boo$53b3o16bo$50bo25bo$49bo
+bo23bobo$45boobboo25boobboo$45boo33boo7$102bo$101bobo$100bo3bo$99bo3bo
+$98bo3bo$97bo3bo$98bobo$99bo5bo$95bo$94bobo$15boo77boo$8boo5boo81boo$
+8boo88bobo$42bo9bo40boo5bo$29boo11b3o5b3o40boo5boo$10boo16bobo14bo3bo$
+10boo18bo13boo3boo$4boo$4boo4$58bo$57b3o$35boo19b3obo24boo5boo$35boo
+20bo3bo23boo5bo$47boo9bo3bo27bobo$46bobbo9bob3o26boo$47boo4boo5b3o23b
+oo$53bobo5bo24bobo$bo53bo9bo21bo3bo$b3o51boo7bobo23boo$4bo40boo18boo
+22boboo$3boo41bo14boo25b3obbo$43b3o14bobo27bobobo$30boo11bo16bo5boo23b
+obobo$30boobboo23boo5boo24bobb3o$34bobo56boobo$25bo9bo58boo$23b3o13bo
+38boo14bo$22bo9boo4bobo33boobboo$22boo9bo3bo3bo31bobo$30b3o5bo3bo31bo$
+30bo8bo3bo26bo$oo38bo3bo24bobo4boo$oo39bobo24bo3bo3bo$42bo24bo3bo5b3o$
+66bo3bo8bo$65bo3bo$17bo8bo39bobo$9boo5bobo8bo39bo$9boo6bo7b3o!

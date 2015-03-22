@@ -1,0 +1,22 @@
+#C p588 - doubled period of p294 with a p7 pulse divider
+#C Scot Ellison - August 19, 2003
+#C
+x = 107, y = 93, rule = B3/S23
+36boo7boo$35bobo7boo$33b3obobo27bo20bo$7boo23bo5boo25b3o11bo7bobo$8bo
+23boo30bo14b3o6bo$8bobo53boo16bo16bo$9boobboo66boo14b3o$13boo81bo$96b
+oo3$77bo$77boo22boo$77bobo21bo$99bobo$99boo3$7boo77boo$6bobo16boo50boo
+6bobo$6bo18bobo50bo6bo$5boo20bo49bo6boo$21boo4boo48boo$21bobbo$23boo
+22boo$14boo31bo$14boo32b3o$51bo36boo$48boobo35bobo$48boob3o33bo$54bo
+31boo$53boo$$4boo$5bo$5bobo$6boo$79boo$80bo$80bobo15boo5boo$25bo55boo
+15boo6bo$14bo8b3o79bo$15bo6bo82boo$15bobo4boo$15bo10boo$16bobo8bo13bo$
+18bo6bo15b3o$16bobo6boo17bo$16boo25boo4$99boo$28boo69bobo$9boo17boo71b
+o$9boo40boo48boo$50boo$52bo$8boo$5bo3bo$5b4o12boo23boo35boo$bbo18bo23b
+obo34bobo$bb7o13b3o20bo26bo9bo$oo6bo15bo19boo26b3o5b3o$obboobo68bo3bo$
+boo3b5o63boo3boo$bbobo6bo$bbobboboobobo$boobo3bobobo6boo33boo$bboboobo
+bboo7boo28boo3boo$obo4bobo39boo40boo$oobobobobo81boo$3boboboboo$oobo4b
+o39boo48boboo$obboobobo40bo4boo20b3o5boo12boobo$boo3boboo36b3o5boo20b
+3o3bobbo$3b4o39bo20boo6bobb3obobb3o$3bo3boobboo54boo6b3obo6b3o$4b3o65b
+o3boobbobo6boo$6boboo4boo56bobbo5boobo3bo5boo$8bo5boo56bobo7bobbo8bobo
+$6bobo74boo11bo$6boo60boo26boo$69bo$22boo42b3o3bobo$22bo43bobb6o$23b3o
+43bo4bo$25bo44b3oboo$72bobobbo$12boo62boo$13bo24bo$10b3o26bo$10bo26b3o
+!

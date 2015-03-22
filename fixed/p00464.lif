@@ -1,0 +1,20 @@
+#C P464 formed by adding a rotor to p928
+#C Scot Ellison 16 November 2005
+x = 128, y = 74, rule = B3/S23
+86boboo$86boob5o$4boobo83bo$4boboo84bo$19boo52bo42bo$5b5o5boobboobboo
+29boo17b3o38b3o$oobbo4bo5bobobbobboo30bo20bo36bo$obbobbo9b3o35bo20boo
+11boo23boo7boo$boboboo10boo35boo32boo32bo$oobo5bo110bobo$3bo4bobo109b
+oo$3boobbobbo104bo$8boo105b3o$29boo82b3obo$29boo26boo52b3obobo$57boo
+51boobo$110bo4boo$100boo9b4o10bo$101bo8booboo9bobo$98b3o8boo14bo$98bo
+11bo$27boo78b3o$26bobo38boo38bo$26bo41bo20boo$19boo4boo25boo11b3o21bob
+o30boo$19bobo30boo11bo25bo30bobo$21bo69boo31bo$21boo101boo$38boo66bob
+oo$39bo66boobo$36b3o$36bo78boo$3boo43boo65boo$bbobo43bo$bbo46b3o$boo
+48bo4$76bo48boo$76b3o46bo$79bo43bobo$11boo65boo43boo$11boo78bo$89b3o$
+18boboo66bo$18boobo66boo$bboo101boo$3bo31boo69bo$3bobo30bo25bo11boo30b
+obo$4boo30bobo21b3o11boo25boo4boo$37boo20bo41bo$20bo38boo38bobo$18b3o
+78boo$17bo11bo$bbo14boo8b3o$bobo9booboo8bo$bbo10b4o9boo$11boo4bo$14bob
+oo51boo$10bobob3o52boo26boo$10bob3o82boo$10b3o105boo$12bo104bobbobboo$
+6boo109bobo4bo$5bobo110bo5boboo$5bo32boo32boo35boo10boobobo$4boo7boo
+23boo11boo20bo35b3o9bobbobbo$14bo36bo20bo30boobbobbobo5bo4bobboo$11b3o
+38b3o17boo29boobboobboo5b5o$11bo42bo52boo$35bo84boobo$36bo83boboo$34b
+3o!

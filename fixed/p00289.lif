@@ -1,0 +1,19 @@
+#C p289 - Scot Ellison - May 19, 2003
+x = 130, y = 75, rule = B3/S23
+76bo$74b3o$73bo$20bo52boo$20b3o33boo19boo$7boo3boo9bo14boo17bo19boo$7b
+oo4bo8boo15bo17bobo$38bo19boo$38boo39bo$oo76bobo$bo13bo63bo$bobo10bob
+oo62b3o$bboo14b4o60bo$8bo3bo8bo$7b3o11bo19boo$6bobbobbo3boobbo20boo$7b
+oo5boobbo6boo$14boo7bobo41boo10boo$15bo7b3o41boo10boo$5boo9bo7bo$6bo8b
+3o77boo$3b3o12bo15boo59bo$3bo12bo18bo15boo40bobo$13boo19bo17bo19bo20b
+oo$12bo21boo13b3o19boo39boo$13bo3bo31bo21bobo16bo21boo5boo$14b3o72bobo
+27boo$88bo$88bo3boo$18boo47boo18boobo3bo3boo17boo$18boo42boo3boo18bo5b
+o5bo17boo$9boo51boo23bobobo7bobo21boo$8bobo78boo9boo21boo$8bo$7boo52b
+oo$62bo4boo$59b3o5boo23boo$59bo31bobbo$90booboo$79boo11bo$80bo$77b3o
+44bo$77bo44b3o$121bo$96boo23boo$97bo$94b3o$94bo$39boo48boo$40bo25bo23b
+o$20boo18bobo21b3o23bobo$20boo19boo20bo27boo$29boo32boo$27bobbo$27boo
+4boo48bo$11boo20bo47b3o44boo$12bo18bobo31bo14bo47boo$12bobo16boo31boo
+14boo$13boo48boo$64bo$65bo57boo$67bobo53boo$69bobo55boo$68b5o54boo$71b
+oo$70b3o$42boo29bo18boo27boo$42boo11boo16b3o16boo11boo14boo$55bo5boo8b
+obo31bo$19boo35b3obbobboo5bo34b3o$15boobboo37bo3boboo42bo$14bobo41bobo
+bo$14bo44booboboo24bo$13boo27boboo16bobbo4boo19bo$42boobo16boo6boo17b
+3o!

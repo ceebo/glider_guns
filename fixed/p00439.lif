@@ -1,0 +1,17 @@
+#C p00439 gun Karel Suhajda, 11 May 2003
+#C Minor improvement - Scot Ellison July 9, 2008
+#C (64+64+158+153)*2 - 2 Herschels
+x = 124, y = 64, rule = B3/S23
+86boo4bo$77boo7bobobbobo$78bo9b4obbo$78bobo6bo4bobo$79boo6boobbooboo$
+97bo$91boob4obbo$16boo73boobo3b3o$9boo5boo39bo9bo29bo$9boo46b3o5b3o18b
+oo9boo$45boo13bo3bo20boo$45bo13boo3boo21bo$11boo17boo14bo31bo$11boo17b
+o14boo30b4o34boo$5boo21bobo45bo3bo34boo$5boo21boo47b3obo3boo$78b3o$80b
+o40boo$121boo$42boo73boo$42boo73boo4$5bo116boo$5b3o77boo35boo$8bo64boo
+9bobo4boo$7boo23boo19bo6boo11bobo8bo6bo$32bo18b3o6boo13bo7boo7b3o$33b
+3o14bo24boo17bo$35bo14boo3$72boo14bo$29bo17boo24bo14b3o$29b3o7boo7bo
+13boo6b3o18bo$32bo6bo8bobo11boo6bo19boo$31boo4bobo9boo$oo35boo$oo3$
+123bo$5boo73boo39bobo$5boo73boo40boo$boo$boo40bo$43b3o$37boo3bob3o47b
+oo21boo$7boo34bo3bo45bobo21boo$7boo34b4o30boo14bo17boo$45bo31bo14boo
+17boo$36bo21boo3boo13bo$37boo20bo3bo13boo$25boo9boo18b3o5b3o46boo$26bo
+29bo9bo39boo5boo$23b3o3boboo73boo$23bobb4oboo$26bo$28booboobboo6boo$
+29bobo4bo6bobo$29bobb4o9bo$30bobobbobo7boo$31bo4boo!

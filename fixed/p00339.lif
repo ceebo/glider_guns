@@ -1,0 +1,20 @@
+#Cp00339 found using Karel Suhajda's Hersrch program
+#CScot Ellison  June 2003
+#Cbounding box improved by Karel Suhajda, 7 Sep 2003
+x = 106, y = 101, rule = B3/S23
+33bo39bo$31b3o37b3o$5boo23bo39bo$6bo23boo38boo$6bobo$7boobboo37bo$11b
+oo35b3o$47bo47boo$34boo11boo46boo$34boo$$101boo$101boo$97boo$97boo3$5b
+oo$4bobo16boo77boo$4bo7boo9bobo76boo$3boo20bo$11bobo5boo4boo51boo3bo$
+12bo6bobbo55bo3bobo$12bo8boo32boo22bo3boo$33boo20bo5boo17bo$32bobo21b
+3obobo15bob5o$32bo25bobo7boo8boo4bo$31boo26boo7boo11b3o$78boobo18bo$
+78bobo19b3o$103bo$102boo$bboo95boo$3bo95bob5o$3bobo76boo5bo15bo$4boo
+75bobo4b3o9boobo$81bo5boobbo8booboo$80boo$92bo$94bo$92b3o$94bobo7boo$
+93b4obboo3boo$94b3o$97b3o$98bo$98bo3$26boo$26bo$24bobo60boo$24boo60bob
+o$oo84bo$oo83boo6$bboo75bo25bo$3bo75b3o21bobo$3o79bo21boo$o80boo14boo$
+boo94boo$bbo$bbobo$3boo$63boo$64bo$62bo10boo$60b4o9bo$21boo34bobo4bo6b
+obo$21bo33b3oboobboo6boo$19bobo32bo$19boo30bobb4oboo$51b3o3boboo37boo$
+54bo43bobo$53boo45bo$100boo$30boo$23boo6bo$23bo6bo$21bobo6boo$21boo$$
+53b3o$8boo41bo4bo$7bobo43boboo$7bo25boo15b3o$6boo25boo14bo$$97boo$97b
+oo$11boo52boo5boo17boo$12bo46boo4bobo3bobo17boo$9b3o14boo32bo6bo3bo$9b
+o16bo16boo12b3o7booboo$20bo6b3o14bo12bo35boo$19bobo7bo11b3o42boo5boo$
+20bo20bo44boo!

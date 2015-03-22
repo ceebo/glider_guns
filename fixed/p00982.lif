@@ -1,0 +1,18 @@
+#C p982 based on Karel Suhajda's p491
+#C Scot Ellison - May 14, 2003
+x = 138, y = 78, rule = B3/S23
+18boo$11boo5boo$11boo62boo$47boo27bo25bo20bo$47bo28bobo21b3o11bo7bobo$
+13boo17boo14bo11bo16boo20bo14b3o6bo$13boo17bo14boo9b3o38boo16bo16bo$7b
+oo21bobo24bo58boo14b3o$7boo21boo25boo10boo60bo$69bo61boo$67bobo$67boo$
+44boo$44boo63boo25boo$109boo18bo6bo$128boo3boobo$127b4o4bo$126boo3bo$
+127bo$121boo8bobo$34boo42boo32boo6bobo8boo$4boo28bo18boo23boo11boo20bo
+6bo$5bo29b3o16bo36bo20bo6boo5bobo$5bobo29bo13b3o38b3o17boo13bo$6boo43b
+o42bo$$74boo$74bo$75b3o45boo$77bo44bobo$122bo$121boo$$137bo$oo133bobo$
+bo134boo$o6boo$oo5boo14boo90bo$23bo91b3o$24b3o91bo$26bo90boo14boo$133b
+oo5$19boo$19bo$17bobo44bo$17boo45b3o$67bo$66boo$$47bo42bo43boo$28boo
+17b3o38b3o13bo29bobo$21boo6bo20bo36bo16b3o29bo$21bo6bo20boo11boo23boo
+18bo28boo$19bobo6boo32boo42boo$19boo3$6boo$5bobo$5bo25boo$4boo25boo63b
+oo$96boo$73boo$72bobo$9boo61bo$10bo60boo10boo25boo21boo$7b3o14boo58bo
+24bobo21boo$7bo16bo16boo38b3o9boo14bo17boo$18bo6b3o14bo20boo16bo11bo
+14boo17boo$17bobo7bo11b3o21bobo28bo$18bo20bo25bo27boo$65boo62boo$122b
+oo5boo$122boo!

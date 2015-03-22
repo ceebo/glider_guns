@@ -1,0 +1,20 @@
+#C p00705 - Scot Ellison July 10, 2008
+#C (64+64+171+171)*2 - p15 Tripler - 4 Herschels
+x = 120, y = 83, rule = B3/S23
+16boo$9boo5boo$9boo5boo$16b3o27bo$16bobbo24b3o$10bo5bo3bo9boo11bo$9bob
+o9b4o5bo12boo$5boobooboo6bob4o3bobo20bo$5boo5bo7bo7boo19b3o$11boo35bo$
+48boo$14boo$13bobbo$13bobo35boo$12boo37bo$12bo36bobo$15boo32boo$5bo9b
+oo$5b3o7boo$8bo3boobo40bo$7boo4b3o16bobo19b3o18bo$14bo18boo18bo19b3o$
+33bo19boo17bo$72boo$80bo$78b3o$77bo$77boo$29bo$29b3o26bo3boo4boo$32bo
+24boo4b5o12boo$oo29boo23boo9boobo9bo$oo39b3o13b5obbob4o8bobo$34b3o22b
+3o3bo12boo$45boo$45bo$5boo39b3o36bo$5boo41bo34b3o$boo79bo$boo79boo14b
+oo$98boo$$7boo$7boo14boo79boo$24bo79boo$21b3o34bo41boo$21bo36b3o39boo$
+61bo$60boo$27boo12bo3b3o22b3o$26bobo8b4obobb5o13b3o39boo$26bo9boboo9b
+oo23boo29boo$25boo12b5o4boo24bo$37boo4boo3bo26b3o$77bo$28boo77boo6boo$
+29bo75bo4bobbo4bo$26b3o76bo4bobbo4bo$26bo78bo4bobbo4bo$33boo72boo6boo$
+34bo17boo19bo$31b3o19bo18boo18bo$31bo18b3o19bobo16b3o16bobbo$50bo40bob
+oo13bob4obo$90boo15bobbobbobbo$90boo15bobbobbobbo$56boo32boo16boo4boo$
+55bobo36bo$55bo37boo$54boo35bobo$90bobbo$91boo$57boo$58bo35boo$55b3o
+19boo7bo7bo5boo$55bo20bobo3b4obo6boobooboo$62boo12bo5b4o9bobo$63bo11b
+oo9bo3bo5bo$60b3o24bobbo$60bo27b3o$89boo5boo20bo$89boo5boo21bo$89boo
+26b3o!

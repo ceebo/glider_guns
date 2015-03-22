@@ -1,0 +1,21 @@
+#C p00435 Tripled the p145 Gun.  Scot Ellison, 5 Dec 2003
+#C Reduced by 16 columns with smaller P5 - Scot Ellison 4 May 2007
+x = 112, y = 64, rule = B3/S23
+52boo14bo25bo$27boo24bo14b3o21b3o$28bo13boo6b3o18bo19bo9bo$28bobo11boo
+6bo19boo19boo6b5o$14boo13boo67bo5bo$14boo82boboobbo$97boobobob3obo$
+102bo4boo$8boo47bobo40boboboo$8boo47bobbo38boobobob5o$12boo43bobbo36b
+oo3bo5bobbo$12boo44boo37boobobb4o3boo$96boobb3o4bo$96b3o6bobo$96b3o6bo
+bo$7boo7b3o77boobb3o4bo$7boo6bobbo60boo16boobobb4o3boo$15bo3bo37boo20b
+oo16boo3bo5bobbo$14bo12bo3boo24bo41boobobob5o$13boob3o7bobo3bo5boo3boo
+13bo41boboboo$14bo11boo3bo7bo3bo13boo43bo4boo$14boo3bo10bo5b3o5b3o50b
+oobobob3obo$15bo10b5obo3bo9bo51boboobbo$26bo4boo65bo5bo$27b3o69b5o$20b
+obo6boboo68bo$21boo7bobo57bo$21bo57bobo7boo$10bo68boobo6bobo$8b5o69b3o
+$7bo5bo65boo4bo$7bobboobo51bo9bo3bob5o10bo$3bob3oboboboo50b3o5b3o5bo
+10bo3boo$3boo4bo43boo13bo3bo7bo3boo11bo$6boobobo41bo13boo3boo5bo3bobo
+7b3oboo$b5oboboboo41bo24boo3bo12bo$obbo5bo3boo16boo20boo37bo3bo$oo3b4o
+bboboo16boo60bobbo6boo$4bo4b3obboo77b3o7boo$4bobo6b3o$4bobo6b3o$4bo4b
+3obboo$oo3b4obboboo37boo44boo$obbo5bo3boo36bobbo43boo$b5oboboboo38bobb
+o47boo$6boobobo40bobo47boo$3boo4bo$3bob3oboboboo$7bobboobo82boo$7bo5bo
+67boo13boo$8b5o6boo6b3o31bo6boo11bobo$10bo9bo7bo6boo22b3o6boo13bo$17b
+3o8bo5boobo20bo24boo$17bo9b3o3bo3bo20boo$33b4o$27b3o4boo$27b3o4boo$33b
+4o$27b3o3bo3bo$28bo5boobo$28bo6boo$27b3o23bo$54bo$52b3o!

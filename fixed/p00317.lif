@@ -1,0 +1,17 @@
+#C p00317 based on Karel Suhajda's p951
+#C Scot Ellison - May 2003
+x = 125, y = 86, rule = B3/S23
+31boo7boo$30bobo7boo21boo7boo$28b3obobo27bobo7boo$bboo23bo5boo25b3obob
+o27bo$3bo23boo30bo5boo25b3o11bo$3bobo53boo30bo14b3o$4boobboo81boo16bo
+14bo$8boo98boo12b3o$112boo7bo$21bo91bo7boo$21boo83bo$15boo3bobo82bo5b
+oo$13b4o87boo14boo$12bo4bo83boobboo4boo7boo$12bobb4o82boo3bo$12boobob
+oo92bo$17boo25boo$14b3o26b3o$bboo38b3o$bobo16boo$bo18bobo81boo$oo20bo
+82bo$16boo4boo22bo55b3o$16bobo83bo$18bo23boo63boo$9boo7boo22bo31boo32b
+o$9boo32b3o28bo30b3o$45bo29b3o27bo$77bo$oo$bo$o123bo$oo97bo22bobo$99b
+3o21boo$102bo$89boo10boo14boo$89boo5boo19boo$96boo$60boo$61bo$20bo27bo
+11bo14boo17boo$18b3o27b3o9boo14bo17boo$17bo33bo24bobo21boo$17boo19boo
+10boo25boo21boo$23bo15bo$21b3o15bobo$20bo19boo$20boo41boo15boo$63boo
+14booboo34boo$79booboo34bobo$81b3o36bo$120boo$$23boo$4boo17boo$4boo67b
+oo$54boo18bo$54bo16b3o$3boo50b3o13bo$4bo52bo$b3o12boo90boo$bo14bo16boo
+73boo$17b3o14bo$19bo11b3o$31bo7$88boo$87bobo$87bo18boobo$86boo18boob3o
+$112bo$106boob3o$107bobo$107bobo$108bo5$96boo$96boo!

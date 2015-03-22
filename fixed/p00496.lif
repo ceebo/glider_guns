@@ -1,0 +1,16 @@
+#C p496 bootstrapped pi-factory gun:  Dave Greene, 20 Sep 2005
+#C (can produce Herschel output via standard Fx176 conduit)
+x = 118, y = 74, rule = B3/S23
+76bo$$73boo$71boboo$61bo8bo$61b3o9bo$64bo4boobo$63boo4boo$$66bo$65bobo
+$61boobboo$61boo5$83boo$$81bo3bo$81bo4bo$83bobobo8bo$84bobobo5b3o$11b
+oo72bo4bobbo$11boo25boo46bo3bobboo$38bo$36bobo48boobbo$36boo4boo46bobo
+$42boo47boobboo$18b3o74boo$104bo$bboo98b3o$bboo97bo$56boo43boo$56bo15b
+o7bo$54bobo15b3o4boo$54boo19bo3boo$3boboo67boo3bo$b3oboo77bo$o81boo27b
+o$b3oboo76boo24b3o$3bobo102bo$3bobo90bo11boo$4bo81boo7bobo$86boo7bobo$
+65boo29bo$32boo31boo$32bo44boo$33b3o6boo32bobbo$35bobboobboo33boo4boo$
+35bobobo43bobo12boo$34boobo47bo12boo9b3o$37bo47boo22bo$37boo36boo33bo$
+76bo$73b3o$60boo11bo$60boobboo$64bobo45bobboo$65bo3bo31bo9boo4bo$68boo
+30bobo8boo3bo$62boo3boboo33b3o8bo$63bobb3obbo35bo$60b3o5bobobo28boobob
+oo$60bo8bobobo31boobobboo$70bobb3o26boo4booboo$71boobo26bo3boobo$72boo
+$72bo25bobo$96b3obobobo3bo$95bo12bo$46bo49b3oboo5bo$47bo50bobobbo4b3o$
+45b3o54boo6bo!

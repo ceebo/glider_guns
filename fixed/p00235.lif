@@ -1,0 +1,17 @@
+#C p00235 From Hersrch - Scot Ellison July 10, 2008
+#C (64+64+171+171)*2 - 4 Herschels
+x = 107, y = 83, rule = B3/S23
+89boo$89boo5boo$96boo$60bo$60b3o$63bo11boo17boo$62boo12bo17boo$55bo20b
+obo21boo$55b3o19boo21boo$58bo$57boo$$64b3o$54boo8b3o$55bo8bobbo$55bobo
+10bo$56boo3bo6boo$62boo5boo30bo$63boo3b3o28b3o$50bo12bo34bo$31bo18b3o
+13bobboo27boo$31b3o19bo9bo$34bo17boo9bobbo$33boo30bo$26bo$26b3o$29bo$
+28boo$77bo11boo$75b3o10bobo$25boo47bo15bo$26bo47boo29boo$26bobo34b3o5b
+o33boo$27boo41bobo$60boo12bo$61bo8bo4bo$21bo36b3o39boo$21b3o34bo12boob
+oo24boo$24bo10bo37bo30boo$7boo14boo9b3o32bo34boo$7boo24bobboo30boo$33b
+oobobo29boboboo$37boo30boobbo24boo$boo34bo32b3o9boo14boo$boo30bo37bo
+10bo$5boo24booboo12bo34b3o$5boo39b3o36bo$31bo4bo8bo$32bo12boo$34bobo
+41boo$oo33bo5b3o34bobo$oo29boo47bo$16bo15bo47boo$16bobo10b3o$16boo11bo
+$77boo$77bo$78b3o$80bo$41bo30boo$40bobbo9boo17bo$43bo9bo19b3o$7boo27b
+oobbo13b3o18bo$8bo34bo12bo$5b3o28b3o3boo$5bo30boo5boo$37boo6bo3boo$38b
+o10bobo$39bobbo8bo$40b3o8boo$40b3o$$48boo$48bo$5boo42b3o$5boo44bo$11b
+oo30boo$11boo30bo$44b3o$46bo$9boo24bo$9boo5boo18bo$16boo16b3o!

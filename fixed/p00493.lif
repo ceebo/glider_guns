@@ -1,0 +1,20 @@
+#C p493 gun using Herschel transceiver with boojum reflector
+#C R(421+2*4) + R64 conduits  Dave Greene  18 May 2003
+x = 157, y = 91, rule = B3/S23
+63boo$63boo76boo6bo$137bobobbo4b3o$135b3oboo5bo$61boo40boo29bo11boo$
+61boo40boo5boo23b3oboo$48boo37bo22boo25boboo$49bo37b3o$49bobo38bo$50b
+oo37boo17boo35boo3boo$46boo60boo35boo3boo$46boo66boo$114boo$$155bo$
+154bobo$155bo$$59boo$59boo$$70boo$69bobbo$69bobo23boo$70bo20bo3boo21bo
+$90bobo23b3o$89bobo23bo$89bo25boo$88boo46booboo$136booboo$52boo66boo3b
+oo11bo$52boo66boo3boo$147boo$147bo$148b3o$117bo32bo$51boo63bobo$51bo
+64bobo$49bobo39boo24bo$49boo39bobo17boo$90bo18bobbo4bo$38b3o48boo20bo
+3b4o21boo$38bobbo66bo5boobobo20bo$39booboo57boo5b3obo3bo24b3o$39bo4bo
+56boo8bo4bo26bo$39bo77bo$13bo26bo4bo8boo56bo4bo$13b3o24bo3bob3o5boo57b
+ooboo$16bo20boboboo5bo66bobbo$15boo21b4o3bo20boo48b3o$39bo4bobbo18bo$
+45boo17bobo39boo$39bo24boo39bobo$38bobo64bo$38bobo63boo$6bo32bo$6b3o$
+9bo$8boo$30boo3boo66boo$18bo11boo3boo66boo$16booboo$16booboo46boo$40b
+oo25bo$41bo23bobo$38b3o23bobo$38bo21boo3bo20bo$60boo23bobo$84bobbo$85b
+oo$$96boo$96boo$$bo$obo$bo$$41boo$41boo66boo$5boo3boo35boo60boo$5boo3b
+oo35boo56boo$105bobo$107bo$16boobo25boo60boo$16boob3o23boo5boo40boo$9b
+oo11bo29boo40boo$10bo5boob3o$7b3o4bobbobo55bo$7bo6boo60bo15boo$74b3o
+15boo!

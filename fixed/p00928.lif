@@ -1,0 +1,21 @@
+#Cp00928 gun
+#Corigin unknown
+#Ctwo rows shaved by Karel Suhajda, 14 Jun 2003
+#Cthree more rows shaved by Karel Suhajda, 13 Aug 2003
+x = 128, y = 74, rule = B3/S23
+86bobooboo$86boobobobo$4boobo84bo$4boboo$19boo52bo42bo$5b5o5boobboobb
+oo29boo17b3o38b3o$oobbo4bo5bobobbobboo30bo20bo36bo$obbobbo9b3o35bo20b
+oo11boo23boo7boo$boboboo10boo35boo32boo32bo$oobo5bo110bobo$3bo4bobo
+109boo$3boobbobbo$8boo$29boo$29boo26boo$57boo$$100boo23bo$101bo22bobo$
+98b3o8boo14bo$98bo11bo$27boo78b3o$26bobo38boo38bo$26bo41bo20boo$19boo
+4boo25boo11b3o21bobo30boo$19bobo30boo11bo25bo30bobo$21bo69boo31bo$21b
+oo101boo$38boo66boboo$39bo66boobo$36b3o$36bo78boo$3boo43boo65boo$bbobo
+43bo$bbo46b3o$boo48bo4$76bo48boo$76b3o46bo$79bo43bobo$11boo65boo43boo$
+11boo78bo$89b3o$18boboo66bo$18boobo66boo$bboo101boo$3bo31boo69bo$3bobo
+30bo25bo11boo30bobo$4boo30bobo21b3o11boo25boo4boo$37boo20bo41bo$20bo
+38boo38bobo$18b3o78boo$17bo11bo$bbo14boo8b3o$bobo9booboo8bo$bbo10b4o9b
+oo$11boo4bo$14boboo51boo$10bobob3o52boo26boo$10bob3o82boo$10b3o105boo$
+12bo104bobbobboo$6boo109bobo4bo$5bobo110bo5boboo$5bo32boo32boo35boo10b
+oobobo$4boo7boo23boo11boo20bo35b3o9bobbobbo$14bo36bo20bo30boobbobbobo
+5bo4bobboo$11b3o38b3o17boo29boobboobboo5b5o$11bo42bo52boo$35bo84boobo$
+36bo83boboo$34b3o!

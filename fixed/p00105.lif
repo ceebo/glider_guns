@@ -1,0 +1,19 @@
+#CPseudo p105 gun
+#CKarel Suhajda, 9 Mar 2004
+x = 79, y = 64, rule = B3/S23
+34bo9boo$34boo9bo$22boo11boo8bobo7boo$21b3o3bo7b3o8boo6bobo$11boo5bob
+oo4b4o5boo16b3o12bo$11boo5bobbo4bo4bobboo7boo7b3o8boo3b4o$18boboo5bo3b
+obbo8bobo7b3o8boo3b4o$21b3o3boobo14bo8bobobbooboboo3bobbo$22boo21boo8b
+oobboobobo4b4o$61boobo3b4o$68bo$25bo9bobo$24bobo9boo$7boo14bo3boo7bo
+17bo$7bobo13bo3boo3boo18boo$bboo4b3o12bo3boo3boo19boo18b3o$bobbo4b3o
+12bobo45bo3bo$bboo4b3o7bo6bo$7bobo9boo23b3o24bo5bo$7boo9boo23boboo10b
+oo12boo3boo$3bo39bobbo10bobo$bbobo39boo13bo$bo3bo19bo18b3o12boo$b5o18b
+obo19bo$oo3boo17bobo$b5o8boo55boo$bb3o9bobbo32bobo19bo$3bo47boo16b3o$
+18bo32bo17bo$75boo$16boo53boobbo$15bo54bobbobo$23boo41booboboboboo$66b
+oboobobobo$12boo3boo52b3o3bo$12boo3boo48b4obob3obo$bboo9b5o48bo11bo$bb
+oo10bobo50b3obobob3o$69booboboo$14b3o$27boo$27bo$28b3o$30bo$17bo$16bob
+o18bo21boo$15bo3bo16b4o19boo$16b3o16boobobo$14boo3boo3boo8b3obobbo3bo$
+24boo9boobobo3bobo$36b4o3bo3bo$37bo5b5o17b3o$42boo3boo7boo6b5o9bo$43b
+5o8bo6bob3obo6bobo$44b3o10bo3b3o5b3o5boo$45bo10boobbo3bo3bo3bo$60bob3o
+bob4o$34bo26bo3b3o$32bobo28boboboboobo$16boo6boo4boo30boobbobboboo$16b
+oo6boo4boo31bobobbo$30boo31bobboo$32bobo27boo$34bo!

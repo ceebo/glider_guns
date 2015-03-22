@@ -1,0 +1,15 @@
+#C p670 - doubled period of p335 by removing a Herschel
+#C Scot Ellison - August 11, 2003
+x = 85, y = 72, rule = B3/S23
+28bo7boboo$26b3o7boobo$10bo14bo40bo$10b3o12boo37b3o$13bo49bo$12boo49b
+oo3$13boo$13boo17boo$32boo$$69bobbo$69bobbo$67boobooboo$69bobbo$29boo
+38bobbo$29bo37boobooboo$31bo37bobbo$30boo37bobbo$26boo$26bo$27b3o$29bo
+$oo54boo19boo$bo54boo19bo$bobo71bobo$bboo71booboo$78bo$78bobo$28bo26b
+oo20boob3o$26b3o27bo26bo$25bo30bobo18booboobbo$oo23boo30boo18booboboo$
+obboo77bo$boobo77bo$bbo77boboo$bbo77boobbo$booboboo18boo30boo23boo$obb
+ooboo18bobo30bo$bo26bo27b3o$bb3oboo20boo26bo$4bobo$6bo$5booboo71boo$7b
+obo71bobo$7bo19boo54bo$6boo19boo54boo$22bo32bo$21b3o31b3o$20bobbo34bo$
+20boo35boo$12bobbo5bo31boo$12bobbo7boo28bo$10boobooboo3b4o30bo$12bobbo
+4bobbo8boo20boo$12bobbo6bo9boo$10boobooboo$12bobbo5bobo$12bobbo6boo$$
+51boo$51boo17boo$24boo44boo$24boo$$20boo49boo$21bo49bo$18b3o37boo12b3o
+$18bo24bo15bo14bo$44bo11b3o$42b3o11bo!

@@ -1,0 +1,16 @@
+#C pseudo p232 gun  Dave Greene  4 May 2003
+x = 102, y = 67, rule = B3/S23
+59bo$52b3o10bo$55bo$51bo3bo7bob3o$41bo8bobobbo9boobo8bo$41b3o4bobbobo
+11boboo6b3o$44bo3bo3bo13b3obo3bo$43boo3bo25boo$49b3o16bo$46bo25bo$45bo
+bo23bobo$41boobboo25boobboo$41boo33boo7$98bo$97bobo$96bo3bo$95bo3bo$
+94bo3bo$93bo3bo$15boo77bobo$8boo5boo78bo5bo$8boo81bo$42bo9bo37bobo$29b
+oo11b3o5b3o37boo$10boo16bobo14bo3bo44boo$10boo18bo13boo3boo43bobo$4boo
+83boo5bo$4boo83boo5boo$$50bo$49bo$49b3o6bo$57b3o$35boo19b3obo$35boo20b
+o3bo$47boo9bo3bo$46bobbo9bob3o$47boo4boo5b3o18boo5boo$53bobo5bo19boo5b
+o$bo53bo9bo20bobo$b3o51boo7bobo19boo$4bo40boo18boo15boo$3boo41bo14boo
+8boo9bobo$43b3o14bobo7boo11bo3bo$30boo11bo16bo5boo4bo13boo$30boobboo
+23boo5boo17boboo$34bobo47b3obbo$25bo9bo50bobobo$23b3o13bo38boo7bobobo$
+22bo9boo4bobo33boobboo8bobb3o$22boo9bo3bo3bo31bobo13boobo$30b3o5bo3bo
+31bo15boo$30bo8bo3bo26bo19bo$oo38bo3bo24bobo4boo$oo39bobo24bo3bo3bo$
+42bo24bo3bo5b3o$66bo3bo8bo$65bo3bo$17bo8bo39bobo$9boo5bobo8bo39bo$9boo
+6bo7b3o!

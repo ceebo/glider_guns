@@ -1,0 +1,16 @@
+#C p00186 gun based on Karel Suhajda's p744
+#C Scot Ellison - 19 Aug 2003
+x = 105, y = 74, rule = B3/S23
+97bo$20boo67boo5bobo$13boo5boo66bobbo5bo$13boo71bobbobo$49boo34bo4bo4b
+5o$49bo35bo9bo4bobboo$15boo17boo14bo36b3o8bobbobbo$15boo17bo14boo47boo
+bobo$9boo21bobo60bo5boboo$9boo14boo5boo60bobo4bo$24bobbo51bo14bobbobb
+oo$24bobbo51bo15boo$24b5o45b3obbo$27booboo14boo26boboo$29bo16boo27b3o
+6$76boo$36boo38bobo$6boo28bo41bo$7bo29b3o11boo25boo4boo$7bobo29bo11boo
+30bobo$8boo73bo$82boo$65boo$65bo$66b3o$68bo$55boo$56bo19bo$53b3o20b3o$
+53bo25bo24bo$78boo14boo6bobo$94boo7boo$9boo$9boo14boo$boo22bo25bo$bbo
+23b3o20b3o$bbobo23bo19bo$3boo43boo$36bo$36b3o$39bo$38boo$21boo$21bo73b
+oo$19bobo30boo11bo29bobo$19boo4boo25boo11b3o29bo$26bo41bo28boo$26bobo
+38boo$27boo6$27b3o27boo16bo$27boobo26boo14booboo$25bobb3o45b5o$8boo15b
+o51bobbo$3boobbobbo14bo51bobbo$3bo4bobo60boo5boo14boo$oobo5bo60bobo21b
+oo$boboboo47boo14bo17boo$obbobbo8b3o36bo14boo17boo$oobbo4bo9bo35bo$5b
+5o4bo4bo34boo$13bobobbo71boo$7bo5bobbo66boo5boo$6bobo5boo67boo$7bo!

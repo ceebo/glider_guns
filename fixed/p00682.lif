@@ -1,0 +1,13 @@
+#C p682 - doubled period of p341 by removing a Herschel
+#C Scot Ellison - August 11, 2003
+x = 102, y = 68, rule = B3/S23
+71boobo7bo$71boboo7b3o$33bo51bo14bo$31b3o50boo12b3o$30bo13bo52bo$30boo
+12b3o40boo8boo$47bo32bobo$bboo42boo34bo$3bo92boo$3bobo72bo3boo12boo$4b
+oobboo68boboboo$8boo71bo4$37boo$37boo41boo$60boo19bo$60bobo16bo$62bo
+16boo$50boo10boo19boo$50bo33bo$bboo36boo9b3o27b3o$bobo16boo19bo11bo27b
+o$bo18bobo17bo$oo20bo17boo$16boo4boo$16bobbo$18boo81bo$9boo88bobo$9boo
+89boo3$oo$bo$o$oo$91boo$91boo$82boo$82bobbo$78boo4boo$60boo17bo20boo$
+61bo17bobo18bo$20bo27bo11bo19boo16bobo$18b3o27b3o9boo36boo$17bo33bo$
+17boo19boo10boo$21boo16bo$22bo16bobo$20bo19boo$20boo41boo$63boo4$92boo
+$23boo67boobboo$4boo17boo71bobo$4boo92bo$54boo42boo$54bo$3boo50b3o12b
+oo$4bo52bo13bo$b3o12boo50b3o$bo14bo51bo$17b3o7boobo$19bo7boboo!

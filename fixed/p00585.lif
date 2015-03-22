@@ -1,0 +1,22 @@
+#C Snaked p585 gun
+#C Karel Suhajda, 15 May 2003
+x = 142, y = 81, rule = B3/S23
+82boobo$40boo40boboo25bo$40bo68b3o11bo$30boo10bo40b5o20bo14b3o$31bo9b
+4o33boobbo4bo20boo16bo14bo$31bobo6bo4bobo30bobbobbo40boo12b3o$32boo6b
+oobboob3o29boboboo44boo7bo$50bo27boobo5bo42bo7boo$44boob4obbo27bo4bobo
+34bo$44boobo3b3o27boobbobbo33bo5boo$50bo35boo33boo14boo$50boo66boobboo
+4boo7boo$118boo3bo$79boo47bo$78bobbo$10bo67bobobo$10b3o66bob3o$13bo59b
+o7bo$3boo7boo50boo5b3o7boo38boo$4bo59boo4bo10boo17boo20bo$4bobo63boo
+28bo18b3o$5boo94b3o15bo$95boob3obbo20boo$69boo23bobobobbo23bo$64boo3b
+oo24bobbobo21b3o$64boo32boboo20bo$97boo3bo$38boo54bobobbobo$bo23boo10b
+obo4boo48boobbooboo$obo22bo11bo6bo96bo$bo14boo8b3o7boo7b3o91bobo$16bo
+11bo18bo67boo23boo$17b3o52boo42bo$19bo52boo42bobo15boo$117boo15boo$3b
+oo$bbobo47boo$bbo49boo$boo$12bo4boobo71boo$11boo4boboo71bobo$94bo$8bo
+bbo38bo43boo$8bobbo38b3o$8b3o42bo28b3o$52bobo25bo$53bo26bo4bo49boo$73b
+oo6bobbobo48bobo$73bobo7bobbo50bo$54boo19bo8boo51boo$oo52boo19boo12bo$
+bo56boo29b3o$bobo55bo32bo$bboo52b3o32boo$56bo$61boo71boo$62bo71boo$21b
+o27bo11bo$19b3o27b3o9boo69b6o$18bo33bo79bo5bo$18boo19boo10boo80b3obo$
+24bo15bo97b3o$22b3o15bobo90b5obbo$21bo19boo90bo3bo$21boo41boo68boobobo
+$64boo69bobboo$133bobo$133boo3$24boo$5boo17boo$5boo67boo$55boo18bo30b
+oo19boo$55bo16b3o25boo5bo19bo$4boo50b3o13bo27bobob3o21b3o$5bo52bo34boo
+7bobo25bo$bb3o12boo74boo7boo$bbo14bo$18b3o7boobo$20bo7boboo!

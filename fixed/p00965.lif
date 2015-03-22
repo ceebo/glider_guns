@@ -1,0 +1,19 @@
+#C p965 gun with Scot Ellison's shorter p5 fountain
+#C Found with 5/5/2007 revision of Hersrch
+x = 113, y = 97, rule = B3/S23
+79bo$37bo39b3o$37b3o36bo$40bo35boo$39boo$35boo19boo$35boo19bo$54bobo
+44boo$54boo25boo18boo$34bo45bob4o$33bobo45bo$34bo72boo$31b3o73boo$31bo
+71boo$103boo$51boobbobo$50bobboobbo$50bobboo$33boo15bobobboo51boo$33b
+oo73boo4$61boo$16boo43bo5boo$17bo44b3obobo$17bobo44bobo7boo$11boo5boo
+bboo41boo7boo$11bo10boo$12bo$11boo32boo$45boo3boo$50boo$$88boo$51boo
+34bobo$45boo4bo35bo$45boo5b3o31boo$54bo30bo$85b3o24bo$bboo84bo21bobo$b
+obo52bo30boo22boo$bo52b3o$oo51bo$53boo3$85boo$3boboo15boo61boo$b3oboo
+15boo85boo$o108bobo$b3oboo6boo45boo49bo$3bobo8bo44b4o48boo$3bobo5b3o
+44bo4bo$4bo6bo17boo3bo22boo4boo$19boo8bo3bobo21boo4boo$19bo10bo3bobo
+21bo4bo$20bo10bo4bo22b4o$19boo7b3o5boo22boo$28bo4$46boo$46boo$$89boo$
+88bobo$78bo9bo$78b3o5b3o$81bo3bo$80boo3boo5$45boo50boo$44bobo50boo$44b
+o$43boo59boboo$104boobo$55b4o$49bo3b8o3bo$47b3o3boobooboo3b3o$46bo5bo
+8bo5bo$46boboobooboobboobooboobo32boo$45boobo6bobbo6boboo31bobo$46bobb
+5obobbob5obbo34bo$46bo7bo4bo7bo6boo26boo$47b3oboobo4boboob3o8bo$49bobo
+bboboobobbobo7b3o3boboo$49bobbobo4bobobbo7bobb4oboo$50bobobb4obbobo11b
+o$49booboo6booboo11b3oboo$52bo8bo16boobbo$52bobo4bobo19boo$53boo4boo!

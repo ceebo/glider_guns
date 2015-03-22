@@ -1,0 +1,18 @@
+#C p166 gun using Brice Due's F171 component.
+#C Found using modified Hersrch:  Dave Greene, 8 October 2006
+x = 110, y = 71, rule = B3/S23
+59bo$59b3o$62bo$61boo29boo$92boo5boo$31bo67boo$31b3o$34bo$33boo18boo
+23boo17boo$26bo26boobboo20bo17boo$26b3o7b4o16boo21bobo21boo$29bo4bo23b
+o21boo21boo$28boo4bobo3bo$40bo$34bo5bo42boo$25boo8bo4bo42b3o$26bo8bobo
+bbo41bob3o$26bobo6bob5o41bob3o$27bobo5boobboo42b4o$34b4o46boo$34bo69bo
+$21bo30boo48b3o$21b3o9boo13bo3boo47bo$24bo8boo12bobo26boo23boo$7boo14b
+oo9bo11bobo21boo5bo$7boo37bo23bobob3o$45boo16boo7bobo$63boo7boo$boo$b
+oo$5boo$5boo65bo7bo$73boo3b3o10bo$71boo4bo13boo$73bo3boo11bobo15boo$oo
+106boo$oo29boo4bo37bo$10bo21bobbobo36b3o$9b3o17b3o4bobo34boobbo$8boobb
+o16bo6bo36b5o25boo$8bob3o60boo28boo$8boo61bobbo32boo$71bo35boo$13bo22b
+oo7boo25bobbo3boo$14bo20bobo7boo16boo8b3o$12b3o18b3obobo23bo37boo$32bo
+5boo21bobo21boo14boo$7boo23boo26bobo22bo$8bo47boo3bo24b3o$5b3o48boo30b
+o$5bo$60b3o$62bo18boo$61bo19bobo$83bo$83boo$45b3o$44bobbobbo$44bo4bo$
+5boo21boo14bobobbobo$5boo21bobo14boo3boo$11boo17bo24boo$11boo17boo23b
+oo18boo$75bo$76b3o$9boo67bo$9boo5boo$16boo29boo$47bo44bo$48b3o42bo$50b
+o40b3o!

@@ -1,0 +1,16 @@
+#C p956 gun
+#C Karel Suhajda, 18 May 2003
+x = 161, y = 63, rule = B3/S23
+16boo$9boo5boo$9boo$45boo43bo$45bo42b3o$11boo17boo14bo11bo28bo$11boo
+17bo14boo9b3o28boo$5boo21bobo24bo$5boo21boo25boo10boo48boo$67bo49bo$
+65bobo50bo11bo$65boo50boo9b3o$42boo83bo$42boo83boo10boo$139bo$137bobo$
+101bo35boo13boo$5bo93boo14bo36boo$5b3o90boo14boo$8bo88bo$7boo23boo64b
+5o55boo$32bo18boo46bo58boo$33b3o16bo101boo$35bo13b3o102boo$49bo$104boo
+$72boo30bo18boo$72bo5boo25b3o16bo34boo$73b3obobo27bo13b3o35boo$75bobo
+7boo34bo$39bo36boo7boo$oo35b3o13bo$oo34bo16b3o$36boo18bo$55boo$114boo
+7boo$5boo72bo34boo7bobo$5boo70b3o13bo27bobob3o$boo73bo16b3o25boo5bo$b
+oo73boo18bo30boo$95boo$45boo$7boo36boo$7boo13boo$21bobo$21bo138bo$20b
+oo10boo124bobo$33bo51boo72boo$30b3o9boo41boo$30bo11bo19boo$43bo17bobo$
+42boo17bo69boo21boo$60boo10boo56bobo21boo$73bo56bo17boo$70b3o9boo45boo
+17boo$70bo11bo$83bo$82boo66boo$143boo5boo$112boo29boo$113bo$110b3o$
+110bo!

@@ -1,0 +1,11 @@
+#C P00088 gun - Trimmed 4 rows with N. Beluchenko's p4 toadsucker.
+#C Technique identified by J. Summers.  - 21 Jan 2005 (S. Ellison)
+x = 47, y = 40, rule = B3/S23
+14bo$bboobb3obboboo5bo$bboobbooboboboobobobo3boo$4b3o6bo4bobboobbo$4bo
+17boo$4bo17b3o3$9boo$9boo$$29boo$15bo13bo$14b3o10bobo$13b5o9boo$oo10b
+oo3boo$oo9boo5boo11boo7bo$12boo3boo12boo5b3o$13bo3bo19bo$37boo$$13bo3b
+o$12boo3boo$oo9boo5boo4bo7bo$oo10boo3boo3boo7b3o$13b5o12b5o$14b3o8boo
+bboo3boo$15bo7bob3obb5o$25bobo3b3o$27bo4bo$9boo15bo$9boo35bo$30boo12bo
+bo$30bo14boo$4bo17b3o6b3o7boo$4bo17boo9bo7b3o$4b3o6bo4bobboobbo7boboo
+bbobbobo$bboobbooboboboobobobo3boo6booboobboobboo$bboobb3obboboo5bo18b
+oo$14bo!

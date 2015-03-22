@@ -1,0 +1,15 @@
+#Cp00735 gun
+#CScot Ellison, Dec 2002
+#CImproved by Karel Suhajda by moving the period tripler
+#C to a better place, 9 Aug 2003
+x = 102, y = 55, rule = B3/S23
+16boo$9boo5boo$9boo$45boo$31bo13bo$29b3o14bo11bo$12boo9boo3bo16boo9b3o
+$5boo5boobobobo3boo3boo25bo$5boo5boobbobobo34boo10boo$18bobo46bo$65bob
+o$65boo13boo$42boo36boo$42boo$13boboo$13b3o70boo$14bo71boo$4boo76boo$
+5bo24bo51boo$5bobo$6boo24boo$32bo18boo$33b3o16bo34boo$35bo13b3o35boo$
+49bo3$89boo6boo$87bo4bobbo4bo$87bo4bobbo4bo$39bo47bo4bobbo4bo$oo35b3o
+13bo35boo6boo$oo34bo16b3o$36boo18bo$55boo35bobbo$90bob4obo$5boo51bo30b
+obbobbobbo$5boo82bobbobbobbo$boo71bo15boo4boo$boo70b3o$72boobo$45boo$
+7boo36boo$7boo13boo$21bobo$21bo46bobo$20boo10boo34bobobobboo5boo$33bo
+25boo3boo3boboboboo5boo$30b3o9boo16bo3boo9boo$30bo11bo14b3o$43bo13bo$
+42boo$78boo20bo$71boo5boo21bo$71boo26b3o!

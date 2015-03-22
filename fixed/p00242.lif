@@ -1,0 +1,18 @@
+#C p00242 gun based on p726 - Scot Ellison - 19 Aug 2003
+x = 101, y = 68, rule = B3/S23
+63boo4bo$54boo7bobobbobo$55bo9b4obbo$55bobo6bo4bobo$56boo6boobbooboo$
+74bo$68boob4obbo$68boobo3b3o$74bo$31boo6boo22boo9boo$31bobbo4boo21boo$
+16boo10booboboo29bo$9boo5boo9bobobo23bo$9boo16bo3boboo19b4o34boo$26boo
+bbobboo18bo3bo34boo$30boo22b3obo3boo$11boo42b3o$11boo44bo40boo$5boo91b
+oo$5boo87boo$94boo4$99boo$36boo24boo35boo$bboo32boo11boo10bobo4boo$3bo
+45bo11bo6bo$3bobo44b3o7boo7b3o$4boo46bo6bo11bo$20booboo35bobo$19bobobo
+bo33boob3o8booboobboo$20bobbobo39bo8bobobbobo$23boboo37boo7bo3boo$22b
+oo3bo7boo37boobo$6boo11bobobbobo8bo39bobobbo$6boo11boobbooboo8b3oboo
+33bobobobo$6boo30bobo35booboo$6boo21bo11bo6bo$5bobbo20b3o7boo7b3o$4bo
+bbo24bo6bo11bo18boo$3bo27boo4bobo10boo11boo5b3oboo$4o33boo24boo6boob3o
+23bo$6o6bo3b3o51b3oboo22bobo$11bobobb5o50boo26boo$11bo8boo$12b3o4boo
+41bobo$7b3o4boo3bo43bo$6boobo84boo$boobbo55bo32boo$boo3boo53bo26boo$7b
+o80boo$69boo$7boo57boobbobboo$7boo57boobo3bo16boo$69bobobo9boo5boo$66b
+ooboboo10boo$60boo4bobbo$25boo33boo6boo$26bo$23b3o3boboo$23bobb4oboo$
+26bo$28booboobboo6boo$29bobo4bo6bobo$29bobb4o9bo$30bobobbobo7boo$31bo
+4boo!

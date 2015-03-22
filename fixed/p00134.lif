@@ -1,0 +1,13 @@
+#C p134 gun; trivial improvement by Scot Ellison  12 Aug 2003
+x = 70, y = 69, rule = B3/S23
+30bo20bo$28b3o11bo7bobo$bboo23bo14b3o6bo$3bo23boo16bo16boo$3bobo38boo
+16bo$4boobboo50bobo$8boo13boo35boo$22bobo$24bo32bo$56bobo$10bo26boo14b
+3obo6boo$9bo27boo14b3o8bo$8bobbobboo46bobo$8bo4bo48boo$8boo3b3o$10bo
+43b3o$49boo$bboo36boo6bobo3boo$bobo16boo19bo6bo$bo18bobo17bo6boo$oo20b
+o17boo$16boo4boo$16bobbo$18boo$9boo$9boo40boo$50bobo$50bo$oo47boo$bo$o
+$oo3$69bo$67bobo$68boo4$19boo$19bo$17bobo$17boo40boo$59boo$50boo$50bo
+bbo$46boo4boo$28boo17bo20boo$21boo6bo17bobo18bo$21bo6bo19boo16bobo$14b
+oo3bobo6boo36boo$19boo$13b3o43bo$54b3o3boo$6boo48bo4bo$5bobo46boobbobb
+o$5bo8b3o14boo27bo$4boo6bob3o14boo26bo$11bobo$12bo32bo$45bobo$8boo35b
+oo13boo$7bobo50boobboo$7bo16boo38bobo$6boo16bo16boo23bo$18bo6b3o14bo
+23boo$17bobo7bo11b3o$18bo20bo!

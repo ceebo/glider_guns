@@ -1,0 +1,19 @@
+#C p00532: (Fx77 + p7 pulse-divider transceiver) x 2.  1 Herschel.
+#C Transceivers adjusted 7fd out from p00357 position, but the
+#C pulse dividers' "fast" block position is used in both cases.
+#C Dave Greene, 16 May 2007
+x = 111, y = 74, rule = B3/S23
+100boo$45boo53bobbobo$33boo4bobbobbo56boob3o$34bobb6o4bo60bo$34bobo6b
+4obo53boob3o$33boobbob3o4bobo30bo22boobo$34bobobooboobboobobobbobboo
+19b3o$34boboo3bo3boboob4o3bo18bo$33boobbobob4o4bo7bobo16boo$35boboboo
+4b3o3boobo3bobo$35bobbo3b3obboobooboo4bo3boo30b3o$34boo3b3obbo18boo30b
+obbo10boo$41bo43boo7bobooboo8bo$86bo6b3ob3o7bobo$86bobo4boo12boo$87boo
+6booboo$95booboo$50boo50boo$50boo49bobbo$$40boo59boobo$40boo$$56boo$
+56bobo17boo$58bo4boo11boo$58bobo3bo$57boob4o35boo$99boobboo$62boo39bob
+o$62boo41bo$105boo5$73bo$72bo$72b3o3$53boo$4boo48bo$5bo41boo5bobo$5bob
+o39boo6boo$6boobboo$10boo35b4oboo$46bo3bobo$33boo11boo4bo$33boo17bobo$
+53boo$$69boo$69boo$$59boo$59boo$$22boo$bboo18bobo$bobo20bo$bo22boo43bo
+$oo44boo18bobb3o3boo$46boo3bo4boobooboobb3o3bobbo$50bobo3boboo3b3o4boo
+bobo$33boo16bobo7bo4b4obobobboo$34bo18bo3b4oboobo3bo3boobo$31b3o19boo
+bbobboboboobbooboobobo$5boboo22bo30bobo4b3obobboo$3b3oboo53bob4o6bobo$
+bbo60bo4b6obbo$3b3oboo56bobbobbo4boo19bo$5bobobbo53boo32bo$9boo85b3o!

@@ -1,0 +1,22 @@
+#C p00595: (Fx77 + p7 pulse-divider transceiver) x 2.  1 Herschel.
+#C Transceivers in same position as in p00357, but one pulse divider
+#C has the "fast" block setting and one has the "slow" block.
+#C A p5 sparker is used to extract an output glider from one Fx77.
+#C Dave Greene, 16 May 2007
+x = 104, y = 70, rule = B3/S23
+9boo$5bobobbo53boo$3b3oboo56bobbobbo4boo$bbo60bo4b6obbo$3b3oboo53bob4o
+6bobo$5boboo22bo30bobo4b3obobboo$31b3o19boobbobboboboobbooboobobo$34bo
+18bo3b4oboobo3bo3boobo$33boo16bobo7bo4b4obobobboo$50bobo3boboo3b3o4boo
+bobo$46boo3bo4boobooboobb3o3bobbo$oo44boo18bobb3o3boo$bo22boo43bo$bobo
+20bo$bboo18bobo$22boo34boo$58boo4$69boo$69boo$$53boo$33boo17bobo$33boo
+11boo4bo$46bo3bobo$10boo35b4oboo$6boobboo$5bobo39boo6boo$5bo41boo5bobo
+$4boo48bo$53boo$50bo$48b3o$47bo50boo$47boo6boo18bo22bo$55boo17boo19boo
+bo$74bobo15boo3bo$50boob4o35bo$51bobo3bo$51bo4boo11boo19bo4bo$49bobo
+17boo19bo$49boo40bo$$33boo59bo$33boo59boo$94bo$43boo42bo6b3o$43boo42bo
+3boo3bo$91bo3bo$80boo10b3o$79bobo18boo$79bo20bobo$34bo43boo22bo$27boo
+3b3obbo18boo44boo$28bobbo3b3obboobooboo4bo3boo$28boboboo4b3o3boobo3bob
+o11bo$26boobbobob4o4bo7bobo10bo3bo$27boboo3bo3boboob4o3bo$27bobobooboo
+bboobobobbobboo11bo5bo$26boobbob3o4bobo18b3ob3ob3o24boobo$27bobo6b4obo
+17bo3booboo3bo23boob3o$27bobb6o4bo18bob3obob4o30bo$26boo4bobbobbo21bo
+34boob3o$38boo22boboboboobo21bobbobo$61boob3oboboo21boo$62bobobbo17bo$
+62bobboo19bo$61boo21b3o!

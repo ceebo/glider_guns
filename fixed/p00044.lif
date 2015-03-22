@@ -1,0 +1,10 @@
+#C1/2004 - Small improvement using sparker found
+#Cby Nicolay Beluchenko.
+x = 41, y = 40, rule = B3/S23
+14bo$bboobb3obboboo5bo$bboobbooboboboobobobo3boo$4b3o6bo4bobboobbo$4bo
+17boo$4bo17b3o$$14b3o$9boo$9boo3bobo$15bo$29boo$29bo$bo11bo3bo9bobo$5b
+o6bo5bo8boo$o5bo$ooboobo6bo3bo13boo7bo$5bo8b3o14boo5b3o$37bo$37boo$$
+26boo$5bo8b3o8b4o3boo$ooboobo6bo3bo6bo3boo$o5bo17boobbo$5bo6bo5bo6b3o
+12bo$bo11bo3bo8bo11bobo$39boo$$15bo$9boo3bobo$9boo$14b3o13boo$30bo$4bo
+17b3o6b3o$4bo17boo9bo$4b3o6bo4bobboobbo$bboobbooboboboobobobo3boo$bboo
+bb3obboboo5bo$14bo!

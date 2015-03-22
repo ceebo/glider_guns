@@ -1,0 +1,17 @@
+#C p560 Herschel factory  Dave Greene  13 August 2003
+#C
+x = 92, y = 82, rule = B3/S23
+26boo$26boo$63bo$62bobo$61bo3bo$19boo30bo8bo3bo$19boo30b3o5bo3bo$54bo
+3bo3bo$53boo4bobo$60bo$56bo$55bobo$51boobboo$51boo5$12boo$13bo61bo$13b
+obo15boo40b3o$14boo15boo39bo$72boo3$57b3o$58b3o10bo$41boo27bobo$41boo
+bboo23bobo$45bobo23bo4boo$46bo12boo15bobo$50bo7bobo17bo9bo$43boo4b3o6b
+o19boo$32boo10bo3b3obo4boo27b3obo$32bobo6b3o5bo3bo31boboo$34bo6bo8bo3b
+o30boobo$34boo15bob3o27bob3o$52b3o$53bo31bo$68boo11bo$4boo5boo55boo10b
+obo$5bo5boo67boo$5bobo76boo$6boo26boo48bobo$10boo67boo5bo$9bobo10boo8b
+o3bo42boo5boo$6boobbo11boo8bo4bo$34bobobo8bo$5bo3bo25bobobo5b3o8bo$4bo
+4bo26bo4bobbo11b3o$3bobobo29bo3bobboo13bo$bbobobo51boo$o4bo27boo3boobb
+o$o3bo7boo19bo7bobo$13bo17bobo8boobboo$bboo9bobo15boo13boo$14boo4bo$
+19bobo57boo$19bobo10bo46bo$20bo10bobbo42bobo$31bobbo42boo$33bo$$18boo$
+19bo15bo$16b3o14boo$16bo17boo3$36boo$32boobboo$31bobo29boo$28bo3bo30b
+oo$28boo$27boobo3boo$26bobb3obbo$25bobobo5b3o$24bobobo8bo$22b3obbo$23b
+oboo64bo$24boo63bobo$25bo64boo!

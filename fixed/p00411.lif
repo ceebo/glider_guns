@@ -1,0 +1,15 @@
+#C Snaked p411 gun
+#C Karel Suhajda, 11 May 2003
+x = 95, y = 70, rule = B3/S23
+18boo44bo$11boo5boo42b3o11bo$11boo35bo12bo14b3o$37boo7b3o12boo16bo14bo
+$33boo3bo6bo32boo12b3o$13boo18bo4bobo4boo35boo7bo$13boo16bobo5boo42bo
+7boo$7boo22boo43bo$7boo66bo5boo$74boo14boo$71boobboo4boo7boo$71boo3bo$
+81bo5$74boo$75bo$72b3o$72bo$4boo71boo$5bo45boo25bo$5bobo43bo23b3o$6boo
+37boobo3b3o20bo$45boob4obbo$51bo$33boo6boobboob3o$32bobo6bo4bobo45bo$
+32bo9b4o23bo22bobo$31boo10bo25b3o21boo$41bo30bo$41boo28boo14boo$87boo$
+oo$bo$o6boo$oo5boo14boo28boo$23bo30bo$24b3o25bo10boo$26bo23b4o9bo$47bo
+bo4bo6bobo$45b3oboobboo6boo$44bo$41bobb4oboo$20bo20b3o3boboo37boo$18b
+3o23bo43bobo$17bo25boo45bo$17boo71boo$23bo$21b3o$20bo$20boo5$14bo$19bo
+3boo$4boo7boo4boobboo$4boo14boo$13boo5bo66boo$19bo43boo22boo$3boo7bo
+42boo5bobo16boo$4bo7boo35boo4bobo4bo18boo$b3o12boo32bo6bo3boo$bo14bo
+16boo12b3o7boo$17b3o14bo12bo35boo$19bo11b3o42boo5boo$31bo44boo!

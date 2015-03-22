@@ -1,0 +1,18 @@
+#Cp130 gun, D. Eppstein, 3/18/04
+#Cbased on previous patterns by DE, DBell, KSuhajda.
+x = 68, y = 57, rule = B3/S23
+23boo41boo$22bobbo9bo24boboobobo$17bobbobbobo9bo24boobobo$17b5oboboo9b
+o26bobbo$23bobbo14boo20boboo$19b4obbo14bobbo17booboo$6boo10bo3boobbo
+14boo17bobbobbo$7bobboo6bob3obbo19boo14b3obobo$7bobobbo6bo3bobbo16b4o
+13bobbobbo$6booboboboboo3booboboo15bo4bo13booboo$7boboboboobo4bobobo
+16bobobo16boboo$5bo14bobbobo15bo3boo16bobbo$4bob3obob4o4boobbo19bo15b
+oobobo$4bo4b3o4bo43boboobobo$5b3ob3ob3o28bo21boo$7b7o27bo3boo$42bobobo
+$42bo4bo$oo41b4o$bobboo39boo$bobobo35boo17boo$bbo37bobbo16boo$22bo6bob
+o9boo$4bo18bo6booboo25bo4boo$3bobo16boo6bo3bo24bobobbobo$4bo11b7o8b3o
+25boobo$b3o11b3obbo40bobbo$bo13bobboobo39boo$19bobo40boo$17booboo39boo
+$17b4o34b4o4bobo$54boboobo6bo$17b4o33boobboo5boo$17booboo32boobboo$19b
+obo32boboobo$bo13bobboobo16bo16b4o$b3o11b3obbo15b3o$4bo11b7o12bo$3bobo
+16boo10bobo$4bo18bo11bo$22bo$bbo34bo$bobobo28bobobo$bobboo28boobbo$oo
+36boo3$7b7o12b7o$5b3ob3ob3o8b3ob3ob3o$4bo4b3o4bo6bo4b3o4bo$4bob3obob4o
+8b4obob3obo$5bo28bo$7boboboboobo6boboobobobo$6booboboboboo6boobobobob
+oo$7bobobbo14bobbobo32bo$7bobboo16boobbo33bo$6boo24boo30b3o!

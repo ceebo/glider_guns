@@ -1,0 +1,17 @@
+#C p135 gun
+#C Based on Matthias' p45 and Nicolay's p27
+#C
+#C Adam P. Goucher, 2010
+x = 73, y = 61, rule = B3/S23
+21boo$21bo$18boobo$18bobo4boo$25bo$23bobo$23boo$$56boo$56boo$14boo$14b
+oo4boo$13bobbo3b3o16b4o12bo$13bob3obboo6boo8b6o11bo3boo$14boobo9bobboo
+5b8o13boo$3bo23booboo4boo6boo15bobo$3b3o22boo7b8o6bo9bobbo$6bo20boo9b
+6o6bobobbo3bo3bo$5boo32b4o11b3obbobo$o11bo37booboboobbobbo$3o8b3o14b3o
+17bo12b3o3boo$3bo7b3o14b3o17boobb3o6boo8boo$bbo26bo19bo21boo$bboo33bo
+5boo21bo$13boo23boo3boo8boo6b3obboo$12boo23boo8boo3b3o12bo$10booboo38b
+obbobbooboboo$10boobbo9boboo26bobobb3o$12boo6boobb3obo23bo3bo3bobbobo$
+19b3o3bobbo22bobbo9bo$20boo4boo24bobo$26boo10boo16boo$38boo15boo3bo$
+60bo$$17boo$16bobo39boo$16bo19boo20boo$15boo4bobo13boo$20boboo9bo4bo$
+20bo12bo3bo$19boo12boo7b3o$42bo$$23boo21bo$23boo5boo11boboo$29boobo11b
+oo5boo$29bo21boo$$33bo$31b3o7boo$38bo3bo$37bo4bo$37boo$38boo3$72bo$70b
+obo$36boo33boo$36boo!

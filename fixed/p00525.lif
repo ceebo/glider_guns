@@ -1,0 +1,22 @@
+#C p525 - Scot Ellison - 01 October 2003
+x = 105, y = 81, rule = B3/S23
+46bo20bo$45bobo7bo11b3o$46bo6b3o14bo$35bo16bo16boo22bo$35b3o14boo37b3o
+$38bo51bo10bo$37boo51boo9b3o$56bo47bo$56bo29boo13boobo$54boo30boo9boo
+bbobo$32boo20b3obo38bobobo$33bo20bo3bo40boboo$33bobo9bo9boo42boo$34boo
+9bo42boo7boo$88boo5bobbo3bo$79b4o12bobo3bobo$47boo29bo3bo12bobbo3bo$
+47bobo6boo20bo4bo13boo$49bo6bo22b3o17boo$49boo6bo41boboo$56boo39bobobo
+$97boobbobo$101boobo$104bo$101b3o$30boo13boo36boo16bo$30boo13bobo35boo
+11boo$47bo47bobbo$47boo45b6o$94b6o$64bo33boo$43bobbo17b3o31b3o$43bobbo
+20bo31boo$8boo31boobooboo17boo31booboo$7bobbo32bobbo39boo11bobobo$43bo
+bbo35boobb3obboo6b4o$41boobooboo32boo4bobobbo7boo$bboobbobbo33bobbo35b
+oboobo3bo3boo$bboobbobbo33bobbo36boo3bo5bobbo$6bo3bo83bo3bo$7bobbo5bo
+3boo36bobbo33bobbobboo$8boo3bo3boboobo35bobbo33bobbobboo$3boo7bobbobo
+4boo32boobooboo$bb4o6boobb3obboo35bobbo$bobobo11boo39bobbo32bobbo$boob
+oo31boo17boobooboo31boo$4boo31bo20bobbo$4b3o31b3o17bobbo$5boo33bo$5b6o
+$5b6o45boo$6bobbo47bo$7boo11boo35bobo13boo$3bo16boo36boo13boo$b3o$o$ob
+oo$bobobboo$3bobobo39boo$bboobo41bo6boo$4boo17b3o22bo6bo$6boo13bo4bo
+20boo6bobo$bbo3bobbo12bo3bo29boo$bobo3bobo12b4o$bbo3bobbo5boo$6boo7boo
+42bo9boo$4boo42boo9bo9bobo$bboobo40bo3bo20bo$3bobobo38bob3o20boobboo3b
+obbo3boo$bobobboo9boo30boo24b5o4b5o$oboo13boo29bo26boo3bobbo3boo$o47bo
+$b3o9boo$3bo10bo$11b3o37boo25boo4boo$11bo22boo16bo24bo8bo$34bo14b3o6bo
+17bobbo4bobbo$35b3o11bo7bobo17bo8bo$37bo20bo15bo3boo4boo$75bo$73b3o!

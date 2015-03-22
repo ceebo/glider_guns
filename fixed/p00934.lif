@@ -1,0 +1,18 @@
+#C Karel Suhajda
+#C 29 Mar 2003
+x = 127, y = 83, rule = B3/S23
+110boo$107boobbo$105b3oboo6bo$104bo10b3o$105b3oboo3bo$107boboo3boo3$
+42bo15bo9bo$30bo11b3o13b3o5b3o$28b3o14bo15bo3bo13boo38boo$12bo14bo16b
+oo14boo3boo13bo38bo$12b3o12boo50bo37bobo$15bo63boo36boo$14boo3$15boo$
+15boo17boo$34boo46boo$82boo3$118boo$118boo$31boo$31bo19boo$32b3o15bobo
+11boo6bo19boo$34bo15bo13boo6b3o18bo$28boo19boo24bo14b3o$28bo45boo14bo$
+29b3o$31bo64boboo$96boobo$117boo$105boo9bobbobboo$12boo91boo9bobo4bo$
+11bobo103bo5boboo$5bobbobbo108boobobo$5b7o108bobbobbo$117bo4bobboo$5b
+5o107b5o$oobbo4bo$obbobbo108b7o$boboboo108bobbobbo$oobo5bo103bobo$3bo
+4bobo9boo91boo$3boobbobbo9boo$8boo$27boboo$27boobo64bo$95b3o$36bo14boo
+45bo$34b3o14bo24boo19boo$33bo18b3o6boo13bo15bo$33boo19bo6boo11bobo15b
+3o$74boo19bo$94boo$7boo41bo$7boo39bo3bo$47bo$47bo5bo3boo$43boobboo4bo
+bbobbo$43boo9bo3bo32boo$49bo41boo17boo$51boo4bo52boo$55bo$$111boo$8boo
+36boo63bo$7bobo37bo50boo12b3o$7bo38bo13boo3boo32bo14bo$6boo38boo13bo3b
+o30b3o$58b3o5b3o27bo$58bo9bo3$11boo3boobo$12bo3boob3o$9b3o10bo$9bo6boo
+b3o70bo$15bobboo73bo$15boo74b3o!

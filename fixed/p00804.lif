@@ -1,0 +1,16 @@
+#C p00804 Minor Correction - Scot Ellison July 9, 2008
+#C (200+202)*2 - 1 Herschel
+x = 92, y = 86, rule = B3/S23
+14bo37booboo$14b3o35booboo$17bo$16boo8boo24b5o$26bo24bo4bo$24bobo23bo
+bbo$24boo24boboo27bo$10boo27bo5boboobo5bo10boo10b3o$10boo25b3o5boobobo
+4bobo9boo9bo$36bo11boboobbobbo20boo8boo$36boo10bo6boo31bo$46b3o37bobo$
+10boo33bo40boo$10boo33boo$90boo$91bo$86boobo$86booboo$34boo$34boo50boo
+boo$8boo45boo30bobo$9bo45boo12bobo15bobo$9bobo57bobbo15bo$10boo56bo3b
+oo$68bo$$68bobb3o$58boo8boo$59bo10b3o$58bo11b3o$58boo3$63boo$26boboo
+32bobo$26boobo32bo$61boo$$10boboo$10boobo$$19boo$19boo$71boo$71boo$$
+78boboo$78boobo$$29boo$29bo32boboo$27bobo32boobo$27boo3$32boo$33bo$32b
+o$32boo5$3bo$bbobo30boo$bbobo30boo$booboo50boo$56boo$booboo$bboboo$o$
+oo$45boo33boo9bo$4boo40bo33boo7bobo$3bobo37b3o44boo$3bo31boo6bo10boo$
+bboo8boo20bobbobboobo11bo$13bo9boo9bobo4boboboo5b3o25boo$10b3o10boo10b
+o5boboobo5bo27boo$10bo27boobo24boo$38bobbo23bobo$35bo4bo24bo$35b5o24b
+oo8boo$74bo$35booboo35b3o$35booboo37bo!

@@ -1,0 +1,20 @@
+#C p00580 constructed by removing one rotor from the p290
+#C  Scot Ellison - 24 October 2005
+#C Reduced by 16 columns with smaller P5 - Scot Ellison 4 May 2007
+x = 112, y = 54, rule = B3/S23
+52boo14bo25bo$27boo24bo14b3o21b3o$28bo13boo6b3o18bo19bo9bo$28bobo11boo
+6bo19boo19boo6b5o$14boo13boo67bo5bo$14boo82boboobbo$97boobobob3obo$
+102bo4boo$8boo90boboboo$8boo89boobobob5o$12boo46boo35boo3bo5bobbo$12b
+oo46boo35boobobb4o3boo$96boobb3o4bo$96b3o6bobo$96b3o6bobo$7boo87boobb
+3o4bo$7boo88boobobb4o3boo$57boo38boo3bo5bobbo$27bo3boo24bo41boobobob5o
+$26bobo3bo5boo3boo13bo41boboboo$26boo3bo7bo3bo13boo43bo4boo$30bo5b3o5b
+3o50boobobob3obo$26b5obo3bo9bo51boboobbo$26bo4boo65bo5bo$27b3o69b5o$
+29boboo68bo$30bobo$21bo57bobo$10bo9b3o56boobo$8b5o6bobboo58b3o$7bo5bo
+5booboo55boo4bo$7bobboobo4b3o44bo9bo3bob5o$3bob3oboboboo4boobo42b3o5b
+3o5bo$3boo4bo10bobbo29boo13bo3bo7bo3boo$6boobobo8bo32bo13boo3boo5bo3bo
+bo$b5oboboboo8bobo30bo24boo3bo$obbo5bo3boo7bo8boo20boo$oo3b4obboboo16b
+oo70boo$4bo4b3obboo87boo$4bobo6b3o6bo$4bobo6b3o4bobboo$4bo4b3obboo5b4o
+$oo3b4obboboo3bo31boo46boo$obbo5bo3boo5bobbo26boo46boo$b5oboboboo9b3o
+77boo$6boobobo7boobooboo75boo$3boo4bo15boo$3bob3oboboboo10bo$7bobboobo
+82boo$7bo5bo67boo13boo$8b5o6boo40bo6boo11bobo$10bo9bo22bo15b3o6boo13bo
+$17b3o24bo13bo24boo$17bo24b3o13boo!

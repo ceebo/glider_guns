@@ -1,0 +1,15 @@
+#C p672 gun - Two copies of Jason's p84 oscillator triples the 
+#C period of the p224 gun.    Scot Ellison, 18 June 2007
+x = 104, y = 62, rule = B3/S23
+28booboobo7bo$bboo23boboboboo7b3o$3bo24bo16bo14bo$3bobo38boo12b3o$4boo
+bboo47bo$8boo47boo3$56boo$37boo17boo$37boo$$60boo$60boo$60boo$60bo$bb
+oo36boo17bobo$bobo16boo19bo18bobob3o$bo18bobo16bo21bob4o$oo5bobo12bo
+16boo21bo$7bobbo5boo4boo19boo$6bo3bo5bobbo24bo$7bobbo7boo21b3o$7b3o31b
+o30bo$71bobbo$66bo5bobboo$67b3o3b3o$oo64boobbo5bo$bo66bobbo$o69bo$oo$
+79boo$oo77boo$obo76boo$bo77bo$78bobo$79bobob3o$80bob4o$20bo31b3o26bo6b
+oo$18b3o21boo7bobbo33boo$17bo24bobbo5bo3bo$17boo19boo4boo5bobbo30bobob
+o$21boo16bo12bobo5boo24b5o$22bo16bobo18bo26bobbo$20bo19boo16bobo28boo$
+20boo36boo29bobo$90boo$90bobbo$90b5o$91bobobo$$23boo66boo10bo$4boo17b
+oo66boo6bo$4boo89b4obo$95b3obobo$100bobo$3boo47boo47bo$4bo47boobboo42b
+oo$b3o12boo38bobo41boo$bo14bo16bo24bo33bo7boo$17b3o7boobobobo23boo33bo
+$19bo7bobooboo57b3o!

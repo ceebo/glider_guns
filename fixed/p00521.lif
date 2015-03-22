@@ -1,0 +1,20 @@
+#C Snaked p521 gun
+#C With a lucky variant of Fx176 component
+#C Karel Suhajda, 13 May 2003
+x = 139, y = 74, rule = B3/S23
+98boboo$98boobo3$85bo20b3o19bo$85b3o18bo19b3o$63boo23bo18bo17bo$32bo
+31bo6boo14boo11boo24bo7boo$20bo11b3o29bobo4boo27boo20bo3bo7bo$18b3o14b
+o23boo4boo54bo10bobo$bbo14bo16boo23bobo59boobo7boo$bb3o12boo38bobob3o
+61bo$5bo47boobboo5bo60b3o$4boo47boo8boo54bo5boo$118bo4b3o$119bo4bo$5b
+oo68boo$5boo17boo49boo35boo23bo$24boo87bo22bobo$110b3o8boo14bo$110bo
+11bo$119b3o$119bo$101boo$21boo78bobo30boo$21bo19boo60bo30bobo$22b3o15b
+obo60boo31bo$24bo15bo95boo$18boo19boo77boboo$18bo99boobo$19b3o25boo$
+21bo26bo78boo$45b3o79boo$45bo7boo$53boo$bboo$bobo$bo56boo21boo$oo55bob
+o21bo$57bo21bobo55boo$56boo21boo56bo$135bobo$135boo$84boo$84boo7bo$10b
+oo79b3o$10boo78bo26bo$90boo25b3o$17boboo99bo$17boobo77boo19boo$boo95bo
+15bo$bbo31boo60bobo15b3o$bbobo30bo60boo19bo$3boo30bobo78boo$36boo$19bo
+$17b3o$16bo11bo$bo14boo8b3o$obo22bo87boo$bo23boo35boo49boo17boo$62boo
+68boo$14bo4bo$13b3o4bo$12boo5bo54boo8boo47boo$11b3o60bo5boobboo47bo$
+13bo61b3obobo38boo12b3o$5boo7boboo59bobo23boo16bo14bo$4bobo10bo54boo4b
+oo23bo14b3o$4bo7bo3bo20boo27boo4bobo29b3o11bo$3boo7bo24boo11boo14boo6b
+o31bo$13bo17bo18bo23boo$10b3o19bo18b3o$10bo19b3o20bo!
