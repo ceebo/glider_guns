@@ -1,28 +1,32 @@
 from os import listdir
 
 guns = {}
+tentative_guns = []
 
-def add_gun(period, area, desc):
+def add_gun(period, area, desc, tentative=False):
 
     if period in guns and guns[period][0] <= area:
         return
 
-    guns[period] = (area, desc)
+    guns[period] = (area, desc + ("_tentative" if tentative else ""))
 
 def divisors(n, compression):
     for x in range(1, n // compression + 1):
         if n % x == 0:
             yield n // x
 
-def add_variable_gun(base, x, y, x_slack, y_slack, compression, factor):
+def add_variable_gun(base, x, y, x_slack, y_slack, compression, factor, tentative=False):
     
     for d in range(100):
         new_x = x + max(d - x_slack, 0)
         new_y = y + max(d - y_slack, 0)
         area = new_x * new_y
         for p in divisors(base + 8 * d, compression):
-            add_gun(p * factor, area, "p%d%s_%d" % (base, "__dtq"[factor], d))
+            add_gun(p * factor, area, "p%d%s_%d" % (base, "__dtq"[factor], d), tentative)
 
+def add_tentative_gun(base, x, y, x_slack, y_slack, compression, factor):
+
+    tentative_guns.append((base, x, y, x_slack, y_slack, compression, factor, True))
 
 # examine fixed guns
 for filename in listdir("fixed"):
@@ -48,6 +52,7 @@ for filename in listdir("variable"):
 
         period = int(filename[1:6])
         compression = None
+        tentative_compression = None
         factor = None
         x_slack = 0
         y_slack = 0
@@ -66,6 +71,8 @@ for filename in listdir("variable"):
                 line = line.split(" ")
                 x = int(line[2][:-1])
                 y = int(line[5][:-1])
+            elif "tentative_compression" in line:
+                tentative_compression = int(line.split()[-1])
             elif "compression" in line:
                 compression = int(line.split()[-1])
             elif "x_slack" in line:
@@ -74,6 +81,9 @@ for filename in listdir("variable"):
                 y_slack = int(line.split()[-1])
 
         add_variable_gun(period, x, y, x_slack, y_slack, compression, factor)
+        
+        if tentative_compression is not None:
+            add_tentative_gun(period, x, y, x_slack, y_slack, tentative_compression, factor)
 
     except:
         print "Problem with gun %s" % filename
@@ -96,3 +106,10 @@ for gun_type in sorted(stats, key=stats.get, reverse=True):
     print gun_type, stats[gun_type]
 
 print "variable %d" % (1000 - 14 - stats["fixed"])
+
+for gun in tentative_guns:
+    add_variable_gun(*gun)
+
+for period in guns:
+    if period < 1000 and "tentative" in guns[period][1]:
+        print period, guns[period]

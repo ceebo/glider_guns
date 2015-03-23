@@ -1,4 +1,5 @@
 #C compression = 765
+#C tentative_compression = 78
 #C y_slack = 25
 x = 112, y = 75, rule = B3/S23
 76b2o3b2o$74b3obo2b2o$73bo4bo$73bo2b2ob4o$72b2obobobo2bo$73bobobobo$
