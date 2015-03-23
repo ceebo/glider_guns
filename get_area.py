@@ -14,10 +14,12 @@ def divisors(n, compression):
         if n % x == 0:
             yield n // x
 
-def add_variable_gun(base, x, y, compression, factor):
+def add_variable_gun(base, x, y, x_slack, y_slack, compression, factor):
     
     for d in range(100):
-        area = (x+d) * (y+d)
+        new_x = x + max(d - x_slack, 0)
+        new_y = y + max(d - y_slack, 0)
+        area = new_x * new_y
         for p in divisors(base + 8 * d, compression):
             add_gun(p * factor, area, "p%d%s_%d" % (base, "__dtq"[factor], d))
 
@@ -47,6 +49,8 @@ for filename in listdir("variable"):
         period = int(filename[1:6])
         compression = None
         factor = None
+        x_slack = 0
+        y_slack = 0
 
         if len(filename) == 10:
             factor = 1
@@ -64,8 +68,12 @@ for filename in listdir("variable"):
                 y = int(line[5][:-1])
             elif "compression" in line:
                 compression = int(line.split()[-1])
+            elif "x_slack" in line:
+                x_slack = int(line.split()[-1])
+            elif "y_slack" in line:
+                y_slack = int(line.split()[-1])
 
-        add_variable_gun(period, x, y, compression, factor)
+        add_variable_gun(period, x, y, x_slack, y_slack, compression, factor)
 
     except:
         print "Problem with gun %s" % filename
