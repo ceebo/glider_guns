@@ -1,0 +1,13 @@
+#C compression = 520
+#C tentative_compression = 78
+x = 91, y = 74, rule = B3/S23
+40bo$39b2o$38bob2o$37b3o2bo$39bobobo8bo$40bobobo5b3o$41bo2b3o2bo$42b2o
+bo3b2o$43b2o$43bo3bo$46bobo$47b2o2b2o$51b2o21$34b3o$34bo52b2obo$35bo
+49bob2obo$84bo$87bo$83b2obo$83b2o$68bo$52b2o8bo3b3o11bo$52b2o7bobobo
+13bobo$4b2o5b2o47bo2bob4o10b2o$5bo5b2o46bo3bo4bo14b2o$5bobo52b3obobo5b
+3o8bobo$6b2o54bobob2o6bo3b2o5bo$10b2o26b2o23bo9bo4b2o5b2o$9bobo27bo$6b
+2o2bo28bobo$29bo10b2o$5bo3bo17b3o$4bo4bo16bo$3bobobo18b2o$2bobobo4b2o
+58b2o$o4bo6bo58bobo$o3bo7bob2o57bo$13bo2bo47b2o7b2o$2b2o10b2o48b2o$29b
+2o$29b2o2$52b2o$52b2o2b2o$38bo3b2o12bobo$37bobo3bo14bo$36bobo3bo15b2o$
+32b2obobo3bo$32b2obo2b4obo$36bobo3bobo$32b2ob2o2bo2bobo$33bobo2b2o3bo$
+21b2o10bobo$21b2o11bo!
