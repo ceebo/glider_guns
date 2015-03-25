@@ -3,30 +3,33 @@ from os import listdir
 guns = {}
 tentative_guns = []
 
-def add_gun(period, area, desc, tentative=False):
+#if s2 is in s1 return the next digit in the string otherwise return 1
+def digit_after(s1, s2):
+    i = s1.find(s2)
+    return int(s1[i + len(s2)]) if i >= 0 else 1
+
+def add_gun(period, area, desc):
 
     if period in guns and guns[period][0] <= area:
         return
 
-    guns[period] = (area, desc + ("_tentative" if tentative else ""))
+    guns[period] = (area, desc)
 
 def divisors(n, compression):
     for x in range(1, n // compression + 1):
         if n % x == 0:
             yield n // x
 
-def add_variable_gun(base, x, y, x_slack, y_slack, compression, factor, tentative=False):
+def add_variable_gun(base, x, y, compression, x_slack, y_slack,
+                     x_trips, y_trips, osc, factor, name):
     
     for d in range(100):
-        new_x = x + max(d - x_slack, 0)
-        new_y = y + max(d - y_slack, 0)
-        area = new_x * new_y
+        add_x = (max(d - x_slack, 0) + x_trips - 1) // x_trips
+        add_y = (max(d - y_slack, 0) + y_trips - 1) // y_trips
+        area = (x + add_x) * (y + add_y)
         for p in divisors(base + 8 * d, compression):
-            add_gun(p * factor, area, "p%d%s_%d" % (base, "__dtq"[factor], d), tentative)
-
-def add_tentative_gun(base, x, y, x_slack, y_slack, compression, factor):
-
-    tentative_guns.append((base, x, y, x_slack, y_slack, compression, factor, True))
+            if p % osc == 0:
+                add_gun(p * factor, area, name + "_" + str(d))
 
 # examine fixed guns
 for filename in listdir("fixed"):
@@ -53,18 +56,13 @@ for filename in listdir("variable"):
         period = int(filename[1:6])
         compression = None
         tentative_compression = None
-        factor = None
         x_slack = 0
         y_slack = 0
+        x_trips = 1
+        y_trips = 1
 
-        if len(filename) == 10:
-            factor = 1
-        elif filename[6] == "d":
-            factor = 2
-        elif filename[6] == "t":
-            factor = 3
-        elif filename[6] == "q":
-            factor = 4
+        factor = digit_after(filename, "x")
+        osc = digit_after(filename, "osc")
 
         for line in open("variable/" + filename):
             if line[0] == 'x':
@@ -79,11 +77,19 @@ for filename in listdir("variable"):
                 x_slack = int(line.split()[-1])
             elif "y_slack" in line:
                 y_slack = int(line.split()[-1])
+            elif "x_trips" in line:
+                x_trips = int(line.split()[-1])
+            elif "y_trips" in line:
+                y_trips = int(line.split()[-1])
 
-        add_variable_gun(period, x, y, x_slack, y_slack, compression, factor)
+        gun_data = [period, x, y, compression, x_slack, y_slack,
+                    x_trips, y_trips, osc, factor, filename[:-4]]
+
+        add_variable_gun(*gun_data)
         
         if tentative_compression is not None:
-            add_tentative_gun(period, x, y, x_slack, y_slack, tentative_compression, factor)
+            gun_data[3] = tentative_compression
+            tentative_guns.append(gun_data)
 
     except:
         print "Problem with gun %s" % filename
@@ -103,13 +109,21 @@ print "Stats"
 print "*************"
 
 for gun_type in sorted(stats, key=stats.get, reverse=True):
-    print gun_type, stats[gun_type]
+    print "%-*s%d" % (16, gun_type, stats[gun_type])
 
-print "variable %d" % (1000 - 14 - stats["fixed"])
+print "variable        %d" % (1000 - 14 - stats["fixed"])
+
+for period in guns:
+    guns[period] = guns[period][0], ""
 
 for gun in tentative_guns:
     add_variable_gun(*gun)
 
+print ""
+print "*************"
+print "Tentative guns"
+print "*************"
+
 for period in guns:
-    if period < 1000 and "tentative" in guns[period][1]:
+    if period < 1000 and guns[period][1]:
         print period, guns[period]
