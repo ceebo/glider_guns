@@ -1,6 +1,7 @@
 #C compression = 577
 #C tentative_compression = 78
 #C y_slack = 7
+#C y_trips = 2
 x = 100, y = 57, rule = B3/S23
 46b2o11bo$46b2o10bobo$28b2o28bobo2b2o3bo$27bobo27b2ob2o2bo2bobo$21b2o
 4bo33bobo3bobo$19bo2bo2b2ob4o25b2obo2b4obo$19b2obobobobo2bo25b2obobo3b

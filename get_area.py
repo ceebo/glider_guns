@@ -97,7 +97,7 @@ for filename in listdir("variable"):
 
 stats = {}
 
-for period in guns:
+for period in guns: #sorted(guns, key=guns.get, reverse=True):
     if period < 1000:
         gun_type = guns[period][1].split("_")[0]
         stats[gun_type] = stats.get(gun_type, 0) + 1
