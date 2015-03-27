@@ -2,6 +2,7 @@ from os import listdir
 
 guns = {}
 tentative_guns = []
+confirmed = set()
 
 #if s2 is in s1 return the next digit in the string otherwise return 1
 def digit_after(s1, s2):
@@ -11,6 +12,9 @@ def digit_after(s1, s2):
 def add_gun(period, area, desc):
 
     if period in guns and guns[period][0] <= area:
+        return
+
+    if "%s_p%05d" % (desc, period) in confirmed:
         return
 
     guns[period] = (area, desc)
@@ -93,6 +97,23 @@ for filename in listdir("variable"):
 
     except:
         print "Problem with gun %s" % filename
+        raise
+
+# examine tentative suggestions that have been confirmed
+for filename in listdir("confirmed"):
+    try:
+        if filename[-4:] != ".lif":
+            continue
+
+        period = int(filename[-9:-4])
+        for line in open("confirmed/" + filename):
+            if line[0] == 'x':
+                line = line.split(" ")
+                area = int(line[2][:-1]) * int(line[5][:-1])
+                confirmed.add(filename[:-4])
+                add_gun(period, area, filename[:-4])
+    except:
+        print "***** Problem with gun %s" % filename
         raise
 
 stats = {}
