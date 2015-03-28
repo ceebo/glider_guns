@@ -1,0 +1,13 @@
+#C compression = 160
+x = 86, y = 65, rule = B3/S23
+41b2o$41bobo$43bo4b2o$39b4ob2o2bo2bo$39bo2bobobobob2o$42bobobobo$43b2o
+bobo$47bo2$33b2o$34bo7b2o$34bobo5b2o$35b2o7$45b2o$45bo$3bo18bo23b3o$3b
+3o7b2o5b3o25bo$6bo6b2o4bo$5b2o12b2o2$76bo$18b2o54b3o$18b2o53bo$73b2o2$
+11b2o$10bobo68b2o$10bo2bo18bo49bo$11b2o17b3o49bob2o$11bo17bo44b2o4b3o
+2bo$29b2o43b2o3bo3b2o$79b4o$49bo15b2o15bo$47b3o10b2o2bobo12b3o$9b3o34b
+o14bo2bo13bo$9bo2b2o19b2o11b2o11bo2b3o14b5o$10b3o20b2o24b3o21bo$11bo
+50bo18bo$61b2o18b2o$10bo65b2o$4b3o2b3o64bo$8bob2o61b2obo$4bo3b2ob2o59b
+o2bo$6bobo11b2o51b2o$6bobo11b2o36b2o$6b2o50b2o$o3$8b2obo33b2o3bo$6b2ob
+obo33bo3bobo$9b3o20b2o12bo3bobo$6b3o22bobo13bo3bobob2o$31bo13bob4o2bob
+2o$30b2o12bobo3bobo$44bobo2bo2b2ob2o$12bo32bo3b2o2bobo$13bo39bobo10b2o
+$11b3o40bo11b2o!
