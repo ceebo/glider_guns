@@ -1,0 +1,13 @@
+x = 102, y = 62, rule = B3/S23
+31b2o36b2o$30bobo36bobo$24b2o4bo40bo4b2o$22bo2bo2b2ob4o32b4ob2o2bo2bo$
+22b2obobobobo2bo32bo2bobobobob2o$25bobobobo38bobobobo$25bobob2o40b2obo
+bo$26bo48bo2$39b2o20b2o$19bo10b2o7bo22bo7b2o10bo$17b3o10b2o5bobo22bobo
+5b2o10b3o$16bo20b2o24b2o20bo$15bobo66bobo$15bobo52bo13bobo$16bo53b2o
+13bo$69bobo3$27b2o44b2o$2o26bo44bo26b2o$2o23b3o46b3o23b2o$25bo50bo3$
+10b3o7b2o58b2o$20bobo56bobo$11bobo8bo56bo$13bo8b2o54b2o7b2o$13b2o72b2o
+$12bo$3bob2o88b2obo$b3ob2o88b2ob3o$o100bo$b3ob2o88b2ob3o$3b2o2bo86bo2b
+2o$6bobo84bobo$2bob2obobo16bo48bo16bobob2obo$2b2obo2bo15b3o48b3o15bo2b
+ob2o$5bo17bo54bo17bo$5b2o16b2o52b2o16b2o$3b2o2bobo82bobo2b2o$2bo2bo2b
+2o82b2o2bo2bo$3b2o92b2o3$61b3o34b2o$61bo36bo$62bo33bobo$96b2o$3b2o$3b
+2o65b2o$69bo$70bobo5b2o$71bo6b2o$78bo$75b2o$74bo2bo$74bobo$75bo25bo$
+18b2o62b2o15bobo$18b2o62b2o16b2o!
