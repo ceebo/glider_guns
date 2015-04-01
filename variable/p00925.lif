@@ -1,0 +1,19 @@
+#C compression = 925
+#C tentative_compression = 78
+#C y_trips = 2
+#C y_slack = 6
+x = 115, y = 80, rule = B3/S23
+25b2o$25bobo$27bo4b2o$23b4ob2o2bo2bo$23bo2bobobobob2o$26bobobobo$27b2o
+bobo$31bo2$17b2o$18bo7b2o$18bobo5b2o64b2o$19b2o70bobo$85b2o4bo$83bo2bo
+2b2ob4o$9b2o6bo65b2obobobobo2bo$9b2o5bobo67bobobobo$17bo68bobob2o$87bo
+$29b2o$29bo70b2o$2o28b3o58b2o7bo$2o30bo58b2o5bobo$98b2o2$22b2o$22bo$
+23b3o$25bo2$88b2o$89bo$86b3o$3b2o81bo11b3o$4bo93bo$b3o95bo$bo4$19b2o$
+19bobo83bo$21bo84b2o$21b2o82b3o3$110b2o$90b2o17bo2bo$91bo19bo$91bobo
+13bo2bo$11b2o68bo10b2o12bo$11b2o10bo55b3o$21b3o54bo$2b2obo14bo11bo45b
+2o$2bob2o14b2o8b3o30b2o48b2o$29bo34bo48b2o$29b2o11bo21bob2o$42b3o20bo
+2bo$45bo20b2o$7b2o35b2o35b2o$7b2o50b2o20b2o$59bo$56b2obo$55bo2bo$5bob
+2o47b2o32bo3b2o$3b3ob2o32b2o46bobo3bo$2bo13b2o23b2o45bobo3bo$3b3ob2o8b
+o66b2obobo3bo$5b2o2bo4b3o67b2obo2b4obo5b2o$8b2o4bo73bobo3bobo5bo$28b2o
+3bo50b2ob2o2bo2bobo2b3o$28bo3bobo50bobo2b2o3bo3bo$29bo3bobo37b2o10bobo
+26bo$30bo3bobob2o33b2o11bo25bobo$28bob4o2bob2o73b2o$27bobo3bobo$27bobo
+2bo2b2ob2o$28bo3b2o2bobo$36bobo10b2o$37bo11b2o!

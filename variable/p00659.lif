@@ -1,0 +1,16 @@
+#C compression = 79
+#C y_slack = 16
+x = 81, y = 82, rule = B3/S23
+56b2o$57bo$57bobo$58b2o5$53bo$53b3o21bo$56bo18b3o$55b2o17bo$74b2o4$28b
+2o$27bobo45b2o$21b2o4bo47bobo$19bo2bo2b2ob4o45bo$19b2obobobobo2bo45b2o
+$22bobobobo$22bobob2o$23bo2$36b2o$27b2o7bo24b2o$9bo17b2o5bobo25bo$9b3o
+22b2o23b3o$12bo46bo$11b2o$36bo$36b3o$3b2o34bo37b2o$3bo34b2o37bobo$2obo
+20b2o53bo$o2b3o4b2o13bo53b2o$b2o3bo3b2o10b3o$3b4o15bo$3bo15b2obo$4b3o
+12bobob2o$7bo13bo2bo23b2o$2b5o14b2o18b2o5bobo$2bo38b2o7bo18b2o$4bo45b
+2o17b2o$3b2o$37bo22b2obo$36bobob2o18bob2o$36bobobobo27b3o5b2o$33b2obob
+obobo2bo23bo2bo5bo$33bo2bo2b2ob4o23bo2bo3bobo$35b2o4bo26bo2bo4b2o$41bo
+bo24bo2bo$42b2o17bo7bobo$61b3o6bo$52bo11bo$52b3o8b2o6b2o6bo$55bo13b4ob
+o3bobo$42bo11b2o13bo5bo3bo$40b3o26bob2o$39bo34b2o$39b2o$24b2o$25bo$25b
+ob2o$26bo2bo$27b2o$42b2o$42b2o23b2o$67bo$68b3o9bo$70bo7bobo$51bo3b2o
+22b2o$50bobo3bo$49bobo3bo$45b2obobo3bo$45b2obo2b4obo$49bobo3bobo$45b2o
+b2o2bo2bobo$46bobo2b2o3bo$34b2o10bobo$34b2o11bo!

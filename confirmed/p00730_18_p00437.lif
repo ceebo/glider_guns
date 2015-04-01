@@ -1,0 +1,14 @@
+x = 137, y = 70, rule = B3/S23
+83b2o11bo$83b2o10bobo$95bobo2b2o3bo$94b2ob2o2bo2bobo$98bobo3bobo$94b2o
+bo2b4obo$33bo11b2o47b2obobo3bo$32bobo10b2o51bobo3bo15b2o$24bo3b2o2bobo
+64bobo3bo14bo$23bobo2bo2b2ob2o64bo3b2o12bobo$23bobo3bobo82b2o2b2o$24bo
+b4o2bob2o78b2o$26bo3bobob2o$8b2o15bo3bobo59b2o$9bo14bo3bobo60b2o$9bobo
+12b2o3bo46b2o48b2o$10b2o2b2o59bo2bo47b2o7b2o$14b2o58bob2o57bo$74bo58bo
+bo$37b2o34b2o58b2o$37b2o49b2o$52b2o34bo$51bo2bo34b3o$52b2obo35bo10b2o$
+55bo45bobo$55b2o44bo$2o38b2o58b2o23bo$2o39bo82bobob2o6bo$38b3o81b3obob
+o5bobo$26b2o10bo82bo3bo4bo4b2o$26bobo93bo2bob4o$28bo85b2o7bobobo$28b2o
+84b2o8bo3b3o$130bo4$14b2o$14b2o$96bo$96bobo$96b2o4$33bo$31bobo$32b2o
+12bo30bo$44b3o30b3o$43bo36bo$43b2o34b2o7$33b2o54b2o$32bobo5b2o40b2o5bo
+bo$32bo7b2o40b2o7bo$31b2o58b2o2$45bo32bo$41b2obobo30bobob2o$40bobobobo
+30bobobobo$37bo2bobobobob2o24b2obobobobo2bo$37b4ob2o2bo2bo24bo2bo2b2ob
+4o$41bo4b2o28b2o4bo$39bobo40bobo$39b2o42b2o!

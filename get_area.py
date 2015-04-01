@@ -2,6 +2,7 @@ from os import listdir
 
 guns = {}
 tentative_guns = []
+stats = {'fixed' : 0}
 confirmed = set()
 
 #if s2 is in s1 return the next digit in the string otherwise return 1
@@ -89,6 +90,7 @@ for filename in listdir("variable"):
         gun_data = [period, x, y, compression, x_slack, y_slack,
                     x_trips, y_trips, osc, factor, filename[:-4]]
 
+        stats[filename[:-4]] = 0
         add_variable_gun(*gun_data)
         
         if tentative_compression is not None:
@@ -116,12 +118,27 @@ for filename in listdir("confirmed"):
         print "***** Problem with gun %s" % filename
         raise
 
-stats = {}
+print "*******************************"
+print "Hall of Shame (p100 or greater)"
+print "*******************************"
 
-for period in guns:#sorted(guns, key=guns.get, reverse=True):
+lines = 0
+for period in sorted(guns, key=guns.get, reverse=True):
+    if 100 <= period < 1000:
+        print period, str(guns[period]).ljust(32), "(%d mod 8)" % (period % 8)
+        lines += 1
+        if lines == 20:
+            break
+
+print ""
+print "*************"
+print "Gun List"
+print "*************"
+
+for period in guns:
     if period < 1000:
         gun_type = guns[period][1].split("_")[0]
-        stats[gun_type] = stats.get(gun_type, 0) + 1
+        stats[gun_type] += 1
         print period, guns[period]
 
 print ""

@@ -1,16 +1,19 @@
 #C Snaked p922 gun
 #C Karel Suhajda, 14 Jun 2003
-x = 125, y = 85, rule = B3/S23
-70boboo$70boobo27boo$101bo$20bo78bobo$20b3o34bo37boobboo$7boo3boo9bo
-14boo17b3o35boo$7boo3boo8boo15bo20bo$38bo20boo11boo$38boo32boo$oo$bo$b
-obo$bboo$$41boo$41boo$101boo$83boo16bobo$82bobo18bo$5boo75bo20boo$6bo
-74boo4boo$3b3o28boo50bobo$3bo31bo15boo33bo$34bo17bo20boo10boo7boo$34b
-oo13b3o21bobo18boo$49bo25bo$75boo3$18boo$18boo$9boo93boo$8bobo93bo$8bo
-93bobo$7boo93boo4$84bo$84b3o$87bo$86boo28boo$116bo$114bobo$110boobboo$
-110boo$83bo$83bo$83bo$109boo4boo$20boo87boo4boo$20boo$$27boboo$27boobo
-$11boo106bo$12bo104b3o$12bobo101bo$13boo101boo$$29bo$27b3o$26bo11bo45b
-oo$11bo14boo8b3o17boo27bo$10bobo22bo20bo28bobo$11bo23boo20bo11bo16boo$
-56boo9b3o$66bo$66boo10boo$78bo44boo$76bobo44boo$76boo$15boo36boo$14bob
-o36boo9bo3boo$14bo48b3ob4o47boo$13boo7boo38boo6bo47boo$23bo37b3o5bo52b
-oo$20b3o40bo4bo53boo$20bo43bo$67bo$43boo17bo3bo20boo27boo$43bo18bo24b
-oo11boo14boo$44b3o16bo17bo18bo$46bo13b3o19bo18b3o$60bo19b3o20bo!
+x = 142, y = 61, rule = B3/S23
+32b2o$32bobo$34bo4b2o$30b4ob2o2bo2bo$30bo2bobobobob2o45b2o11bo$33bobob
+obo48b2o10bobo$34b2obobo30b2o28bobo2b2o3bo$38bo30bobo27b2ob2o2bo2bobo$
+63b2o4bo33bobo3bobo$24b2o35bo2bo2b2ob4o25b2obo2b4obo$25bo7b2o26b2obobo
+bobo2bo25b2obobo3bo$25bobo5b2o29bobobobo32bobo3bo15b2o$26b2o36bobob2o
+34bobo3bo14bo$65bo39bo3b2o12bobo$119b2o2b2o$78b2o39b2o$69b2o7bo$69b2o
+5bobo17b2o$76b2o18b2o$36b2o43b2o48b2o$36bo43bo2bo47b2o7b2o$37b3o39bob
+2o57bo$39bo39bo58bobo$78b2o58b2o$14b2o77b2o$14b2o50b2o25bo$67bo26b3o$
+64b3o29bo10b2o$64bo41bobo$106bo$28b2o75b2o23bo$28bo100bobob2o6bo$26bob
+o41bo56b3obobo5bobo$26b2o10bo29b3o55bo3bo4bo4b2o$38b3o26bo59bo2bob4o$
+2o39bo25b2o50b2o7bobobo$2o38b2o77b2o8bo3b3o$55b2o78bo$55bo39bo$52b2obo
+39b3o$51bo2bo43bo$52b2o43b2o$37b2o18b2o$37b2o17bobo5b2o35bo$56bo7b2o
+35bobo$14b2o39b2o44b2o$10b2o2b2o$9bobo12b2o3bo39bo$9bo14bo3bobo34b2obo
+bo36b2o$8b2o15bo3bobo32bobobobo29b2o5bobo$26bo3bobob2o25bo2bobobobob2o
+26b2o7bo$24bob4o2bob2o25b4ob2o2bo2bo35b2o$23bobo3bobo33bo4b2o$23bobo2b
+o2b2ob2o27bobo30bo$24bo3b2o2bobo28b2o30bobob2o$32bobo10b2o48bobobobo$
+33bo11b2o45b2obobobobo2bo$92bo2bo2b2ob4o$94b2o4bo$100bobo$101b2o!
