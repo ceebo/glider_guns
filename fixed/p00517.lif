@@ -1,22 +1,17 @@
-#Cp00517 found using Karel Suhajda's Hersrch program
-#C Scot Ellison - May 2003
-#CMinor bounding box improvement - Scot Ellison - July 17 2003
-x = 151, y = 68, rule = B3/S23
-63boo4bo$54boo7bobobbobo45bo$55bo9b4obbo42b3o$55bobo6bo4bobo41bo$56boo
-6boobbooboo40boo$74bo$68boob4obbo5boo6boo$33boo33boobo3b3o5bobbo4boo$
-34bo39bo5booboboo$34bobo37boo3bobobo$35boo42bo3boboo42bo$16boo60boobbo
-bboo18bo21b3o$9boo5boo64boo21boo19bo$9boo93bobo6boo11boo14boo$32boo79b
-oo27boo$32bo60bo$11boo17bobo58boo$11boo17boo59b3obboo50boo$5boo83bo5b
-oo50boo$5boo84bo4b3o45boo$91bo3bobboo44boo$93bo5bo$88boo$88boo11boo$
-101bo5boo40boo$boo33boo24boo38b3obbobboo37boo$bbo33boo11boo10bobo4boo
-34bo3boboo$bbobo44bo11bo6bo35bobobo$3boo45b3o7boo7b3o33booboboo$52bo
-18bo36bobbo4boo$108boo6boo$33boo52boo$33bobo51bo$35bo24bo27b3o23boo$
-35boo23b3o27bo24bo$63bo51bobo$62boo52boo$33boo6boo$33boo4bobbo36bo18bo
-$39booboboo33b3o7boo7b3o$42bobobo35bo6bo11bo$39boobo3bo34boo4bobo10boo
-11boo$oo37boobbobb3o38boo24boo35bo$oo40boo5bo98bobo$48boo11boo86boo$
-61boo$51bo5bo$5boo44boobbo3bo$5boo45b3o4bo84boo$boo50boo5bo83boo$boo
-50boobb3o59boo17boo$58boo58bobo17boo$57bo60bo$7boo27boo79boo$7boo14boo
-11boo6bobo93boo$24bo19boo21boo64boo5boo$21b3o21bo18boobbobboo60boo$21b
-o42boobo3bo42boo$67bobobo3boo37bobo$64booboboo5bo39bo$58boo4bobbo5b3o
-3boboo33boo$58boo6boo5bobb4oboo$76bo$36boo40booboobboo6boo$37bo41bobo
-4bo6bobo$34b3o42bobb4o9bo$34bo45bobobbobo7boo$81bo4boo!
+x = 141, y = 62, rule = B3/S23
+26bo7bob2o20b2o6b2o52bo$24b3o7b2obo20b2o4bo2bo51bobo$8bo14bo40b2obob2o
+49bo$8b3o12b2o42bobobo$11bo52b2obo3bo46b5o2bo$10b2o46bo5b2o2bo2b2o44bo
+4bo2b3o9b2o$56bobo8b2o47bo2bo8bo8b2o$54b3o56bo2bob2o7b2o$11b2o43bo44b
+2o9bobobo5bo$11b2o17b2o25b3o42bo10bo2bo4bobo$30b2o25b2o42bo14b2o2bo2bo
+$57b5o39b2o18b2o$58bobo$60bobo$64bo$65bo$27b2o36b2o9b2o$27bo20b2o14b2o
+10b2o26b2o$29bo19bo14bo39b2o$28b2o16b3o$24b2o20bo$24bo$25b3o$27bo14bo$
+4b2o36b3o29b2o$4b2o39bo27bobo38b2o$44b2o27bo41bo$57bo14b2o25b2o11b3o$
+3bo51b3o41b2o11bo$2bobo49bo70b2o13bo$3bo50b2o69b2o11b3o$3o11b2o69b2o
+50bo$o13b2o70bo49bobo$28bo11b2o41b3o51bo$26b3o11b2o25b2o14bo$25bo41bo
+27b2o$25b2o38bobo27bo39b2o$65b2o29b3o36b2o$98bo14bo$113b3o$116bo$94bo
+20b2o$92b3o16b2o$35b2o39bo14bo19bo$35b2o26b2o10b2o14b2o20bo$63b2o9b2o
+36b2o$75bo$76bo$78bobo$80bobo$18b2o18b2o39b5o$17bo2bo2b2o14bo42b2o25b
+2o$17bobo4bo2bo10bo42b3o25b2o17b2o$18bo5bobobo9b2o44bo43b2o$12b2o7b2ob
+o2bo56b3o$2b2o8bo8bo2bo47b2o8bobo$2b2o9b3o2bo4bo44b2o2bo2b2o5bo46b2o$
+15bo2b5o46bo3bob2o52bo$69bobobo42b2o12b3o$20bo49b2obob2o24bo15bo14bo$
+19bobo51bo2bo4b2o19bo11b3o$20bo52b2o6b2o17b3o11bo!

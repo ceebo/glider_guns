@@ -1,20 +1,14 @@
-#C p00445 found using Karel Suhajda's Hersrch program
-#C  Scot Ellison - 4 November 2003
-#C Reduced by 8 rows with smaller P5 - Scot Ellison 4 May 2007
-x = 105, y = 90, rule = B3/S23
-68boo4bo$59boo7bobobbobo$60bo9b4obbo$60bobo6bo4bobo$61boo6boobbooboo$
-79bo$73boob4obbo$73boobo3b3o$19boo58bo$12boo5boo58boo$12boo35bo$38boo
-7b3o39b4o$34boo3bo6bo41boboobo$14boo18bo4bobo4boo40boobboo$14boo16bobo
-5boo46boobboo$8boo22boo54boboobo$8boo79b4o$$103boo$103bo$89boo10bobo$
-88bobbo9boo$87boobbo$22boo64boobbo$21bobo65b4o5boo$23bo43boo29boo$66bo
-bo4boo$66bo6bo7boo$65boo7b3o4boo$5boo69bo$6bo45boo$6bobo43bo$7boo37boo
-bo3b3o34boo$46boob4obbo34boo$52bo$34boo6boobboob3o$33bobo6bo4bobo$33bo
-9b4o$32boo11bo$16boo29bo$16boboo26boo56bo$15booboboo80bobo$17booboo58b
-o22boo$8b3o5boobboo58b3o$11bo5bobo63bo$8bobbo5b3o4boo56boo14boo$oo7boo
-13bo73boo$bo23b3o$bobo23bo$bboo9$45boo52boo$45bo23bo29bobo$43bobo23b3o
-29bo$43boo27bo28boo$71boo$$52bo$52b3o$55bo$54boo11boo$67boo$bboo$bobo$
-bo$oo$13boo$75boo21boo$3bobbo3bo6bo3bobbo49bobo21boo$3b4obbo8bobb4o17b
-oo30bo17boo$7b3o3boo3b3o8boo11boo29boo17boo$5boob5obb5oboo7bo$5bo6b4o
-6bo4b3o$6b5obobbob5o5bo66boo$11boobboo70boo5boo$8boobo4boboo26boo39boo
-$8bobbo4bobbo27bo20boo$9bobo4bobo25b3o21bobo$4boobobob6oboboboo20bo25b
-o$4bobooboobboobbooboobo46boo$9bo8bo$9bobo4bobo$10boo4boo!
+x = 129, y = 64, rule = B3/S23
+83bob2o$83b2obo3$7b2o61bo42bo4b2o$7b2o42b2o17b3o38b3o4bo2b2o$52bo20bo
+36bo8b2ob3o$51bo20b2o11b2o23b2o13bo$b2o48b2o32b2o32b2ob3o$b2o116b2obo$
+5b2o$5b2o105bo$112b3o$26b2o82b3obo4b2o$26b2o26b2o52b3obobo4b2o$2o52b2o
+51b2obo$2o105bo4b2o$97b2o9b4o$98bo8b2ob2o$95b3o8b2o14b2obo$95bo11bo14b
+ob2o$24b2o78b3o$23bobo38b2o38bo10b2o$23bo41bo20b2o27b2o$22b2o25b2o11b
+3o21bobo$49b2o11bo25bo$88b2o2$35b2o$36bo43bo$33b3o44b3o22b2o$20b2o11bo
+49bo22bo$20bobo22b2o35b2o22bobo$22bo22bo49bo11b2o$22b2o22b3o44b3o$48bo
+43bo$92b2o2$39b2o$40bo25bo11b2o$40bobo21b3o11b2o25b2o$12b2o27b2o20bo
+41bo$12b2o10bo38b2o38bobo$22b3o78b2o$3b2obo14bo11bo$3bob2o14b2o8b3o$
+17b2ob2o8bo$17b4o9b2o$15b2o4bo105b2o$18bob2o51b2o52b2o$8b2o4bobob3o52b
+2o26b2o$8b2o4bob3o82b2o$14b3o$16bo105b2o$122b2o$6bob2o116b2o$4b3ob2o
+32b2o32b2o48b2o$3bo13b2o23b2o11b2o20bo$4b3ob2o8bo36bo20bo$6b2o2bo4b3o
+38b3o17b2o42b2o$9b2o4bo42bo61b2o$39bo$40bo$38b3o49bo!
