@@ -1,0 +1,14 @@
+x = 112, y = 72, rule = B3/S23
+24b2o54b2o$24bobo52bobo$26bo4b2o40b2o4bo$22b4ob2o2bo2bo36bo2bo2b2ob4o$
+22bo2bobobobob2o36b2obobobobo2bo$25bobobobo42bobobobo$26b2obobo42bobob
+2o$30bo44bo2$16b2o70b2o$17bo7b2o52b2o7bo$17bobo5b2o52b2o5bobo$18b2o66b
+2o7$28b2o46b2o$28bo48bo$29b3o42b3o$31bo42bo3$14b2o$13bobo$15bo4$96b2o$
+96bobo$9bo86bo$8bobo$7bo2bo$8bo2$3b2o$2bo2bo17b2o77bo$3bobo17bo77bobo$
+4bo16bobo77bo2bo$6b3o12b2o10bo69bo$7b2o24b3o$36bo70b2o$35b2o50b2o17bo
+2bo$2o48b2o36bo17bobo$2o48bo37bobo16bo$47b2obo27bo10b2o12b3o$46bo2bo
+10b2o14b3o24b2o$47b2o11b2o13bo$32b2o41b2o$32b2o26b2o48b2o$61bo48b2o$
+61bob2o$62bo2bo$19b2o3bo38b2o$19bo3bobo52b2o$20bo3bobo51b2o$21bo3bobob
+2o$19bob4o2bob2o$10b2o6bobo3bobo$10b2o6bobo2bo2b2ob2o56bo3b2o$19bo3b2o
+2bobo56bobo3bo$27bobo10b2o43bobo3bo$28bo11b2o39b2obobo3bo$81b2obo2b4ob
+o5b2o$85bobo3bobo5bo$81b2ob2o2bo2bobo2b3o$82bobo2b2o3bo3bo13bo$70b2o
+10bobo26bo$70b2o11bo25b3o!
