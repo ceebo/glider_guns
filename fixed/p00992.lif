@@ -1,15 +1,15 @@
-#C p992 bootstrapped Herschel factory gun
-#C p992+16N, N=0: Dave Greene, 20 Sep 2005
-x = 127, y = 74, rule = B3/S23
-7bo6boo$7b3o4bobbobo$10bo5boob3o$9boo11bo$16boob3o$16boobo$45bo$44bobo
-$5boo3boo31bo3bo$5boo3boo32bo3bo8bo$45bo3bo5b3o$46bo3bo3bo$47bobo4boo$
-bo46bo$obo49bo$bo49bobo65boo$52boobboo47boo12boo$44bo11boo48bo$42b3o
-39boo20bobo$41bo43bo6boo13boo$41boo42bobo4boo$31boo47boo4boo$18boo12bo
-47bobo$18boo12bobo43bobob3o$33boo4boo33boobboo5bo39boo$38bobbo32boo8b
-oo39boo$39boo$51boo$21boo28boo43boo$21bobo6boo64boo$21bo8boo$8boo115bo
-$9bo114bobo$6b3o116bo$6bo$$37boo3boo$39bobbo19boo24boo25boo$36bo6b3o
-15bobo24boo24bobo$37boo6bo15bo52bo$15boo43boo51boo11bo$16bo107bobo$13b
-3o109boo$13bo$21boo$21boobboo47boo17boo$25bobo46boo17bobo$26bo59boo7bo
-$30bo56bo7boo$23boo4b3o52b3o$24bo3b3obo51bo$21b3o5bo3bo$21bo8bo3bo$31b
-ob3o$32b3o$33bo6$55boo$51boobboo$50bobo$47bo3bo$47boo$46boobo3boo$45bo
-bb3obbo$44bobobo5b3o$43bobobo8bo$41b3obbo$42boboo$43boo$44bo!
+#CXRLE Pos=0,2 Gen=136
+x = 114, y = 72, rule = B3/S23
+69b2o$67bob2o$57bo8bo$57b3o9bo$60bo4b2obo$59b2o4b2o2$62bo$61bobo$57b2o
+2b2o$57b2o5$79b2o2$77bo3bo$77bo4bo$79bobobo8bo$80bobobo5b3o$81bo4bo2bo
+$34b2o46bo3bo2b2o$34bo$32bobo48b2o2bo$32b2o4b2o46bobo$38b2o47b2o2b2o$
+91b2o$100bo$98b3o$26b2o69bo$17b2o7b2o24b2o43b2o$18bo33bo15bo7bo$18bobo
+29bobo15b3o4b2o$19b2o29b2o19bo3b2o$70b2o3bo2$12b2o93bo$12b2o91b3o$104b
+o$89bobo12b2o$3b2o23bo53b2o6b2o$3bobo18b2obobo52b2o6bo$4bo20bobob3o29b
+2o$23bo4bo3bo28b2o$23b4obo2bo41b2o$26bobobo7b2o32bo2bo$7b2o16bo3bo4b2o
+2b2o33b2o4b2o$7b2o17b3o4bobo43bobo12b2o$2b2o24bobo2bo47bo12b2o$bobo25b
+5o47b2o$bo69b2o$2o13b2o14bo40bo$15bo14bobo36b3o$8b2o6b3o12bo24b2o11bo$
+8b2o8bo37b2o2b2o$60bobo49bo$61bo3bo45bobo$64b2o46bo$58b2o3bob2o$59bo2b
+3o2bo$56b3o5bobobo$56bo8bobobo32b2o3b2o$66bo2b3o30b2o3b2o$67b2obo$68b
+2o$68bo25bob2o$92b3ob2o$91bo11b2o$42bo49b3ob2o5bo$43bo50bobo2bo4b3o$
+41b3o54b2o6bo!

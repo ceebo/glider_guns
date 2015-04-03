@@ -1,10 +1,9 @@
-x = 87, y = 36, rule = B3/S23
-35bo15bo$35b3o11b3o$33boo3bo9bo3boo$32boboboobo7boboobobo$33bobobobo7b
-obobobo$37boboo5boobo$34bobbo11bobbo$35bobo11bobo$34booboo9booboo$$boo
-81boo$bbo81bo$bbobo38bo38bobo$3boo37bobo37boo$42bobo$40bobobobo28bo$
-11bobo26boo3boo27boboo$11bobo58bo4bo$11booboboo47bo5bo3boo$12bob4oboo
-43bobo3boobbo$12bo5bobo43bobo3bo$16b4o45bo6bo$12b4o52boo3boo$14b5o11b
-oo23boo11boobboo$14bo3bo11boo23boo11bo3boo$bbooboo10boo45boo14booboo$
-3boboo7booboo45b3o7bo5boobo$3bo3bo8bo57boo3bo3bo$oobobobo66bo4bobobob
-oo$bobo4bo61bobbo4bo4bobo$boboo3bo62boo5bo3boobo$bbo3boo32bo38boo3bo$
-3b3o29b3oboobboo36b3o$5bo29b4o4boo7bo28bo$39boo12bo$32bo18b3o!
+#CXRLE Pos=7,-7 Gen=984
+x = 40, y = 53, rule = B3/S23
+11bo$9b3o17bo$8bo5bo12b3o$7bob6o11bo$7bobo16b2o$6b2o3bob2o$8bo4b2o$8bo
+2b2o10b3o$9b2o12bo2bo$27bo$24bobo$17b3o5bo$16b3ob2o$15bo2bob2o$15bo2b
+2o$15b2obo$15bo2bo$16bobo$17bo3b3o$16b3o4bo$12b2o2b3o2b2o$12b2o4bo2b2o
+$21bo8$15b2o$15b2o$36bo$12b2o21bobo$12b2o17bobo2b2o$31b2o2bo2b2o$36bob
+o$3b2o26b6obo$3bobo24bo7b2o$4bo26b7o$23b2o10bo2b2o$23bo7b2o5bo$24b3o4b
+2o6bo$7b2o17bo11b2o$7b2o$2b2o27b3o$bobo28b2o$bo27b2o$2o13b2o12b3o$15bo
+14bobo$8b2o6b3o8bo3b2o$8b2o8bo9bo$26b3o!

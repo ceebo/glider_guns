@@ -1,22 +1,20 @@
-#C p00968 Doubled the 484 gun - Scot Ellison July 2, 2008
-#C (64+64+158+77)*2 - P22 Pulse divider - p8 doubler - 3 Herschels
-x = 127, y = 68, rule = B3/S23
-57bo4boo$56bobobbobo7boo$55bobb4o9bo$55bobo4bo6bobo$54booboobboo6boo$
-52bo$49bobb4oboo$49b3o3boboo$52bo$51boo33boo6boo$86boo4bobbo$92boobob
-oo10boo$95bobobo9boo5boo$33boo57boobo3bo16boo$33boo57boobbobboo$95boo$
-114boo$27boo3b3o52boo25boo$27boo3bo53bo33boo$32boobo5boo77boo$34boo8bo
-44bo$39boo4boo41bobo$38boo6bo41bobo7bo$37b3obboobbo50bobbo$26boobboo
-10boobo51bo3bo$26booboo32boo24boo6bo3bo$11bo18boo25boo4bobo10boo11boo
-5boo3bo21boo$9b3o19b3o24bo6bo11bo19bobbo22bo$8bo23boo21b3o7boo7b3o44bo
-bo$8boo23bo21bo11bo6bo46boo$64bobo35booboo$32boo11boobbooboo8b3oboo33b
-obobobo$5boo25boo11bobobbobo8bo39bobobbo$4bobbo40boo3bo7boo37boobo$4bo
-3bobbo37boboo37boo7bo3boo$5b5obbo33bobbobo39bo8bobobbobo$8b3o34bobobob
-o33boob3o8booboobboo$8boo36booboo35bobo$9boo67bo6bo11bo$3boo4boo7boo
-56b3o7boo7b3o$3boo13boo55bo11bo6bo$4boo56boo11boo10bobo4boo$3b3o56boo
-24boo35boo$bobb5o116boo$bbobbo3bo$6bobbo$7boo$120boo$31boo87boo$o3boo
-25boo91boo$5bo7boo22boo44bo40boo$bb3o8boo22boo43bobo4boo$bbo53boo22boo
-5bo$52boobbobboo19bobboo3bo29boo$35boo16bo3boboo19b3o35boo$21boo12boo
-5boo9bobobo$21bo20boo10booboboo28bo$22b3o32bobbo4boo22bobo$24bo32boo6b
-oo22boo9boo$100bo$11boo81boobo3b3o$12bo14bo66boob4obbo$9b3o10b3oboobb
-oo68bo$9bo12b4o4boo50boo6boobbooboo$26boo53bobo6bo4bobo$41bo39bo9b4obb
-o$42bo37boo7bobobbobo$40b3o46boo4bo!
+#CXRLE Pos=37,-23 Gen=438
+x = 68, y = 113, rule = B3/S23
+24b2o$17b2o5b2o$17b2o22bo$39b3o$38bo$19b2o17b2o8b2o$19b2o27b2o$13b2o$
+13b2o$54b2o$54b2o$31bo18b2o$31b2o17b2o$30bobo3$55b2o$55b2o2$31b2o3bo$
+31bo3bobo$32bo3b2o$33bo$6b2o23bob5o$7bo6b2o15b2o4bo$7bobo4b2o18b3o$5b
+2ob2o21b2obo18bo$6bo24bobo19b3o$4bobo49bo$2b3ob2o20b2o25b2o$bo26bo23b
+2o$o2b2ob2o18bobo23bob5o$b2obob2o18b2o30bo$2bo8b4ob2o35b2obo$2bo8bo6bo
+3bo30b2ob2o$b2obo6bo6bo2bobo8b2o$o2b2o13bo2b2o8bobo7b2o$2o10b2o3bo7b2o
+4bo9b2o$12bo2b2o8bo4b2o$13b2o11b3o28b2o$12bobo13bob2o25b2o$13b2o14bobo
+14bo$45b3o$3b2o39b2o2bo$4bo40b2obo$b3o38b2ob2o$bo41bo5bo$43bo4bo$28b2o
+14bo2bo$28bo11b2o3bo$26bobo10bobo8bo$26b2o11bo11bo$38b2o9b3o2$66bo$64b
+3o$63bo$63b2o2$36bobo$9b2o25b2obo$9b2o28b3o$36b2o4bo$25b2o9bo4b2o23b2o
+$25b2o7bobo26b2o2bo$34b2o27bob2o$10b2ob2o50bo$11bob2o50bo$9bo30b2o18b
+2obob2o$9b5obo23bobo18b2ob2o2bo$14b2o23bo26bo$11b2o25b2o20b2ob3o$11bo
+49bobo$12b3o19bobo24bo$14bo18bob2o21b2ob2o$31b3o24bobo$30bo4b2o23bo$
+30b5obo23b2o$34bo$30b2o3bo$30bobo3bo$31bo3b2o2$11b2o$11b2o$32b2o2bobo$
+34b2o2bo$31bo2b2o2bo$16b2o13bobo2b2o$16b2o$12b2o$12b2o$53b2o$53b2o$18b
+2o27b2o$18b2o27b2o3$9b2o38b2o$9bobo30b2o5b2o$10bo31b2o$36b2o$36b2o2$
+13b2o$13b2o21b3o$8b2o27b2o$7bobo24b2o$7bo26b3o$6b2o13b2o12bobo$21bo10b
+o3b2o$14b2o6b3o8bo$14b2o8bo6b3o!

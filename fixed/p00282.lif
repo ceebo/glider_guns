@@ -1,13 +1,11 @@
-x = 56, y = 46, rule = B3/S23
-11bo3bo3bo16bo3bo3bo$9b3obbobobb3o12b3obbobobb3o$8bo5bobo5bo10bo5bobo
-5bo$7bob5obob5obo8bob5obob5obo$7bo5bo3bo5bo8bo5bo3bo5bo$8bobbobobobbob
-obo10bobbobobobbobobo$9boboob3o3boo12boboob3o3boo$10boobo21boobo$11boo
-b3o19boob3o$11bo4b4o16bo4b4o$11boboo4bo16boboo4bo$$bbo50bo$bb3o46b3o$
-5bo44bo$4boo44boo$14boo22b3o$13boobo6boo6boo4bo3bo$11b3obboo5boo6boo4b
-o3bo$oo8boo4boo19bo4boo10boo$bo8boo5boo20bo4bo9bo$bobo14bo19bobo3bo7bo
-bo$bboo12boo21bo4bo7boo$16bo4boo10boo3bo3boo$21bobo8bobo3bobbo$23bo8bo
-8bo$23boo6boo5b3o$oo7bo44boo$oo7bo44boo$10bo6$6bo4bobo29bo4bobo$4boo4b
-4o27boo4b4o$7b4obo31b4obo$$3bo5boobb3o24bo5boobb3o$bbobooboboboboobo
-22bobooboboboboobo$bobo3bo3bo5bo20bobo3bo3bo5bo$bob5obob5obo20bob5obob
-5obo$bbo5bobo5bo17bo4bo5bobo5bo$3b3obbobobb3o19bo4b3obbobobb3o$5bo3bo
-3bo19b3o6bo3bo3bo!
+#CXRLE Pos=0,0
+x = 52, y = 38, rule = B3/S23
+15b2o3bo10bo3b2o$16bo2bobo8bobo2bo$14bo4bobo8bobo4bo$14b5obo10bob5o$
+18bo14bo$7b2o5b2o3bo12bo3b2o5b2o$8bo5b2o4bo10bo4b2o5bo$8bobo8b2o10b2o
+8bobo$2bo6b2o30b2o6bo$2b3o42b3o$5bo40bo$4b2o40b2o$37bo$23b2o2b2o7b2o$
+23b2o2b2o6b2o3bo$2o32b3obobo9b2o$bo32bob5o9bo$bobo10bo18bo2b2o10bobo$
+2b2o9b3o18b2o12b2o$13bo2bo4b2o6b2o$6b3o5bobo4bobo4bobo$5bo9bo7bo4bo$bo
+b2o3bo14b2o2b2o$o5b2o42b2o$o41bo7b2o$b2o3b4o31b3o$4bo5b2o28bob2o$8bob
+2o27b3o$9bo30b2o$14b2o20b2o3b2o$4b2o8bobo18bobo2b2ob2ob2o$4bo4b2o5bo
+18bo4bo2b3obo$5bo3b2o5b2o16b2o5b2o3bo$6bo38bo$4bob5o30b5obo$3bobo4bo
+19bo10bo4bobo$3bobo2bo22bo11bo2bobo$4bo3b2o19b3o10b2o3bo!

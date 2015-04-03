@@ -1,23 +1,14 @@
-#C Added two Dieter Leithner's p5 pulse dividers to an existing gun
-#C Scot Ellison   December 2002
-x = 91, y = 64, rule = B3/S23
-32bo7boo$32b3o5boo12boo$25boo8bo17bobbo$26bo7boo16boboobo$26bobo20bo3b
-obobo$27boo20bo3boboboo$48bo6bo15boo$16boo32bobb3o16bobboo$15bobbo24bo
-bo4bo5boo14bobobbo$14bobobbo19bobbobbo4boboobobbo12booboboboboo$14bobo
-3bo13bo4bo3bobo3boobo3boo14boboboboobo$13boobob6o9bo14boo3b3o14bo3b3o$
-16bobbobo10bo5bo10boo4bo13bob3obob4o$16b3obobbo7bo3boo11boobbooboboo
-10bo11bo$14boo3bobobo7bo20boobobo12b3obobob3o$13bobboboobo10boobbo15bo
-bbobo14booboboo$14boo3boboo10bobbo16bobbo32boo$16boo4bo12bo18boo33bo$
-16bobo3bo64bobo$13boobo5boo63boo$14boboboo57boo$14bobobbo16boo39boo$
-15bobbo17bo$16boo12boo5b3o$30boo7bo10b3o$48bo17boo$55bo10boo$42boo11bo
-$41bobbo7boobbo25boo$41boboo3bobb3obbo25bobo$48bo4b3o28bo$42b4o6boo30b
-oo$44boo3b4o$45bo$44boo$43bobo$42boobo$17boo7bo16boo$3boo12boo5b3o46b
-oo$bbobbo17bo49bo$bobobbo16boo46bobo$boboboo9b3o52boo$oobo5boo5b3o$3bo
-bo3bo4bo5bo6b3o25boo33bo$3boo4bo4bobobobo8bo11boo5boo5boo31bobo$boo3bo
-boo6boobbo7bo11bobbo4boo39boo$obboboobo4bobobboo19bobbobo$boo3bobobobb
-obboboo19boobobo$3b3obobbo4b4o16boobbooboboo20boo$3bobbobo6b3o18boo4bo
-23boo$oobob6o11boo11boo3b3o33boo$bobo3bo15bo12boobo3boo31bobo$bobobbo
-14boo14boboobobbo32bo$bbobbo15bo15bo5boo33boo$3boo32bobb3o18booboboo$
-35bo6bo16b3obobob3o$14boo20bo3boboboo12bo11bo$13bobo20bo3bobobo13bob3o
-bob4o$13bo7boo16boboobo14bo3b3o$12boo8bo17bobbo17boboboboobo$19b3o5boo
-12boo17booboboboboo$19bo7boo32bobobbo$61bobboo$60boo!
+#CXRLE Pos=0,0 Gen=2018
+x = 64, y = 70, rule = B3/S23
+39b2o7bo$40bo5b3o$15b2o3bo24bo8b2o$16bo2bobo5b2o16b2o7bo$14bo4bobo4bo
+2bo2b2o7b2o9bobo$14b5obo6b2o2bobo6bo11b2o$18bo10b2o13bo$7b2o5b2o3bo9bo
+9b2o3bo13bo$8bo5b2o4bo5b2obo7b2o2b3o12b3o$8bobo8b2o5bo2bob2o4b3o15bo$
+2bo6b2o17b2ob2o2bo2bo16b2o$2b3o31b2o$5bo39bo$4b2o38b3o$33b2o8bo3bo9b2o
+b2o$23b2o9bo7bo2b2o10b2obo2bo$8bo14b2o6b3o9b3o14bob2o$2o6b2o21bo28bo$b
+o5bo2bo48b2o$bobo6bo45bobo2b2o$2b2o3b2o2b2o43b2o2bo2bo$7b2o4bo7b2o20b
+2o16b2o$7bobo2b3o6bobo20bo$7b2o4bo9bo17b3o5b2o$7bo3b2o10b2o16bo7b2o$2o
+3b3o2bo$2o4bobobo$7b3o$8bo3$14b2o$4b2o8bobo$4bo4b2o5bo9bo17b2o$5bo3b2o
+5b2o7b3o16b2o$6bo18b3o$4bob5o$3bobo4bo$3bobo2bo$4bo3b2o2$43b2o$43b2o3$
+52b2o$51bobo$52bo3$46b2o$26b2o18b2o$26b2o$53b2o$53bobo$17b2o36bo$17bob
+o20b2o13b2o$18bo22bo$38b3o6b2o$38bo8b2o2$21b2o$21b2o$16b2o$15bobo$15bo
+$14b2o13b2o$29bo10bo$22b2o6b3o8bo$22b2o8bo6b3o!
