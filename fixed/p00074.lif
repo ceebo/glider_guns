@@ -1,26 +1,13 @@
-#C Snaked p74 gun
-#C Karel Suhajda, 1 May 2003
-x = 113, y = 91, rule = B3/S23
-64bo7bobooboo$62b3o7boobobobo$46bo14bo16bo$46b3o12boo$49bo17boo33bo$
-48boo16b5o29b3o$65boboboo6boo20bo$65bo5bo4booboo18boo7boo$49boo15bo4b
-oo4bobbo27bo$49boo18bobo5bobbo25bobo$69b3o6boo26boo$69bobo31bo$102bobo
-$97bo5bo$57bo37bobo3boo$56b3o36bobo3boo$55boobbo5boo34boo$59bo5bo20boo
-23bo$40booboobboo9bo8bo19bo22bobo$41bobobbobo5bo11boo16b3o8boo14bo$32b
-o7bo3boo8bobo5boo20bo11bo$20bo11b3o6boobo9boo6bo30b3o$18b3o14bo6bobobb
-o15b3o27bo$bbo14bo16boo6bobobobo16bo$bb3o12boo24booboo60boo$5bo8bo93bo
-bo$4boo7boo95bo$13bobo25boobboo63boo$12boo4boo21boobboo45boboobboo$5b
-oo6b3o3boo18bo6boo44boobo4boo3bo$5boo6bobooboo4boo12bo7bo55boobo$15b4o
-5boo13boobooboo50bo7bo$41bo3boo51bo3bo$99bo$100bobo$61boo36boo3bo$61b
-oo37bo3boo$21boo32boo48bo$21bo33boo44bobbo$23bo78b3o6boo$22boo87bo$18b
-oo37boo50bobo$18bo31boo5boo50boo$19b3o28boo$21bo$$91bo$61boo28b3o$bboo
-50boo5boo31bo$bobo50boo37boo$bo87boo$oo6b3o78bo$8bobbo44boo33bo$7bo48b
-oo32boo$7boo3bo37boo$8bo3boo36boo$10bobo$13bo$10bo3bo51boo3bo$7bo7bo
-50boobooboo13boo5b4o$7boboo55bo7bo12boo4booboobo6boo$7bo3boo4boboo44b
-oo6bo18boo3b3o6boo$13boobboobo45boobboo21boo4boo$boo63boobboo25bobo$bb
-o95boo7boo$bbobo93bo8bo$3boo60booboo24boo12b3o$47bo16bobobobo6boo16bo
-14bo$19bo27b3o15bobbobo6bo14b3o$17b3o30bo6boo9boboo6b3o11bo$16bo11bo
-20boo5bobo8boo3bo7bo$bo14boo8b3o16boo11bo5bobobbobo$obo22bo19bo8bo9boo
-bbooboo$bo23boo20bo5bo$10boo34boo5bobboo$10boo3bobo36b3o$10boo3bobo37b
-o$9bo5bo$8bobo$9bo31bobo$5boo26boo6b3o$4bobo25bobbo5bobo18boo$4bo27bo
-bbo4boo4bo15boo$3boo7boo18booboo4bo5bo$13bo20boo6boobobo$10b3o29b5o16b
-oo$10bo33boo17bo$50boo12b3o$35bo15bo14bo$36bo11b3o$34b3o11bo!
+x = 72, y = 74, rule = B3/S23
+28bo11b2o$27bobo10b2o$19bo3b2o2bobo$10b2o6bobo2bo2b2ob2o$10b2o6bobo3bo
+bo$10b2o7bob4o2bob2o$9b3o9bo3bobob2o$9bobo8bo3bobo$8bo2bo7bo3bobo$8b3o
+8b2o3bo$8b2o$10b2o$9b2obo16b2o$8bo18b2ob2o$7bo3b2o14bo2bo$8b3o16bo2bo
+6b3o7b2o$8b2o18b2o7bo8bo2bo$11bo26bo8b2obo$2o7b2o39bo$2o7b2o39b2o$5b2o
+2b2o24b2o$9b2o25bo$4b3o26b3o$6b4o11b2o10bo$8b3o10bobo$8bob2o11bo$7b2o
+2bo11b2o$7b2ob2o$8bobo$9bo4$56b2o$56bobo$56bo6$62bo$61bobo$61bo2bo$63b
+o2$67b2o$23bo23b2o17bo2bo$24b2o22bo17bobo$23b2o23bobo16bo$38bo10b2o12b
+3o$36b3o24b2o$35bo$35b2o16b2o$20b2o30bo2bo14b2o$21bo30bo2bo14b2o$21bob
+2o26b5o$22bo2bo22b2ob2o$23bobo24bo$32b2o$25bobo2bo2bo$26bo2b2o4bo$29b
+2o6bo$29bo2b2ob3o$29bo3b5o9bo3b2o$29bo16bobo3bo$33bo11bobo3bo$30bo2bo
+7b2obobo3bo$30b3o8b2obo2b4obo5b2o$45bobo3bobo5bo$41b2ob2o2bo2bobo2b3o$
+42bobo2b2o3bo3bo13bo$30b2o10bobo26bo$30b2o11bo25b3o!

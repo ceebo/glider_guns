@@ -1,20 +1,13 @@
-#CPseudo p75 gun
-#CKarel Suhajda, 8 Mar 2004
-x = 85, y = 65, rule = B3/S23
-38boo$37bobo$22bobo11bo6boo$17bo4bobbo10bobbobbobboboo11boo$18boo5boo
-9bo6boobboo11bobo$13boo8bo3boo8bobo15boo6bo11bobo$13boo10boo11boo11boo
-bobbobbobbo10bobbo$22bobbo8bo16boobboo6bo9boo6boo$22bobo10boo23bobo8b
-oo3bo3bobbo$34boo24boo11boo6boo$65bo8bobbo3boo$22bo40boo10bobo3bo$20b
-4o40boo14bobo$11boo5b4oboo55bobo$9bobbo3bo3boob3o8boo45bo$oo6bo7bo3boo
-boo9boo5bobo$oo6bo6bo3b5o18boo$8bo7b3o3bo19bo35boo3boo$9bobbo43bobo19b
-obobobo$11boo26boo15boo21b5o$39bo17bo22b3o$24bo12bobo41bo$25boo10boo
-15bo$24boo23boo3boo$54bobo$55boo$10boo$10boo$27boo3bo17b3o27boo$27boo
-3boo46boo$32bo22bo15boo$54bo17bobboo$10bo43bo17bobobbo$10bo9bo25boo23b
-ooboboboboo$9bobo8boo25bo24bo5boobo$8booboo6bobo22b3o23bo3b3o$7bo5bo
-25bo4bo10bo13bob3obob4o$10bo29boo13bo8bo4bo11bo$7boo3boo25boo14bo9boo
-3b3o5b3o$64boo6bo5bo$73b5o$12b3o$12boboo$14boo$13boo$11bobo$9boobbo22b
-o25boo$34bobo25boo$33bobo$27boo3bobbo$27boo4bobo$34bobo$10b5o21bo$9bob
-3obo43boo$10bo3bo44bo6booboboo$11b3o46bo3b3obobob3o$12bo46boobbo11bo8b
-o$45boo3boo11bob3obob4o7bobo$36bobo8b3o14bo3b3o12boo$36bobbo6bo3bo15bo
-boboboobo$11boo14boo10boo6bobo15booboboboboo$11boo14boo8bo3boo5bo17bob
-obbo$32boo5boo25bobboo$31bo4bobbo25boo$36bobo!
+x = 85, y = 58, rule = B3/S23
+31b2o11bo$31b2o10bobo$43bobo2b2o3bo$42b2ob2o2bo2bobo$46bobo3bobo$42b2o
+bo2b4obo$42b2obobo3bo$46bobo3bo15b2o$47bobo3bo14bo$48bo3b2o12bobo$36b
+2o24b2o2b2o$39b2o21b2o$36bo2b3o$37b2obobo$38b2o2b2o$24b2o13b4o31b2o$
+23bo2bo5b2o5b3o32b2o7b2o$22bob2o5bobo49bo$22bo10bo47bobo$21b2o39b3o16b
+2o$36b2o22bob2obo$36bo27b3o$37b3o27bo$39bo10b2o14bo$49bobo13b2o$14b2o
+33bo11b2o2bo$14b2o32b2o12b3o8bo$63bo8bobob2o6bo$70b3obobo5bobo$69bo3bo
+4bo4b2o$14bo55bo2bob4o$13b3o12b2o32b2o7bobobo$12bo2b2o11bo33b2o8bo3b3o
+$11b2o13bobo49bo$11bo14b2o10bo$10bo27b3o$2o9b3o27bo$2o10bob2obo22b2o$
+13b3o39b2o$44bo10bo$44bobo5b2obo$36b3o5b2o5bo2bo$35b4o13b2o$34b2o2b2o$
+35bobob2o$36b3o2bo$14b2o21b2o$10b2o2b2o24b2o$9bobo12b2o3bo$9bo14bo3bob
+o$8b2o15bo3bobo$26bo3bobob2o$24bob4o2bob2o$23bobo3bobo$23bobo2bo2b2ob
+2o$24bo3b2o2bobo$32bobo10b2o$33bo11b2o!
