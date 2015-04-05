@@ -1,17 +1,21 @@
-x = 125, y = 63, rule = B3/S23
-92b2o3b2o$92b2o2bob3o$96bo4bo$18b2o72b4ob2o2bo$18b2o72bo2bobobob2o$95b
-obobobo$59b2o3b2o30b2obobo$57b3obo2b2o34bo$56bo4bo43bo$56bo2b2ob4o20b
-2o17b3o$55b2obobobo2bo21bo7b2o11bo$56bobobobo24bobo5b2o10bobo$56bobob
-2o26b2o17bobo$3b2o52bo50bo$3b2o$70b2o$61b2o7bo$61b2o5bobo$68b2o53b2o$
-98b2o23b2o$98bo$3b2o94b3o$2bo2bo2b2o91bo$3b2o2bobo91bob2o$5b2o16b2o74b
-2obobo$5bo17bo34b2o39bo2bo$2b2obo2bo15b3o32bo41b2o7b2o$2bob2obobo16bo
-29b3o51b2o$6bobo47bo$3b2o2bo110b2obo$b3ob2o111b2ob3o$o123bo$b3ob2o111b
-2ob3o$3bob2o110bo2b2o$68bo47bobo$13b2o51b3o29bo16bobob2obo$13b2o7b2o
-41bo32b3o15bo2bob2o$22bo2bo39b2o34bo17bo$20bobob2o74b2o16b2o$20b2obo
-91bobo2b2o$23bo91b2o2bo2bo$23b3o94b2o$26bo$2o23b2o$2o53b2o27b3o34b2o$
-54bobo5b2o20bo36bo$54bo7b2o21bo33bobo$53b2o64b2o2$16bo50bo25b2o$15bobo
-17b2o26b2obobo23bo$15bobo10b2o5bobo24bobobobo24bobo5b2o$16bo11b2o7bo
-21bo2bobobob2o24bo6b2o$17b3o17b2o20b4ob2o2bo32bo$19bo43bo4bo29b2o$24bo
-34b2o2bob3o29bo2bo$23bobob2o30b2o3b2o31bobo$23bobobobo68bo25bo$22b2obo
-bobo2bo72b2o15bobo$23bo2b2ob4o72b2o16b2o$23bo4bo$24b3obo2b2o$26b2o3b2o
-!
+#C p00942 found using Karel Suhajda's Hersrch program
+#C Scot Ellison - 21 October 2003
+x = 127, y = 83, rule = B3/S23
+86boboo$86boobo$116bo$36bo77b3o$36b3o34bo39bo$23boo3boo9bo14boo17b3o
+37boo$23boo3boo8boo15bo20bo$54bo20boo11boo$54boo32boo$16boo$17bo$17bob
+o99boo$18boo99boo$120bo$57boo59b3obo$57boo60bobobo$120bobbo$121boo$94b
+oo$21boo68boobbobboo19b4o$22bo68boobo3bo19bo3bo$19b3o28boo42bobobo19b
+oo$19bo31bo15boo22booboboo$50bo17bo16boo4bobbo$50boo13b3o17boo6boo11b
+oo$65bo23bo16boo$83b7o$82bo$82bobb5o$34boo45boobo4bo$34boo44bobbobbo$
+25boo54boboboo$24bobo53boobo5bo35boo$24bo58bo4bobo34boo$23boo58boobbo
+bbo$88boo$$21bo98boo$21b3o57boo37boo$24bo55bobbo40boo$7boo14boo17boo
+36bobobo39boo$7boo33boo37bob3o$43bo39bo$41b3obo37boo33boo$boo39bobobo
+36boo17boo14boo$boo40bobbo55bo$5boo37boo57b3o$5boo98bo$$37boo$36bobbo
+bboo58boo$oo34bobo4bo58bo$oo35bo5boboo53bobo$40boobobo54boo$40bobbobbo
+44boo$37bo4boboo45boo$37b5obbo$44bo$37b7o$19boo16bo23bo$19boo11boo6boo
+17b3o13boo$32bobbo4boo16bo17bo$29booboboo22boo15bo31bo$7boo19bobobo42b
+oo28b3o$4bo3bo19bo3boboo68bo$4b4o6bo12boobbobboo68boo$13b3o15boo$4boo
+6bobboo$3bobbo5bo3bo7boo$3bobobo5boobo7boo42boo$4bob3o6boo51boo$6bo$6b
+oo99boo$6boo99bobo$109bo$109boo$16boo19boo32boo$16boo19boo11boo20bo$
+50bo20bo15boo8boo3boo$12boo37b3o17boo14bo9boo3boo$13bo19bo19bo34b3o$
+10b3o21bo55bo$10bo21b3o!
