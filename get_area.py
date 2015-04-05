@@ -26,11 +26,21 @@ def divisors(n, compression):
             yield n // x
 
 def add_variable_gun(base, x, y, compression, x_slack, y_slack,
-                     x_trips, y_trips, osc, factor, name):
+                     x_trips, y_trips, x_overhang, y_overhang,
+                     weird_x, weird_y, osc, factor, name):
     
     for d in range(100):
+
         add_x = (max(d - x_slack, 0) + x_trips - 1) // x_trips
+        add_x -= min(d, x_overhang)
+        if d in weird_x:
+            add_x += 1
+
         add_y = (max(d - y_slack, 0) + y_trips - 1) // y_trips
+        add_y -= min(d, y_overhang)
+        if d in weird_y:
+            add_y += 1
+
         area = (x + add_x) * (y + add_y)
         for p in divisors(base + 8 * d, compression):
             if p % osc == 0:
@@ -61,10 +71,10 @@ for filename in listdir("variable"):
         period = int(filename[1:6])
         compression = None
         tentative_compression = None
-        x_slack = 0
-        y_slack = 0
-        x_trips = 1
-        y_trips = 1
+        x_slack = y_slack = 0
+        x_trips = y_trips = 1
+        x_overhang = y_overhang = 0
+        weird_x = weird_y = []
 
         factor = digit_after(filename, "x")
         osc = digit_after(filename, "osc")
@@ -86,9 +96,18 @@ for filename in listdir("variable"):
                 x_trips = int(line.split()[-1])
             elif "y_trips" in line:
                 y_trips = int(line.split()[-1])
+            elif "x_overhang" in line:
+                x_overhang = int(line.split()[-1])
+            elif "y_overhang" in line:
+                y_overhang = int(line.split()[-1])
+            elif "weird_x" in line:
+                weird_x = eval(line.split("=")[-1])
+            elif "weird_y" in line:
+                weird_y = eval(line.split("=")[-1])
 
         gun_data = [period, x, y, compression, x_slack, y_slack,
-                    x_trips, y_trips, osc, factor, filename[:-4]]
+                    x_trips, y_trips, x_overhang, y_overhang,
+                    weird_x, weird_y, osc, factor, filename[:-4]]
 
         stats[filename[:-4]] = 0
         add_variable_gun(*gun_data)
