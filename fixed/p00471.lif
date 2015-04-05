@@ -1,20 +1,12 @@
 #Cp00471 gun found using Hersrch
 #CKarel Suhajda, 13 Aug 2003
-x = 108, y = 102, rule = B3/S23
-34boboobbo$34boobobbo$42bo21bo$42bo19b3o$21bo39bo$21b3o37boo$24bo$7boo
-14boo11boo19boo$7boo27boo19boo3$boo66boo$boo65bobbo$5boo60bobobo$5boo
-51boo6b3obo$49boo7boboo6bo$49boo7bo3bo4boo$58boobbo4boo31bo$oo57b3o36b
-3o$oo58bo36bo$87boo8boo$88bo$71boo15bobo$37boo32bo17boo$37bobo14boo13b
-obo3bo27boo$39bo14boo13boo4b3o25boo$39boo37bo$77boo$$103boo$7boo94boo$
-8bo$5b3o$5bo$20boo$20bobo56boo$22bo56boo$22boo34boo45boo$53boobbobbo
-44bo$53bo4bobo42bobo$50boobo5bo43boo$51boboboo$50bobbobbo8b3o$50boobbo
-4bo9bo$12boo41b5o4bo4bo$12boo49bobobbo$54boboo5bobbo$3boobo47boobo6boo
-$3boboo3$19boobo62boobo$19boboo62boboo3$101boobo$42boo6boboo47boboo$
-41bobbo5boobo$39bobbobo49boo$38bo4bo4b5o41boo$38bo9bo4bobboo$40b3o8bo
-bbobbo$51boobobo$3boo43bo5boboo$bbobo42bobo4bo$bbo44bobbobboo$boo45boo
-34boo$27boo56bo$27boo56bobo$86boo$102bo$100b3o$99bo$3boo94boo$3boo$$
-29boo$29bo37boo$3boo25b3o4boo13boo14bo$3boo27bo3bobo13boo14bobo$17boo
-17bo32boo$17bobo15boo$19bo$9boo8boo$10bo36bo58boo$7b3o36b3o57boo$7bo
-31boo4bobboo$39boo4bo3bo7boo$39bo6boobo7boo$37bob3o6boo51boo$36bobobo
-60boo$36bobbo65boo$37boo66boo3$49boo19boo27boo$49boo19boo11boo14boo$
-83bo$45boo37b3o$46bo19bo19bo$43b3o21bo$43bo21b3o!
+x = 73, y = 66, rule = B3/S23
+33b2o3b2o$33b2o2bob3o$37bo4bo$33b4ob2o2bo$33bo2bobobob2o$36bobobobo$
+37b2obobo$41bo2$27b2o$28bo7b2o$28bobo5b2o$29b2o3$53bo$53b3o$56bo$55bob
+o$39b2o14bobo$39bo16bo$40b3o$42bo3$71b2o$71b2o4$51b2o$50bobo$50bo$49b
+2o7b2o$5bo52b2o$5b3o$8bo57b2obo$7b2o57b2ob3o$72bo$66b2ob3o$21b2o42bo2b
+2o$21bo42bobo$13bo5bobo24bo16bobob2obo$12bobo4b2o25b3o15bo2bob2o$11b2o
+b2o33bo17bo$11b2o2bo11b2o19b2o16b2o$12bob2o11bo15bo19bobo2b2o$12b3o10b
+obo15b3o17b2o2bo2bo$10b4o11b2o19bo21b2o$8b2obob2o30b2o$11bo$2b2o5b2o4b
+o$bobo9bobo$bo$2o$42b2o$42b2o17b2o$61b2o3$13b2o47b2o$9b2o2b2o47bo$8bob
+o38b2o12b3o$8bo25bo15bo14bo$7b2o26bo11b3o$33b3o11bo!
