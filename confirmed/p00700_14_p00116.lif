@@ -1,0 +1,16 @@
+x = 106, y = 72, rule = B3/S23
+65b2o$65bobo$67bo4b2o$63b4ob2o2bo2bo$63bo2bobobobob2o$66bobobobo$30b2o
+3b2o30b2obobo$28b3obo2b2o34bo$27bo4bo$27bo2b2ob4o20b2o$26b2obobobo2bo
+21bo7b2o$27bobobobo24bobo5b2o$27bobob2o26b2o$28bo2$41b2o$32b2o7bo$32b
+2o5bobo$19bo19b2o36bo8bo$17b3o49b2o7b2o6b3o$16bo52bo7b2o10bo$15bobo52b
+3o15bobo$15bobo54bo15bobo$16bo72bo2$13bo15b2o5b3o$12b3o15bo5bo$11bobob
+o11b3o7bo$2o9bobobo11bo76b2o$2o7b2ob3ob2o86b2o$8bob2obob2obo$7b2obo5bo
+b2o29b2o$8b2obo3bob3o30b2o$9b3o3b3ob3o27bo34b2o7bobo$20bobo60bobo6bo2b
+o$22bo60bo7b2o$22b2o58b2o5b3ob2o$89b2ob3o$89b2o2bo$3bob2o83b3o6b2obo$b
+3ob2o84bo7b2ob3o$o104bo$b3ob2o92b2ob3o$3b2o2bo90bo2b2o$6bobo88bobo$2bo
+b2obobo16bo52bo16bobob2obo$2b2obo2bo15b3o52b3o15bo2bob2o$5bo17bo58bo
+17bo$5b2o16b2o56b2o16b2o$3b2o2bobo86bobo2b2o$2bo2bo2b2o86b2o2bo2bo$3b
+2o96b2o3$65b3o34b2o$65bo36bo$66bo33bobo$20b4o76b2o$19b6o$10b2o10b2obo
+5b2o41b2o$10b2o7b5ob2o4b2o40bo$20bo2b3o48bobo5b2o$21b2obo50bo6b2o$9b2o
+11bo59bo$10bo68b2o$7b3o68bo2bo$7bo70bobo$79bo25bo$24b2o60b2o15bobo$24b
+o61b2o16b2o$25b3o$27bo!
