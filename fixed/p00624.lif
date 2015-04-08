@@ -1,13 +1,9 @@
 #Cp624 (period-quadrupled p156) gun  Dave Greene  1 November 2004
-x = 71, y = 59, rule = B3/S23
-40bo$40b3o10boo$43bo8bobbo$42boo8bobobo$51boobobo$45bo4bobboboboo$44bo
-bobb3o3bobbo$40boobboo4bobbobobboboo$40boo9boo4boobbo$52bobo4boo$52bob
-obobo$53bo4bo$54b4o$56bo$58bo$57boo$$20boo$20boo$$40boo$21bo18boo13bob
-o4boo5boo$20b3o33boo4boo5bo$19boobo33bo10bobo$18boo19boobo24boo$6bo12b
-oobo13bo3bobo20boo$5bobo12b3o11b3o4bo21bobo$5bobo13bo11bo6boo22bo$6bo
-26boo5boo$40boo3$62booboo$60b3obob3o$59bo4bo4bo$7bo50boboboobboobo$6b
-3o23booboo21bobo3boobbo$oo3booboo21boo3boobboo15booboboobboo$oobboo3b
-oo21booboo3boo13bobbobo4bo$5booboo23b3o19boobboob4o$34bo26bo$61bobo$
-62boo4$48boo$6bo41bo$5bobo12bo25bobo$5bobo11b3o24boo$6bo12boboo$22boo$
-19boboo$19b3o19bo$20bo18bobo$40boo$37bo$20boo16bo7boboo$20boo14b3o7boo
-bo!
+x = 61, y = 52, rule = B3/S23
+39b2o$39b2o2$40bo$39b3o$38b2ob2o$37b2o$36b3o$25bo11b2o15bo$24bobo11b2o
+b2o10bobo$24bobo12b3o11bobo$25bo14bo13bo6$26bo$25b3o23bo3bo$24b5o21b2o
+3b2o$19b2o2b2o3b2o19b2o5b2ob2o$19b2ob2o5b2o19b2o3b2o2b2o$23b2o3b2o21b
+5o$24bo3bo23b3o$53bo6$39bo14bo$38b3o12bobo$37b2ob2o11bobo$12b2o15b2o
+10b2o11bo$12b2o14bobo10b3o$28bo12b2o$27b2o8b2ob2o$3b2o33b3o$3bobo33bo$
+4bo21b2o$22b2o2b2o2b2o7b2o$22b2o2bo2bobo7b2o$28b3o$7b2o19b2o$7b2o$2b2o
+$bobo$bo$2o13b2o$15bo10bo$8b2o6b3o8bo$8b2o8bo6b3o!

@@ -1,0 +1,15 @@
+x = 96, y = 71, rule = B3/S23
+92bo$90b3o$89bo$81b2o6b2o$81bobo$82bo2$19b2o66b2o$19bobo65b2o5b2o$21bo
+4b2o66b2o$17b4ob2o2bo2bo$17bo2bobobobob2o40b2o$20bobobobo43b2o5b2o$21b
+2obobo50b2o$25bo$92b2o$11b2o79bobo$12bo7b2o72bo$12bobo5b2o72b2o$13b2o
+4$84b2o$84bobo$86bo8bo$3b2o18b2o7bo53b2o5bobo$4bo18bo9b2o59b2o$2bo21b
+3o5b2o$2b5o14b3o2bo58b2o$7bo13bo2bo55b2o2bo2bo$4b3o12bobo2b2o54bobo2b
+2o$3bo15b2o44b2o16b2o$3b4o59bo17bo$b2o3bo3b2o51b3o15bo2bob2o$o2b3o4b2o
+51bo16bobob2obo$2obo77bobo$3bo22bo10bo44bo2b2o$3b2o21b3o8bobo43b2ob3o$
+29bo7b2o50bo$28b2o53b2ob3o$11b2o70b2obo$12bo$9b3o$9bo56b2o$64bo2bo$64b
+2obobo8b5o$38b2o26bob2o12b2o$31b2o5bobo25bo10b2obo$31b2o7bo23b3o9bobob
+o2bobo$40b2o21bo11b2obo4bobo$63b2o10b2obo2bob2o3b2o$27bo49b4o7b2o$26bo
+bob2o$26bobobobo42b3o$23b2obobobobo2bo39b3o$23bo2bo2b2ob4o40bo$25b2o4b
+o41bo$31bobo19b2o17bobo$32b2o18bobo5b2o10bobo$52bo7b2o11bo$51b2o17b3o$
+70bo$65bo$61b2obobo$60bobobobo$57bo2bobobobob2o$57b4ob2o2bo2bo$61bo4b
+2o$59bobo$59b2o!

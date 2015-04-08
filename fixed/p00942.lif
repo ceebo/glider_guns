@@ -1,21 +1,13 @@
 #C p00942 found using Karel Suhajda's Hersrch program
 #C Scot Ellison - 21 October 2003
-x = 127, y = 83, rule = B3/S23
-86boboo$86boobo$116bo$36bo77b3o$36b3o34bo39bo$23boo3boo9bo14boo17b3o
-37boo$23boo3boo8boo15bo20bo$54bo20boo11boo$54boo32boo$16boo$17bo$17bob
-o99boo$18boo99boo$120bo$57boo59b3obo$57boo60bobobo$120bobbo$121boo$94b
-oo$21boo68boobbobboo19b4o$22bo68boobo3bo19bo3bo$19b3o28boo42bobobo19b
-oo$19bo31bo15boo22booboboo$50bo17bo16boo4bobbo$50boo13b3o17boo6boo11b
-oo$65bo23bo16boo$83b7o$82bo$82bobb5o$34boo45boobo4bo$34boo44bobbobbo$
-25boo54boboboo$24bobo53boobo5bo35boo$24bo58bo4bobo34boo$23boo58boobbo
-bbo$88boo$$21bo98boo$21b3o57boo37boo$24bo55bobbo40boo$7boo14boo17boo
-36bobobo39boo$7boo33boo37bob3o$43bo39bo$41b3obo37boo33boo$boo39bobobo
-36boo17boo14boo$boo40bobbo55bo$5boo37boo57b3o$5boo98bo$$37boo$36bobbo
-bboo58boo$oo34bobo4bo58bo$oo35bo5boboo53bobo$40boobobo54boo$40bobbobbo
-44boo$37bo4boboo45boo$37b5obbo$44bo$37b7o$19boo16bo23bo$19boo11boo6boo
-17b3o13boo$32bobbo4boo16bo17bo$29booboboo22boo15bo31bo$7boo19bobobo42b
-oo28b3o$4bo3bo19bo3boboo68bo$4b4o6bo12boobbobboo68boo$13b3o15boo$4boo
-6bobboo$3bobbo5bo3bo7boo$3bobobo5boobo7boo42boo$4bob3o6boo51boo$6bo$6b
-oo99boo$6boo99bobo$109bo$109boo$16boo19boo32boo$16boo19boo11boo20bo$
-50bo20bo15boo8boo3boo$12boo37b3o17boo14bo9boo3boo$13bo19bo19bo34b3o$
-10b3o21bo55bo$10bo21b3o!
+x = 85, y = 73, rule = B3/S23
+25b2o11bo$25b2o10bobo$37bobo2b2o3bo$36b2ob2o2bo2bobo$40bobo3bobo$36b2o
+bo2b4obo$36b2obobo3bo$40bobo3bo15b2o$41bobo3bo14bo$42bo3b2o12bobo$56b
+2o2b2o$56b2o2$33b2o46bo$33b2o44b3o$18b2o58bo$17bo2bo49b2o6b2o$16bob2o
+50bobo$16bo54bo$15b2o$30b2o44b2o$30bo45b2o5b2o$31b3o28b2o19b2o$33bo10b
+2o16bobo$43bobo18bo$43bo20bob2o$42b2o4b2o13b2ob2o$47bobo$47bo33b2o$4bo
+41b2o7b2o24bobo$2b5o14b2o32b2o26bo$bo5bo13bo61b2o$bo2b3o12bobo$2obo15b
+2o$o2b4o$b2o3bo3b2o$3b3o4b2o$3bo$2obo80bo$2ob2o77bobo$83b2o$21b2o$11b
+2o7b2o$12bo9bo$9b3o33bo$9bo35b3o$48bo$47b2o3$40bo$40b3o$43bo$42b2o5$
+60b2o$60b2o3$61b2o$61bo$36b2o24b3o$35bobo26bo$35bo$34b2o2$51b2o$51bo$
+52b3o$54bo!
