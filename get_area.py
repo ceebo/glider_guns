@@ -138,13 +138,39 @@ for filename in listdir("confirmed"):
         raise
 
 print "*******************************"
-print "Hall of Shame (p100 or greater)"
+print "Hall of Shame (p78 or greater)"
 print "*******************************"
 
 lines = 0
 for period in sorted(guns, key=guns.get, reverse=True):
-    if 100 <= period < 1000:
+    if 78 <= period < 1000:
         print period, str(guns[period]).ljust(32), "(%d mod 8)" % (period % 8)
+        lines += 1
+        if lines == 20:
+            break
+
+print ""
+print "*******************************"
+print "Hall of Pain (p39 to p77)"
+print "*******************************"
+
+lines = 0
+for period in sorted(guns, key=guns.get, reverse=True):
+    if 39 <= period < 78:
+        print period, guns[period][0]
+        lines += 1
+        if lines == 20:
+            break
+
+print ""
+print "*******************************"
+print "Hall of the Insane (p14 to p38)"
+print "*******************************"
+
+lines = 0
+for period in sorted(guns, key=guns.get, reverse=True):
+    if 14 <= period < 39:
+        print period, guns[period][0]
         lines += 1
         if lines == 20:
             break
