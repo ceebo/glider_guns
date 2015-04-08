@@ -1,5 +1,4 @@
-#C p00942 found using Karel Suhajda's Hersrch program
-#C Scot Ellison - 21 October 2003
+#C Semi-snark doubling of Dave Greene's p471
 x = 85, y = 73, rule = B3/S23
 25b2o11bo$25b2o10bobo$37bobo2b2o3bo$36b2ob2o2bo2bobo$40bobo3bobo$36b2o
 bo2b4obo$36b2obobo3bo$40bobo3bo15b2o$41bobo3bo14bo$42bo3b2o12bobo$56b
