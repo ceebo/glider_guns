@@ -1,7 +1,8 @@
-#CBy Matthias Merzenich, Apr 2010.
-x = 49, y = 42, rule = B3/S23
-21boo$21bo$18boobo$18bobo4boo$25bo$23bobo$23boo5$17bobbo$13boobbobbo$
-13boobbobbo7boo$28boo4boo3bobbo3boo$3bo30b5o4b5o$3b3o28boo3bobbo3boo$
-6bo21b3o$5boo$o$3o25b3o$3bo7b3o$bbo32bobo$bboo32boo$11b3o22bo3$12boo$
-12boo7bobbobboo$21bobbobboo$21bobbo3$48bo$46bobo$17boo28boo$16bobo$16b
-o$15boo4bobo$20boboo$20bo$19boo!
+#C By Matthias Merzenich, Apr 2010.
+#C Trimmed on three sides by Tanner Jacobi, Apr 2015.
+x = 48, y = 40, rule = B3/S23
+15bo2bo2bo$15b7o2$15b7o$15bo2bo2bo6$16bo2bo$12b2o2bo2bo$12b2o2bo2bo7b
+2o$27b2o4b2o3bo2bo3b2o$33b5o4b5o$33b2o3bo2bo3b2o$27b3o2$2ob2o$bobo23b
+3o$bobo6b3o$2ob2o29bobo$bobo31b2o$bobo6b3o22bo$2ob2o2$11b2o$11b2o7bo2b
+o2b2o$20bo2bo2b2o$20bo2bo3$47bo$45bobo$46b2o$18bo2bo2bo$18b7o2$18b7o$
+18bo2bo2bo!
