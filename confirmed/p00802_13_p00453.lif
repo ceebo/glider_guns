@@ -1,0 +1,17 @@
+x = 127, y = 61, rule = B3/S23
+35b2o3b2o20b2o3b2o$35b2o2bob3o16b3obo2b2o$39bo4bo14bo4bo$35b4ob2o2bo
+14bo2b2ob4o$35bo2bobobob2o12b2obobobo2bo$38bobobobo14bobobobo$39b2obob
+o14bobob2o$43bo16bo33b2o3b2o$94b2o2bob3o$29b2o42b2o23bo4bo$30bo7b2o24b
+2o7bo20b4ob2o2bo$30bobo5b2o24b2o5bobo20bo2bobobob2o$31b2o38b2o24bobobo
+bo$98b2obobo$102bo2$88b2o$89bo7b2o$89bobo5b2o$15b2o24b2o18b2o27b2o25bo
+$8b2o5b2o24bo20bo52b3o$8b2o32b3o14b3o52bo$44bo14bo54b2o$29b2o$10b2o16b
+obo5bo$10b2o18bo5b3o83b2ob2o$4b2o33bo60b2o21bob2o$4b2o32b2o12bo47bo22b
+o$51bobo47b3o11b2o4b3o$51bobo49bo11b2o3bo3b2o$50b2ob2o65b4o2bo$49bo2bo
+2bo50b2o15bob2o$50b2o2b2o49bobo12b3o2bo$35b2o68bo13bo5bo$35b2o40bo26b
+2o14b5o$75b3o44bo$74bo$74b2o$22b2o3bo68bo$bo20bo3bobo67b3o$b3o19bo3bob
+o69bo$4bo19bo3bobob2o57b2o5b2o$3b2o17bob4o2bob2o56b2o$21bobo3bobo62bo$
+21bo2bo4bob2obob2o26b2o$22b2o5bo2bob2obo25bobo5b2o$30b2o11b2o18bo7b2o$
+25bo17b2o17b2o$23b3o82b2o$22bo53bo24b2o5bobo$22b2o48b2obobo23b2o7bo$
+71bobobobo32b2o$68bo2bobobob2o$2o66b4ob2o2bo19bo$2o70bo4bo18bobob2o$
+68b2o2bob3o19bobobobo$68b2o3b2o20b2obobobo2bo$96bo2b2ob4o$17bo8bo69bo
+4bo$9b2o5bobo8bo69b3obo2b2o$9b2o6bo7b3o71b2o3b2o!
