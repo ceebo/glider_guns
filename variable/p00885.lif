@@ -1,0 +1,21 @@
+#C compression = 885
+#C tentative_compression = 116
+x = 91, y = 90, rule = B3/S23
+25b2o3b2o$23b3obo2b2o$22bo4bo$22bo2b2ob4o$21b2obobobo2bo$22bobobobo$
+22bobob2o$23bo17b2o3b2o$41b2o2bob3o$36b2o7bo4bo$27b2o7bo4b4ob2o2bo$9bo
+17b2o5bobo4bo2bobobob2o$9b3o22b2o8bobobobo$12bo32b2obobo$11b2o36bo2$
+35b2o$2ob2o31bo7b2o$2obo32bobo5b2o$3bo20b2o11b2o$3b3o4b2o13bo$b2o3bo3b
+2o10b3o$o2b4o15bo$2obo15b2obo$bo2b3o12bobob2o$bo5bo13bo2bo$2b5o14b2o
+24b2o$4bo42bo$48b3o$29bo20bo$27b3o$26bo$26b2o43bo$71b3o$74bo$73bobo$
+73bobo$74bo$61bo$16b2o25b2o14b5o$15bobo5b2o19bo13bo5bo$15bo7b2o19bobo
+12b3o2bo$14b2o29b2o15bob2o23b2o$59b4o2bo23b2o$28bo25b2o3bo3b2o$24b2obo
+bo24b2o4b3o$23bobobobo32bo$20bo2bobobob2o31bob2o3b2o$20b4ob2o2bo31b2ob
+2o2bobo$24bo4bo38bo$20b2o2bob3o38b2o7b2o$20b2o3b2o4b2o20b2o21b2o$30bob
+o20bo$31bo22b3o27b2obo$56bo27b2ob3o$34bo55bo$32b2obo48b2ob3o$28b6obo
+47bo2b2o$27b2o2b4o47bobo$14b2o10bo2b2o33bo16bobob2obo$14b2o10bo3bo33b
+3o15bo2bob2o$26bo3bo36bo17bo$45b2o19b2o16b2o$29b2o14bo15bo19bobo2b2o$
+26b3obo12bobo15b3o17b2o2bo2bo$25b4ob2o11b2o19bo21b2o$14b2o8b2o5bo31b2o
+$14b2o15bo$30bo2$26b4ob2o$26b4o3bo$27b4o3bo25b2o$35bo24b2o17b2o$30bo
+48b2o$29bo$17b2o15bo$18bo10b2o5bo43b2o$15b3o18bo43bo$15bo51b2o12b3o$
+32bo7bo27bo14bo$34bo4bobo23b3o$33bo6bo24bo$26b2o$26b2o2$37b2o$37bobo
+19bo$39bo20bo$39b2o17b3o!
