@@ -1,22 +1,18 @@
-#C p525 - Scot Ellison - 01 October 2003
-x = 105, y = 81, rule = B3/S23
-46bo20bo$45bobo7bo11b3o$46bo6b3o14bo$35bo16bo16boo22bo$35b3o14boo37b3o
-$38bo51bo10bo$37boo51boo9b3o$56bo47bo$56bo29boo13boobo$54boo30boo9boo
-bbobo$32boo20b3obo38bobobo$33bo20bo3bo40boboo$33bobo9bo9boo42boo$34boo
-9bo42boo7boo$88boo5bobbo3bo$79b4o12bobo3bobo$47boo29bo3bo12bobbo3bo$
-47bobo6boo20bo4bo13boo$49bo6bo22b3o17boo$49boo6bo41boboo$56boo39bobobo
-$97boobbobo$101boobo$104bo$101b3o$30boo13boo36boo16bo$30boo13bobo35boo
-11boo$47bo47bobbo$47boo45b6o$94b6o$64bo33boo$43bobbo17b3o31b3o$43bobbo
-20bo31boo$8boo31boobooboo17boo31booboo$7bobbo32bobbo39boo11bobobo$43bo
-bbo35boobb3obboo6b4o$41boobooboo32boo4bobobbo7boo$bboobbobbo33bobbo35b
-oboobo3bo3boo$bboobbobbo33bobbo36boo3bo5bobbo$6bo3bo83bo3bo$7bobbo5bo
-3boo36bobbo33bobbobboo$8boo3bo3boboobo35bobbo33bobbobboo$3boo7bobbobo
-4boo32boobooboo$bb4o6boobb3obboo35bobbo$bobobo11boo39bobbo32bobbo$boob
-oo31boo17boobooboo31boo$4boo31bo20bobbo$4b3o31b3o17bobbo$5boo33bo$5b6o
-$5b6o45boo$6bobbo47bo$7boo11boo35bobo13boo$3bo16boo36boo13boo$b3o$o$ob
-oo$bobobboo$3bobobo39boo$bboobo41bo6boo$4boo17b3o22bo6bo$6boo13bo4bo
-20boo6bobo$bbo3bobbo12bo3bo29boo$bobo3bobo12b4o$bbo3bobbo5boo$6boo7boo
-42bo9boo$4boo42boo9bo9bobo$bboobo40bo3bo20bo$3bobobo38bob3o20boobboo3b
-obbo3boo$bobobboo9boo30boo24b5o4b5o$oboo13boo29bo26boo3bobbo3boo$o47bo
-$b3o9boo$3bo10bo$11b3o37boo25boo4boo$11bo22boo16bo24bo8bo$34bo14b3o6bo
-17bobbo4bobbo$35b3o11bo7bobo17bo8bo$37bo20bo15bo3boo4boo$75bo$73b3o!
+x = 100, y = 73, rule = B3/S23
+17b2o3b2o15b2o3b2o$17b2o2bob3o13b2o2bob3o$21bo4bo16bo4bo$17b4ob2o2bo
+12b4ob2o2bo$17bo2bobobob2o11bo2bobobob2o$20bobobobo15bobobobo$21b2obob
+o16b2obobo$25bo21bo2$11b2o20b2o$12bo7b2o12bo7b2o$12bobo5b2o12bobo5b2o$
+13b2o20b2o$21bo$21b2o$20bobo4$23b2o20b2o$23bo21bo$4bo19b3o19b3o16bo$2b
+5o14b3o2bo21bo16b3o$bo5bo13bo2bo43bo$bo2b3o12bobo2b2o26bo14bobo$2obo
+15b2o29b3o14bobo$o2b4o42bo18bo$b2o3bo3b2o37b2o$3b3o4b2o16b2o$3bo25b2o$
+2obo24bo28b2o$2ob2o53bo24b2o$58bob2o21b2o$50b2o4b3o2bo$11b2o37b2o3bo3b
+2o10bo$12bo42b4o11b3o$9b3o29b2o15bo4b2o5bobo$9bo30bobo12b3o4bobo$40bo
+13bo7bo$39b2o14b5ob2o6bo$59bobo$55b2o2bobo$55b2o3bo17b2obo$4bo73b2ob3o
+$2b5o14b2o61bo$bo5bo13bo56b2ob3o$bo2b3o12bobo55bo2b2o$2obo15b2o55bobo$
+o2b4o51bo16bobob2obo$b2o3bo3b2o24bo21b3o15bo2bob2o$3b3o4b2o12bo10bo25b
+o17bo$3bo20b3o8b3o22b2o16b2o$2obo23bo47bobo2b2o$2ob2o21b2o47b2o2bo2bo$
+80b2o2$11b2o31b2o$12bo31bobo34b2o$9b3o32bo36bo$9bo69bobo$36b2o41b2o4b
+2o3bo2bo3b2o$29b2o5bobo46b5o4b5o$29b2o7bo46b2o3bo2bo3b2o$38b2o12bobo$
+53b2o6bo$25bo27b2o5bo$24bobob2o58b2o4b2o$24bobobobo27bo28bo8bo$23b2obo
+bobo2bo23bo2bo25bo2bo4bo2bo$24bo2b2ob4o23bobo27bo8bo$24bo4bo28bo25bo3b
+2o4b2o$25b3obo2b2o31b2o18bo$27b2o3b2o31b2o16b3o13bo!
