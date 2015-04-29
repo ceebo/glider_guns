@@ -1,6 +1,3 @@
-x = 40, y = 29, rule = B3/S23
-37boo$37bo$30bo4bobo$29bobo3boo$12boo15boobo$12bobo14booboo$3boobboo6b
-o13boobo$3boobobbobbobbo13bobo4boo$7boo6bo8bo5bo5boo$12bobo7bobo11boo$
-12boo9boo12bo$36bobo$35boobo3$36boo$36boo$$9bobo$7bo3bo5b3o$oo5bo7bobo
-bbobboo$oo4bo4bo7boobbobbo$7bo19bo$7bo3bobb3o10bo11bo$9bobo15bo9bobo$
-23bobbo6boo3boo$23boo8bobo$35bo$35boo!
+x = 33, y = 22, rule = B3/S23
+5bob2o$5b2obo4$7bo$6bo2bo$2o3bo4bo$2o4b2o2bo$4b2o2b3o6$7b2o18b2o$27b2o
+2$24b2o5b2o$17bo6b2o5b2o$18bo$16b3o!
