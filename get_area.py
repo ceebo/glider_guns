@@ -137,6 +137,17 @@ for filename in listdir("confirmed"):
         print "***** Problem with gun %s" % filename
         raise
 
+total = number = 0
+for period in guns:
+    if 78 <= period < 1000:
+        total += guns[period][0]
+        number += 1
+
+print "************************************"
+print "Average area in range p78-999 = %d" % (total // number)
+print "************************************"
+print ""
+
 print "*******************************"
 print "Hall of Shame (p78 or greater)"
 print "*******************************"
