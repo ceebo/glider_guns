@@ -1,0 +1,14 @@
+#C compression = 130
+#C x_overhang = 1
+#C x_slack = 1
+x = 95, y = 63, rule = B3/S23
+28b2o$28b2o$bo$b3o$4bo21b2o$3b2o21b2o$13b2o65bo$14bo64bobo$14bobo62bob
+o$15b2o46bo13b3ob2o$63b3o10bo$6bo59bo10b3ob2o9b2o$5bobo57b2o12bob2o9bo
+$5bo2bo81bobo$6b2o82b2o$2b2o7b2o$bobo9bo$bo10bo$2o10bo2bo8b2o$13bobo8b
+2o29b2o$55b2o$91b2o$91b2o$44bo$43bobo$13b2o28b2o$14b2o36b2o$13bo38bo
+19b2o$53bo17bobo$2b2o48b2o17bo$2b2o13b2o51b2o$17b2o57b2o$23b2o51b2o13b
+2o$23bo17b2o48b2o$21bobo17bo$21b2o19bo$41b2o$50b2o$49bobo$50bo$2b2o$2b
+o$6b3o29b2o$9b2o27b2o29b2o$6b2ob2o58b2o22b2o$8bo73b2o9bo$81bo2bo6bobo$
+82b2o7b2o$3b2o82b2o$2bobo81bo2bo$2bo9b2obo71bobo$b2o9b2ob3o70bo$18bo$
+12b2ob3o60b2o$13bobo62bobo$13bobo64bo$14bo65b2o$67b2o21b2o$67b2o21bo$
+91b3o$40bo52bo$41bo23b2o$39b3o23b2o!
