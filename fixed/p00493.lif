@@ -1,20 +1,13 @@
 #C p493 gun using Herschel transceiver with boojum reflector
 #C R(421+2*4) + R64 conduits  Dave Greene  18 May 2003
-x = 157, y = 91, rule = B3/S23
-63boo$63boo76boo6bo$137bobobbo4b3o$135b3oboo5bo$61boo40boo29bo11boo$
-61boo40boo5boo23b3oboo$48boo37bo22boo25boboo$49bo37b3o$49bobo38bo$50b
-oo37boo17boo35boo3boo$46boo60boo35boo3boo$46boo66boo$114boo$$155bo$
-154bobo$155bo$$59boo$59boo$$70boo$69bobbo$69bobo23boo$70bo20bo3boo21bo
-$90bobo23b3o$89bobo23bo$89bo25boo$88boo46booboo$136booboo$52boo66boo3b
-oo11bo$52boo66boo3boo$147boo$147bo$148b3o$117bo32bo$51boo63bobo$51bo
-64bobo$49bobo39boo24bo$49boo39bobo17boo$90bo18bobbo4bo$38b3o48boo20bo
-3b4o21boo$38bobbo66bo5boobobo20bo$39booboo57boo5b3obo3bo24b3o$39bo4bo
-56boo8bo4bo26bo$39bo77bo$13bo26bo4bo8boo56bo4bo$13b3o24bo3bob3o5boo57b
-ooboo$16bo20boboboo5bo66bobbo$15boo21b4o3bo20boo48b3o$39bo4bobbo18bo$
-45boo17bobo39boo$39bo24boo39bobo$38bobo64bo$38bobo63boo$6bo32bo$6b3o$
-9bo$8boo$30boo3boo66boo$18bo11boo3boo66boo$16booboo$16booboo46boo$40b
-oo25bo$41bo23bobo$38b3o23bobo$38bo21boo3bo20bo$60boo23bobo$84bobbo$85b
-oo$$96boo$96boo$$bo$obo$bo$$41boo$41boo66boo$5boo3boo35boo60boo$5boo3b
-oo35boo56boo$105bobo$107bo$16boobo25boo60boo$16boob3o23boo5boo40boo$9b
-oo11bo29boo40boo$10bo5boob3o$7b3o4bobbobo55bo$7bo6boo60bo15boo$74b3o
-15boo!
+x = 69, y = 73, rule = B3/S23
+42b2o$41bo2bo$42b2o3bo$47b3o$50bo$32bo16b2o$31bobo$32bo$52bo$52bobo9b
+2o$51bo2bo10bo$47b2o2b3o11bob2o$46b6o12b2o2bo$45bo4b3o2bo7bo2bo$46b2ob
+2obo7bo3b2o$47b3o4b2o4bo$60bo3b2o$65bo$65bobo$66b2o5$9bo$9b3o38b2o$12b
+o38bo$11b2o35b3o$48bo2$3b2o$3bo$2obo$o2b3o4b2o56bo$b2o3bo3b2o54bobo$3b
+4o60b2o$3bo15b2o$4b3o12bobo$7bo13bo$2b5o14b2o$2bo$4bo$3b2o53b2o$58b2o$
+49b2o$49bo2bo$45b2o4b2o$46bo20b2o$46bobo18bo$36bo10b2o16bobo$34b3o28b
+2o$33bo$33b2o$18b2o$19bo$19bob2o$20bo2bo$21b2o$36b2o$36b2o2$59b2o$59b
+2o2b2o$45bo3b2o12bobo$44bobo3bo14bo$43bobo3bo15b2o$39b2obobo3bo$39b2ob
+o2b4obo$43bobo3bobo$39b2ob2o2bo2bobo$40bobo2b2o3bo$28b2o10bobo$28b2o
+11bo!
