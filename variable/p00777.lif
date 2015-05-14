@@ -1,6 +1,6 @@
 #C compression = 777
 #C tentative_compression = 78
-#C y_slack = 2
+#C y_slack = 4
 x = 92, y = 74, rule = B3/S23
 44b2o3b2o$44b2o2bob3o$25b2o3b2o16bo4bo$23b3obo2b2o12b4ob2o2bo$22bo4bo
 16bo2bobobob2o$22bo2b2ob4o15bobobobo$21b2obobobo2bo16b2obobo$22bobobob
