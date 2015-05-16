@@ -1,0 +1,15 @@
+x = 105, y = 69, rule = B3/S23
+42b2o3b2o16b2o3b2o$40b3obo2b2o16b2o2bob3o$39bo4bo24bo4bo$39bo2b2ob4o
+16b4ob2o2bo$38b2obobobo2bo16bo2bobobob2o$39bobobobo22bobobobo$39bobob
+2o24b2obobo$40bo32bo2$53b2o4b2o$44b2o7bo6bo7b2o10bo$44b2o5bobo6bobo5b
+2o10b3o$51b2o8b2o20bo$82bobo$82bobo$83bo4$41b2o28b2o$42bo28bo26b2o$39b
+3o30b3o23b2o$39bo34bo3$78b2o$77bobo$77bo$9bo66b2o7b2o$9b3o73b2o$12bo$
+11b2o80b2obo$93b2ob3o$76b2o21bo$2ob2o69bo2bo15b2ob3o$2obo52b2o14b5o17b
+obo$3bo53bo13bo22bobo$3b3o4b2o45bobo12b3o20bo$b2o3bo3b2o46b2o15bo$o2b
+4o65b4o20bo$2obo15b2o46b2o3bo3b2o16b3o$bo2b3o12bobo45b2o4b3o2bo14bo$bo
+5bo13bo53bob2o14b2o$2b5o14b2o52bo9b2o$4bo69b2o9b2o2$29bo$27b3o36b2o$
+26bo39bo$26b2o5b3o31b3o$35bo34bo$34bo34bo31bo$69b2o28b3o$98bo$60b3o35b
+2o$59b5o$16b2o40bob5o$15bobo5b2o32b2ob3o2b2o$15bo7b2o33b3o2bob2o$14b2o
+43bo6b2o$63bo2bo$28bo7b2o25b3o35b2o$24b2obobo6b2o63bobo$23bobobobo73bo
+$20bo2bobobob2o72b2o$20b4ob2o2bo14b2o19b2o$24bo4bo14bo21bo15bo$20b2o2b
+ob3o16b3o17bo17bo7b2o3b2o$20b2o3b2o20bo17b2o14b3o7b2o3b2o!
