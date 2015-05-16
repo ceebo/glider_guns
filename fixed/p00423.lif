@@ -1,18 +1,15 @@
-#C p00423 From Hersrch - Scot Ellison July 9, 2008
-#C 64+158+116+65+77+65+119+117+65 - 2 Herschels
-x = 109, y = 86, rule = B3/S23
-69bo$69b3o$72bo$71boo$67boo19boo$67boo19bo8boo$86bobo7bobbo$86boo9bobo
-$66bo26b4obo$65bobo25booboo$66bo29bo$63b3o$63bo43boo$107bo$93boo10bobo
-$92bobbo9boo$91boobbo$65boo25boobbo$65boo26b4o5boo$102boo$$85boo$85boo
-4$50bo43boo$36bo13b3o41boo$34b3o16bo$33bo18boo23boo$10bo22boo42boo3boo
-6boboo$10b3o69boo6boobo$13bo74boo$12boo73bo3boo$83boobb4obo15bo$77boo
-4bo22bobo$77boo5b5oboo15boo$43boo43boboo$43boo39boo$6bo59boo16bo17boo$
-6boo58bobo13bobo17boo$68bo13boo$4bobb3o46boo10boo16boo$3bobobo48bo29b
-oo$3bobbo39boo9b3o$4boo41bo11bo$46bo$4b4o38boo$4bo3bo$7boo3$19boo36bo
-30boo13boo$19boo36b3o28boo13bobo$60bo44bo$59boo44boo$29bo$29b3o7boo$
-18bo13bo6bo$17boo12boo4bobo$oo15bobo17boo62boo$oo101bo$34bo65bo$33b3o
-64bo3bo$33boboo63bobbobo$5boo28boo65bobbo$5boo28boo66boo$boo27bo4bobbo
-$boo26bo8bo$29bobbobobbo$24boo3bobbob3o$7boo15boo$7boo86boo$95bo$96b3o
-$74boo22bo$25boo41boo5bo$26bo41bobob3o$23b3o3boboo28boo7bobo$23bobb4ob
-oo28boo7boo$26bo$28booboobboo6boo$29bobo4bo6bobo$29bobb4o9bo$30bobobbo
-bo7boo$31bo4boo!
+x = 95, y = 70, rule = B3/S23
+54b2o3b2o$54b2o2bob3o$58bo4bo$34b2o3b2o13b4ob2o2bo$32b3obo2b2o13bo2bob
+obob2o$31bo4bo20bobobobo$31bo2b2ob4o17b2obobo$30b2obobobo2bo21bo$31bob
+obobo$31bobob2o11b2o$32bo16bo7b2o$49bobo5b2o11bo$45b2o3b2o18b3o$36b2o
+7bo27bo$36b2o5bobo26bobo$43b2o27bobo$73bo3$60b2o$60bo$61b3o24b2o$33b2o
+28bo24b2o$9bo24bo$9b3o19b3o$12bo18bo$11b2o55b2o$67bobo$67bo$2ob2o61b2o
+7b2o$2obo71b2o$3bo$3b3o4b2o71b2obo$b2o3bo3b2o71b2ob3o$o2b4o59b2o21bo$
+2obo15b2o43bo2bo15b2ob3o$bo2b3o12bobo2b2o20b2o14b5o17bobo$bo5bo13bo2bo
+22bo13bo22bobo$2b5o14b3o2bo6b3o11bobo12b3o20bo$4bo19b3o8bo12b2o15bo$
+23bo10bo27b4o20bo$23b2o32b2o3bo3b2o16b3o$57b2o4b3o2bo14bo$65bob2o14b2o
+$65bo9b2o$64b2o9b2o3$13b2o41b2o$12bobo5b2o34bo$12bo7b2o35b3o$11b2o47bo
+$59bo31bo$25bo33b2o28b3o$21b2obobo61bo$20bobobobo23b3o35b2o$17bo2bobob
+ob2o21b5o$17b4ob2o2bo21bob5o$21bo4bo20b2ob3o2b2o$17b2o2bob3o22b3o2bob
+2o$17b2o3b2o25bo6b2o$53bo2bo$26b2o25b3o35b2o$26b2o63bobo$93bo$93b2o$
+34b2o19b2o$34bo21bo15bo$35b3o17bo17bo7b2o3b2o$37bo17b2o14b3o7b2o3b2o!
