@@ -1,6 +1,3 @@
-#C p00485 found using Karel Suhajda's Hersrch program
-#C  Scot Ellison - 4 November 2003
-#C Reduced by 16 columns with smaller P5 - Scot Ellison 4 May 2007
 x = 110, y = 57, rule = B3/S23
 78bo$21b2o47bo5b3o$14b2o5b2o45b3o4bo$14b2o51bo7b2o$50b2o15b2o$50bo$16b
 2o17b2o14bo38bo$16b2o17bo14b2o36b3o$10b2o21bobo45b2o4bo$10b2o21b2o46b

@@ -1,14 +1,14 @@
-#C compression = 278
-x = 85, y = 83, rule = B3/S23
-18b2o14bo$18b2o14b3o$37bo$36bobo$20bo15bobo$19b4o14bo$18b6o4b2o$17b2o
-4bo3bo2bo$27bobo3bo$21bo5b2o5b2o$3b2o14b2o8bo3b2o17b2o$3b2o25b2o20b2o$
-18bo$17b2o$17b2o$32b2o$31bobo$31bo$3b2o25b2o7b2o$2bo2bo2b2o29b2o$3b2o
-2bobo$5b2o16b2o22b2obo$5bo17bo23b2ob3o$2b2obo2bo15b3o26bo$2bob2obobo
-16bo20b2ob3o$6bobo37bo2b2o$3b2o2bo37bobo$b3ob2o20bo16bobob2obo$o26b3o
-15bo2bob2o$b3ob2o23bo17bo$3bob2o22b2o16b2o$44bobo2b2o$13b2o29b2o2bo2bo
-$13b2o7b2o25b2o$22bo$20bobo$20b2o22b2o$24b2o18bo$25bo16bobo25bo$25bobo
-14b2o26b3o$2o24b2o45bo$2o70b2o$40b2o19bo$40b2o19b3o19b2o$64bo18bo$63b
-2o16bobo$16bo64b2o$15bobo$15bobo46b2o$16bo47b2o$17b3o$19bo5$84bo$82bob
-o$83b2o2$77b2o$77bo$78b3o$80bo$57b2o$57b2o2$27b2ob2o$28bobo$26bobobobo
-$26b2o3b2o$67b2o$67b2o2$32bo$30b3o$29bo37b2o$29b2o36b2o2$33b2o23b2o$
-32bobo12b2o9b2o$32bo14b2o$31b2o!
+#C compression = 381
+x = 104, y = 54, rule = B3/S23
+29b2o31b2o11bo$29bobo30b2o10bobo$31bo4b2o36bobo2b2o3bo$27b4ob2o2bo2bo
+33b2ob2o2bo2bobo6b2o$27bo2bobobobob2o37bobo3bobo6b2o$30bobobobo36b2obo
+2b4obo$31b2obobo36b2obobo3bo$35bo41bobo3bo$70bo7bobo3bo$21b2o46bo3bo5b
+o3b2o$22bo7b2o36bo4bo$22bobo5b2o35bo2b3o$23b2o43bo3$55b2o$54bo2bo$53bo
+b2o$53bo48b2o$33b2o17b2o48b2o$33bo33b2o$34b3o30bo$36bo31b3o$7b2o20b2o
+39bo10b2o$7b2o21bo35bo13bobo$30bobo31b3o13bo$31b2o30bo15b2o$o62b2o10b
+2o$3o72bo$3bo19b2o48bobo$2b2o19bo49b2o10bo$3b3o15bobo61b3o$4bobo5bo8b
+2o34b2o29bo$4bobo5b2o43b2o28b2o$5bo5bobo88b2o$102bo$b2o96b2obo$b2o95bo
+2bo$99b2o$84b2o$60b2o22b2o$32b2o26b2o$8b2o22b2o11b2o17b2o$8b2o35bo18bo
+$12b2o32b3o16b3o3b2o3bo$12bo35bo18bo3bo3bobo$13b3o56bo3bobo$15bo57bo3b
+obob2o$71bob4o2bob2o$70bobo3bobo$70bobo2bo2b2ob2o$34bo36bo3b2o2bobo$
+35bo43bobo10b2o$33b3o44bo11b2o!
