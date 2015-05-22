@@ -1,0 +1,14 @@
+x = 97, y = 59, rule = B3/S23
+51b2o11bo$51b2o10bobo$30b2o3b2o26bobo2b2o3bo$28b3obo2b2o25b2ob2o2bo2bo
+bo$27bo4bo33bobo3bobo12bo$27bo2b2ob4o25b2obo2b4obo11b3o$26b2obobobo2bo
+25b2obobo3bo12bo$27bobobobo32bobo3bo11b2o$27bobob2o34bobo3bo$28bo39bo
+3b2o2$41b2o$32b2o7bo$32b2o5bobo17b2o$39b2o18b2o30b2o$44b2o45b2o$43bo2b
+o$42bob2o$9bo32bo$9b3o29b2o$12bo43b2o$11b2o16b2o25bo$30bo26b3o29b2obob
+2o$27b3o29bo10b2o17b2ob2obo$2ob2o22bo41bobo$2obo65bo$3bo64b2o$3b3o4b2o
+$b2o3bo3b2o$o2b4o$2obo15b2o$bo2b3o12bobo$bo5bo13bo$2b5o14b2o$4bo22bo$
+25b3o$24bo35bo$24b2o5b2o27b3o$30bobo30bo$32bo29b2o4bo27bo$68bobo23bobo
+$68b2o25b2o2$81bo$14b2o64bobo$13bobo5b2o56bobo$13bo7b2o49b2o3b3o2b3o3b
+2o$12b2o51b2o5bobobo3b2o3bo2b2o$65b2o7bobo2bo2b2obo$26bo47b2o3bobo2bo$
+22b2obobo50b2ob2o$21bobobobo33bo$18bo2bobobob2o31bobob2o$18b4ob2o2bo
+32bobobobo$22bo4bo31b2obobobo2bo$18b2o2bob3o33bo2b2ob4o$18b2o3b2o35bo
+4bo$61b3obo2b2o$63b2o3b2o!
