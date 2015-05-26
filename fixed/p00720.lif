@@ -1,11 +1,8 @@
-#Cp720, p144 gun and p30 sparkers, packed closer using
-#Cp6 thumbs, DE 2/24/03
-x = 60, y = 42, rule = B3/S23
-19boo24boo$19boo24boo3$40boo$28bo8boobbo$27boo6b3obo$26bo8boboboo$15b
-oo8boo9bob3o$15boo7b3o12b3o$14bobbo7b3obo9boo$11boobobbo7boobobo8bo$
-11boo4bo8bob3o6boo$11booboo8bobboo8bo$24boo$3boo$3boo48bo$45boo4b3o$
-45boo3bo$50boo$3b3o10b3o$bbob4o6b4obo$bbobbobbo4bobbobbo$oo4b3o4b3o4b
-oo$bobo14bobo$bob6o4b6obo27bo$bbo5bo4bo5bo27b3o$3b3o10b3o7boo18b5o$5bo
-10bo9bobo16boo3boo$29bo$26bobbo$29bo20bo$19boo5bobo18boobobboo$18bobo
-5boo6bobbo9boo4boo$18bo18bo$17boo14bo4bo14bo$33boobbobo12bobo$38boboo
-10bobbobboo$56boboo$50bo3boo$38bobbo9bo$38boo9b3o!
+x = 49, y = 47, rule = B3/S23
+14b2o$14b2o29bo$43b3o$42bo$34b2o6b2o$14bo19bobo$13bobo19bo$12bo3bo$13b
+3o24b2o$11b2o3b2o22b2o5b2o$47b2o3$30b2o$12bo17b2o$12bo$12bob3o28b2o$
+25b2o18bobo$17bo3b4o4b2o16bo$14bob2o3b3ob2o2b2o16b2o$14b2o10bo3$9b2o3b
+2o$9b2o3b2o$10b5o7bo$11bobo9bo24bo$21b3o10b2o10bobo$11b3o14bo5bobo10b
+2o$17b2o9bo7bo$17b2o9bo7b2o2$30b3o$24bo$11b2o15bo$11b2o15bo$28bo2$11b
+2o$9bo2bo$2o6bo7b3o3bo$2o6bo6bo3b5o$8bo7bo3b2ob2o$9bo2bo3bo3b2ob3o8b2o
+$11b2o5b4ob2o9b2o$20b4o$22bo!

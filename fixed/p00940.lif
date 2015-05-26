@@ -1,14 +1,13 @@
-#CXRLE Pos=0,0 Gen=2018
-x = 64, y = 70, rule = B3/S23
-39b2o7bo$40bo5b3o$15b2o3bo24bo8b2o$16bo2bobo5b2o16b2o7bo$14bo4bobo4bo
-2bo2b2o7b2o9bobo$14b5obo6b2o2bobo6bo11b2o$18bo10b2o13bo$7b2o5b2o3bo9bo
-9b2o3bo13bo$8bo5b2o4bo5b2obo7b2o2b3o12b3o$8bobo8b2o5bo2bob2o4b3o15bo$
-2bo6b2o17b2ob2o2bo2bo16b2o$2b3o31b2o$5bo39bo$4b2o38b3o$33b2o8bo3bo9b2o
-b2o$23b2o9bo7bo2b2o10b2obo2bo$8bo14b2o6b3o9b3o14bob2o$2o6b2o21bo28bo$b
-o5bo2bo48b2o$bobo6bo45bobo2b2o$2b2o3b2o2b2o43b2o2bo2bo$7b2o4bo7b2o20b
-2o16b2o$7bobo2b3o6bobo20bo$7b2o4bo9bo17b3o5b2o$7bo3b2o10b2o16bo7b2o$2o
-3b3o2bo$2o4bobobo$7b3o$8bo3$14b2o$4b2o8bobo$4bo4b2o5bo9bo17b2o$5bo3b2o
-5b2o7b3o16b2o$6bo18b3o$4bob5o$3bobo4bo$3bobo2bo$4bo3b2o2$43b2o$43b2o3$
-52b2o$51bobo$52bo3$46b2o$26b2o18b2o$26b2o$53b2o$53bobo$17b2o36bo$17bob
-o20b2o13b2o$18bo22bo$38b3o6b2o$38bo8b2o2$21b2o$21b2o$16b2o$15bobo$15bo
-$14b2o13b2o$29bo10bo$22b2o6b3o8bo$22b2o8bo6b3o!
+x = 69, y = 64, rule = B3/S23
+17bo7b2o$9b2o6b3o5b2o7bo$10bo9bo11b3o$10bobo6b2o10bo$11b2o18b2o$26bo$
+16bo7b2ob2o$15b2o7b2ob2o$15bobo15b2ob2o$3b2o20b2ob2o3b2obo2bo$2bo2bo2b
+2o16bob2o6bob2o$3b2o2bobo15bobo8bo$5b2o17b2o9b2o$5bo14bo11bobo2b2o$2b
+2obo14bob2o8b2o2bo2bo$2bo2bob2o11bobo14b2o$4b2ob2o4$9b2o$10bo10b2o$7b
+3o11bo$7bo7b2o5b3o8b3o$15b2o7bo$31bo5bo$9b2ob2o17bo5bo$10b2o2bo16bo5bo
+$8bo4bobo$8b5obo18b3o$12bo$b2o5b2o3bo$2bo4bo2bo3bo$2bobo3b3o2b2o$3b2o
+3bobo$9b3o$7b2ob2o43b2o$8b3o44b2o$9bo$2o$2o62b2o$23b2o38bobo$23bo40bo$
+21bobo$21b2o10b2o$2b2o12b2o15b2o4b2o17b2o$bobo11bo2bo20b2o17b2o$bo13bo
+bo$2o9b4obo48b2o$12bob2o7b2o5b2o33bobo$13b3o7b2o5bobo34bo$31bo20b2o13b
+2o$53bo$3b2o45b3o6b2o$4bo45bo8b2o$b3o16b2o12b2o$bo8b2o8bobo11b2o$10bo
+4b2o5bo6b2o$11bo3b2o5b2o4bobo$12bo15bo$10bob5o10b2o13b2o$9bobo4bo25bo
+10bo$9bobo2bo20b2o6b3o8bo$10bo3b2o19b2o8bo6b3o!

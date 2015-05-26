@@ -1,10 +1,8 @@
-x = 58, y = 50, rule = B3/S23
-33bo$33b2o19bo$32b2obo16b3o$2o15b2o12bo2b3o14bo$2o15b2o2bo8bobobo8b2o
-6b2o$21b3o5bobobo9bobo$24bo2b3o2bo11bo$23b2o3bob2o$29b2o18b2o$26bo3bo
-18b2o5b2o$3bo21bobo28b2o$2bobo16b2o2b2o$2bobo16b2o$3bo5bo29b2o$7bobobo
-27b2o$6b2o3bo$5b2o5bo41b2o$6bo5b2o40bobo$7bo3b2o43bo$7bobobo44b2o$9bo
-5bo$14bobo17bo$14bobo15bobo$15bo17b2o$21b2o24b2o$20bo2bo23bo$23bo21bob
-o9bo$23bo21b2o8bobo$20b2obo32b2o$2o18b2o8b2o$2o28b2o$15b2o$15b2o4b2o$
-21b2o24b2o$40b2o5b2o$40b2o$11b2o$10bo2bo21bo$10bo23bobo$14bo19b2o6b2o$
-9b2o3b3o25bo$10bo5bo5b2ob2o16b3o$14b3o6bobo19bo$6bo2bo2bo12bo$7b5o10bo
-2bob2o$8b3o10b3obobo$20bo3b2obo$21b2o3bo$23b3o$23bo!
+x = 58, y = 48, rule = B3/S23
+23b2o24b2o$23b2o24b2o2$29b2o$28bob2o$28bo3bo7b3o$29b5o6b2ob2o$19bo10bo
+b3o8b2o$19bo13b2o8b2o$18bobo$15bo13b2o8b2o$14b3o2b2o8b2o8b3obo$14bo4b
+3o7b2ob2o6b5o$14bob2obo11b3o7bo3bo$15b3o24b2obo$7b2o34b2o$7b2o$49b2o$
+49b2o2$4b2o18bo19b2o$2o4b4o10b2o2b2ob3o14b2o$2o2b2ob3o10b2o4b4o7bo$4bo
+19b2o12bo$36b3o14b2o$52bobo$53bo3$28b2o$28b2o19b2o$49b2o$54b2o$19b2o
+33bobo$19bobo34bo$20bo20b2o13b2o$42bo$39b3o6b2o$39bo8b2o$23b2o$23b2o$
+18b2o$17bobo$17bo$16b2o13b2o$31bo10bo$24b2o6b3o8bo$24b2o8bo6b3o!

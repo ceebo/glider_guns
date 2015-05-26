@@ -1,14 +1,12 @@
-x = 77, y = 62, rule = B3/S23
-19boo24boo$19boo24boo$39boo$39b3o$39boo$37b3o$36b3o$36bo$30bo5bo$30bo
-4bo$4boo5boo16bo5bo$4b3o4b3o15bo$3bo3bo6bo12b3o$3boo3bo4boo11b3o$4bob
-oo5bo11boo$3boo12boo5b3o$4bo12boo6boo$4b3o38boo$5boo38boo17bo$62b3o$3b
-o13b4o31bo8bo$bbobo11bo7boo25b3o7boo$bboboobbo7bo3boobboo24bobobo$oobb
-obboo8bobboo27b3ob3o3bo$bobo46bobobo3b3o$bob6o42b3o3bobobo$bbo5bo43bo
-3b3ob3o12boo$3b3o51bobobo13bo$5bo31boo10boo7b3o12bobo$37boobboo7bo8bo
-13boo$41boo4b3o13boo$47bo15boo$$5bo$3b3o$bbo5bo43boo$bob6o43boo$bobo
-18bobo$oo3boboo12bo46boo$bbo4boo7boobbo4bo42bobo$bbobboo9boobobboboo
-44bo$3boo15boo48boo$$45boo$45boo$3boo$3boo$24boo24boo$12boboo8boo11bo
-12boobboo$11boobobo9b4o6bobo15bobo$12bob4o8boboboo7bo15bo$17bo7bo8bo5b
-o18bo$15boo8bobbo8bobbo11boo4b3o$15bo9bo5bo8bo12bo3b3obo14bo$26bo7boob
-obo10b3o5bo3bo11bobo$27bobo6b4o10bo8bo3bo11boo$28bo11boo18bob3o$40boo
-19b3o$62bo$$19boo24boo$19boo24boo!
+x = 75, y = 61, rule = B3/S23
+52b2o$52b2o$52b2o$52bo$51bobo$51bob2o3$52b2o9bo3bo$52b2o9b2ob2o$19b2o
+24b2o11b2o3b2obo$19b2o24b2o10bobo6bo$59bo4bo$25b2o31bo4bo2bo$24bob2o
+38bo$24bo3bo7b3o24bobo$25b5o6b2ob2o21bo$15bo10bob3o8b2o21b2o$15bo13b2o
+8b2o$14bobo$11bo13b2o8b2o15b2o$10b3o2b2o8b2o8b3obo12b2o4b2o$10bo4b3o7b
+2ob2o6b5o11b2o4b2o$10bob2obo11b3o7bo3bo11bo19b2o$11b3o24b2obo10bobo18b
+2o$3b2o34b2o10b2obo$3b2o$45b2o$45b2o5b2o$52b2o3bo$3bo16bo36bobo11bo$2b
+ob2o10b2o2b2ob3o31b2o11bobo$2bob2ob2o7b2o4b4o7bo36bobo$2o2b2ob2o11b2o
+12bo36bo$bobo28b3o30b2obo$bob6o54b2ob2ob2o$2bo5bo52b4obo2b2o$3b3o54b2o
+2bob4o$5bo54b2ob2ob2o$62bob2o$59bo$58bobo$34b2o22bobo$34b2o23bo3$25b2o
+$25bobo$26bo$56b2o15b2o$56b2o15b2o2$29b2o$29b2o$24b2o$23bobo$23bo$22b
+2o13b2o$37bo10bo$30b2o6b3o8bo$30b2o8bo6b3o!
