@@ -1,18 +1,18 @@
 #C compression = 749
-#C tentative_compression = 116
-#C y_slack = 27
-x = 95, y = 77, rule = B3/S23
-64b2o5b2o$64b2o5b2o10b2o$83bo$81bobo$81b2o6$71bo$70b2o$64b3o2b2o4b2o
-11b2o$63bo5b2o4b3o10b2o$62b2o5b2o4b3o$62bobo3bo6b3o2bobo$57bo4bob3ob3o
-2bo3bobo2bo$56bobo3b2o6b3o2bo$56b2o3b3o11bo9bo$61b3o12bo10bo$60bo2bo
-13bo3bo4bo$61b2o15bo$82b2o$91b2o$18b2o3b2o66bo$18b2o2bob3o59bo5b3o$22b
-o4bo57bobo6bo$18b4ob2o2bo58bo$18bo2bobobob2o$21bobobobo41b2o$22b2obobo
-42bo$26bo40b3o$67bo$12b2o$13bo7b2o$13bobo5b2o$14b2o7$24b2o$24bo69bo$
-25b3o64bobo$4bo22bo49b2o14b2o$2b5o14b2o45b2o7b2o$bo5bo13bo2bo44bo$bo2b
-3o12bobob2o44bobo$2obo15b2obo41b2o4b2o$o2b4o15bo42bo20b2o$b2o3bo3b2o
-10b3o40bobo18bo$3b3o4b2o13bo29bo10b2o16bobo$3bo20b2o27b3o28b2o$2obo48b
-o$2ob2o47b2o$37b2o$38bo$11b2o25bob2o$12bo26bo2bo$9b3o22b2o4b2o$9bo17b
-2o5bobo18b2o$27b2o7bo18b2o$36b2o$78b2o$23bo54b2o2b2o$22bobob2o36bo3b2o
-12bobo$22bobobobo34bobo3bo14bo$21b2obobobo2bo30bobo3bo15b2o$22bo2b2ob
-4o26b2obobo3bo$22bo4bo30b2obo2b4obo$23b3obo2b2o30bobo3bobo$25b2o3b2o
-26b2ob2o2bo2bobo$59bobo2b2o3bo$47b2o10bobo$47b2o11bo!
+#C tentative_compression = 78
+#C y_trips = 2
+#C y_slack = 3
+x = 88, y = 68, rule = B3/S23
+30b2o$22b2o5bobo$22bobo4bo$24bo2b2ob4o23b2o$23b2obobobo2bo23bobo5b2o$
+24bobobobo28bo4bobo$24bobob2o25b4ob2o2bo$25bo29bo2bobobob2o$58bobobobo
+$19bo18b2o19b2obobo$17b3o9b2o7bo24bo$16bo12b2o5bobo29bo$15bobo18b2o11b
+2o17b3o$15bobo32bo7b2o11bo$16bo33bobo5b2o10bobo$51b2o17bobo$71bo3$2o
+24b2o$2o25bo$24b3o59b2o$24bo36b2o23b2o$61bo$20b2o40b3o$20bobo41bo$22bo
+41bob2o$13b2o7b2o38b2obobo$13b2o47bo2bo$64b2o7b2o$3bob2o66b2o$b3ob2o$o
+80b2obo$b3ob2o35b3o36b2ob3o$3b2o2bo36bo42bo$6bobo34bo37b2ob3o$2bob2obo
+bo16bo53bo2b2o$2b2obo2bo15b3o52bobo$5bo17bo37bo16bobob2obo$5b2o16b2o
+36b3o15bo2bob2o$3b2o2bobo54bo17bo$2bo2bo2b2o53b2o16b2o$3b2o73bobo2b2o$
+78b2o2bo2bo$47bo35b2o$46bobo$46bobo$45b2ob2o29b2o$44bo2bo2bo28bo$43bob
+obobobo25bobo$44bobobobo26b2o$46bobo$6b2o38bo2bo$5bobo39b2o$5bo$4b2o
+70b2o$46b2o9b2o17bo$22b2o22b2o10bo18b3o$22b2o31b3o21bo$14b2o39bo$14b2o
+6b2o$23bo$22bo$22b2o$60b2o$43bo15bobo$44bo14bo$42b3o13b2o!
