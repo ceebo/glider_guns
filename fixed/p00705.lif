@@ -1,20 +1,11 @@
-#C p00705 - Scot Ellison July 10, 2008
-#C (64+64+171+171)*2 - p15 Tripler - 4 Herschels
-x = 120, y = 83, rule = B3/S23
-16boo$9boo5boo$9boo5boo$16b3o27bo$16bobbo24b3o$10bo5bo3bo9boo11bo$9bob
-o9b4o5bo12boo$5boobooboo6bob4o3bobo20bo$5boo5bo7bo7boo19b3o$11boo35bo$
-48boo$14boo$13bobbo$13bobo35boo$12boo37bo$12bo36bobo$15boo32boo$5bo9b
-oo$5b3o7boo$8bo3boobo40bo$7boo4b3o16bobo19b3o18bo$14bo18boo18bo19b3o$
-33bo19boo17bo$72boo$80bo$78b3o$77bo$77boo$29bo$29b3o26bo3boo4boo$32bo
-24boo4b5o12boo$oo29boo23boo9boobo9bo$oo39b3o13b5obbob4o8bobo$34b3o22b
-3o3bo12boo$45boo$45bo$5boo39b3o36bo$5boo41bo34b3o$boo79bo$boo79boo14b
-oo$98boo$$7boo$7boo14boo79boo$24bo79boo$21b3o34bo41boo$21bo36b3o39boo$
-61bo$60boo$27boo12bo3b3o22b3o$26bobo8b4obobb5o13b3o39boo$26bo9boboo9b
-oo23boo29boo$25boo12b5o4boo24bo$37boo4boo3bo26b3o$77bo$28boo77boo6boo$
-29bo75bo4bobbo4bo$26b3o76bo4bobbo4bo$26bo78bo4bobbo4bo$33boo72boo6boo$
-34bo17boo19bo$31b3o19bo18boo18bo$31bo18b3o19bobo16b3o16bobbo$50bo40bob
-oo13bob4obo$90boo15bobbobbobbo$90boo15bobbobbobbo$56boo32boo16boo4boo$
-55bobo36bo$55bo37boo$54boo35bobo$90bobbo$91boo$57boo$58bo35boo$55b3o
-19boo7bo7bo5boo$55bo20bobo3b4obo6boobooboo$62boo12bo5b4o9bobo$63bo11b
-oo9bo3bo5bo$60b3o24bobbo$60bo27b3o$89boo5boo20bo$89boo5boo21bo$89boo
-26b3o!
+x = 79, y = 68, rule = B3/S23
+28bo11b2o$27bobo10b2o$19bo3b2o2bobo$10b2o6bobo2bo2b2ob2o$10b2o6bobo3bo
+bo$19bob4o2bob2o$21bo3bobob2o$20bo3bobo$19bo3bobo$19b2o3bo4$32b2o$32b
+2o$47b2o$46bo2bo$47b2obo$2o48bo$2o48b2o$35b2o$36bo$7b2o24b3o$6b3o12b2o
+10bo$4bo16bobo$3bobo17bo$2bo2bo17b2o$3b2o45b2o$50bobo$8bo41bo$7bo2bo$
+8bobo$9bo3$56bo$55bobo$55bo2bo$15bo41bo$13bobo$14b2o45b2o$41b2o17bo2bo
+$42bo17bobo$42bobo16bo$32bo10b2o12b3o$30b3o24b2o$29bo$29b2o$14b2o48b2o
+$15bo48b2o$15bob2o$16bo2bo$17b2o$32b2o$32b2o33b8o$67bob4obo3bo$67b8o2$
+41bo3b2o$40bobo3bo$39bobo3bo21bo6bo$35b2obobo3bo24bo2bo$35b2obo2b4obo
+5b2o15bo2bo$39bobo3bobo5bo15bo2bo$35b2ob2o2bo2bobo2b3o14bo6bo$36bobo2b
+2o3bo3bo13bo$24b2o10bobo26bo$24b2o11bo25b3o!
