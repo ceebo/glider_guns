@@ -1,14 +1,14 @@
 #C p00341 found using Karel Suhajda's Hersrch program
 #C Scot Ellison - May 2003
-x = 102, y = 68, rule = B3/S23
-71boobo7bo$71boboo7b3o$33bo51bo14bo$31b3o50boo12b3o$30bo13bo52bo$30boo
-12b3o40boo8boo$47bo32bobo$bboo42boo34bo$3bo92boo$3bobo72bo3boo12boo$4b
-oobboo68boboboo$8boo71bo4$37boo$37boo41boo$60boo19bo$60bobo15b3o$62bo
-15bo$50boo10boo19boo$50bo33bo$bboo36boo9b3o27b3o$bobo16boo19bo11bo27bo
-$bo18bobo17bo$oo20bo17boo$16boo4boo$16bobo$18bo82bo$9boo7boo79bobo$9b
-oo89boo3$oo$bo$o$oo$91boo$82boo7boo$83bo$83bobo$78boo4boo$60boo17bo20b
-oo$61bo17bobo18bo$20bo27bo11bo19boo16bobo$18b3o27b3o9boo36boo$17bo33bo
-$17boo19boo10boo$23bo15bo$21b3o15bobo$20bo19boo$20boo41boo$63boo4$20bo
-71boo$18boobobo68boobboo$4boo12boo3bo72bobo$4boo92bo$19bo34boo42boo$
-19bobo32bo$3boo8boo40b3o12boo$4bo52bo13bo$b3o12boo50b3o$bo14bo51bo$17b
-3o7boobo$19bo7boboo!
+x = 79, y = 71, rule = B3/S23
+17b2o$16bobo$16b2o3$11bo$10bobo$10bobo$11bo21bob2o$33b2obo2$71bo$20bo
+42bo6bobo$20b3o38b3o6bobo$23bo36bo8b2ob3o$22b2o11b2o23b2o13bo$35b2o32b
+2ob3o$69b2obo4$69b2o$69b2o$2b2o$3bo$3o44b2o$o47bo17bo$45b3o8b2o7bo6b2o
+bo$2bo42bo11bo6b3o5bob2o$bobo2b2o46b3o$obo2bobo46bo$o2b2o31b2o$bobo32b
+obob2o$2obo2bo31bobo14b2o$o2bobobo14b2o14bobo15bo$2b2ob2o16bo13b2ob2o
+13bo16b2ob2o$22bo15bobo14b2o14bobobo2bo$22b2o14bobo31bo2bob2o$37b2obob
+o32bobo$41b2o31b2o2bo$24bo46bobo2bobo$22b3o46b2o2bobo$3b2obo5b3o6bo11b
+o42bo$3bob2o6bo7b2o8b3o$12bo17bo47bo$30b2o44b3o$75bo$75b2o$8b2o$8b2o4$
+6bob2o$4b3ob2o32b2o$3bo13b2o23b2o11b2o$4b3ob2o8bo36bo$6bobo6b3o38b3o$
+6bobo6bo42bo$7bo3$67bo$66bobo$66bobo$67bo3$48bo12b2o$49bo10bobo$47b3o
+10b2o!
