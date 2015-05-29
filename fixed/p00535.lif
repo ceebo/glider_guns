@@ -1,18 +1,21 @@
 #C p00535 found using Karel Suhajda's Hersrch program
 #C Scot Ellison - May 2003
-x = 137, y = 63, rule = B3/S23
-30bo14boo59boobo7bo$28b3o14bo24boo17bo16boboo7b3o$bboo23bo18b3o6boo13b
-o7boo7b3o30bo14bo$3bo23boo19bo6boo11bobo8bo6bo32boo12b3o$3bobo62boo9bo
-bo4boo44bo$4boobboo70boo40boo8boo$8boo105bobo$117bo$131boo$113bo3boo
-12boo$37boo74boboboo$37boo77bo5$115boo$bboo36boo74bo$bobo16boo19bo72bo
-$bo18bobo17bo13boo3boo53boo$oo20bo17boo13bo3bo58boo$16boo4boo28b3o5b3o
-29boo25bo$16bobbo32bo9bo29bo23b3o$18boo66boobo3b3o20bo$9boo75boob4obbo
-$9boo81bo$74boo6boobboob3o$73bobo6bo4bobo$oo71bo9b4o49bo$bo70boo10bo
-49bobo$o81bo52boo$oo51boo27boo$54bo$52bo10boo$50b4o9bo$47bobo4bo6bobo$
-45b3oboobboo6boo$44bo81boo$41bobb4oboo75boo$20bo20b3o3boboo66boo$18b3o
-23bo29bo9bo32bobbo$17bo25boo29b3o5b3o28boo4boo$17boo58bo3bo13boo17bo
-20boo$21boo53boo3boo13bo17bobo18bo$22bo72bo19boo16bobo$20bo74boo36boo$
-20boo5$20bo77boo$18boobobo74boo$4boo12boo3bo$4boo$19bo$19bobo105boo$3b
-oo8boo40boo70boobboo$4bo44boo4bobo9boo62bobo$b3o12boo32bo6bo8bobo11boo
-6bo44bo$bo14bo30b3o7boo7bo13boo6b3o42boo$17b3o7boobo16bo17boo24bo9boob
-o$19bo7boboo59boo9boboo!
+x = 87, y = 72, rule = B3/S23
+26b2o3b2o$24b3obo2b2o$23bo4bo$23bo2b2ob4o$22b2obobobo2bo$23bobobobo$
+23bobob2o$24bo21b2o3b2o$19bo26b2o2bob3o$17b3o17b2o11bo4bo$16bo11b2o7bo
+8b4ob2o2bo$15bobo10b2o5bobo8bo2bobobob2o$15bobo17b2o12bobobobo$16bo33b
+2obobo$54bo2$40b2o$41bo7b2o$2o39bobo5b2o$2o23b2o15b2o$26bo$23b3o$23bo
+53b2o$20b2obo52bobo$20bobob2o46b2o$22bo2bo46bob2o$13b2o7b2o28b2o21b2o$
+13b2o37bo15b2o$53b3o12b2o13b2o$3bob2o48bo17b2o7bobo$b3ob2o66b2o7bo$o
+38b3o27b2o6b2ob3o$b3ob2o34bo27bobo4bo6b2o$3b2o2bo32bo29bo4b2o4b2o2bo$
+6bobo69bo5bobo$2bob2obobo16bo43bo7bob2ob2obo$2b2obo2bo15b3o45bo5bobo4b
+o$5bo17bo44bo7bobobob3o$5b2o16b2o48bo2b2o3b2o$3b2o2bobo35b2o19bobob2ob
+3o$2bo2bo2b2o32bo2bobo16b3ob2o2bo3bobo$3b2o36bobobobo15bo3b2o3b2obob2o
+$40bobobo2b2o14b3o7bobo$40bo3bobo2bo16b4o2bo2bo$37b2ob2ob2obob2o9b2o4b
+o4bo2b2o$37bobo4bobo2bo5b2o2b2o3bobobob2obo$39bob9o4bobo8bo4bo2bo$39bo
+2bo5b2o5bo10b3o3bo$40bo3bobo2bo12b2o5b3o$10b2o19b2o8b3ob2ob2o7b2o2bo2b
+o3bo$10b2o19b2o10bo4bo7b3o2bo2bo3b2o$44b3obo5b3o3bo$47bob2o5bo4bobo$9b
+2o35bo2bo2bobo9b2o$10bo35b2o2b2o2bo9b2o$7b3o43b2o$7bo21b2o19b2ob2o$28b
+obo18bo2bobobo$28bo20b2o2bo2b3o$27b2o21bobo2bo3bo$26bo2b2o19bob2obo2b
+2o$15b2o10b2o2bo19bo2bo$15b2o13bo2bo18b2o$27b2obob2o$27bo2bo$29b2o3$
+18b2o$19bo8bo$16b3o10bo$16bo10b3o!
