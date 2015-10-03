@@ -221,3 +221,28 @@ print "*************"
 for period in guns:
     if period < 1000 and guns[period][1]:
         print period, guns[period]
+
+
+#print ""
+#print "***********"
+#print "Mod 8 stats"
+#print "***********"
+#mod8stats = [[0] * 9 for _ in range(8)]
+#for period in guns:
+#    mod8stats[period%8][period%9] = guns[period][0]
+#    if period % 8 == 0:
+#        print period, ",",
+#    if all(mod8stats[period%8]):
+#        print sum(mod8stats[period%8]) // 9, ",",
+#    if period % 8 == 7:
+#        print ""
+#    if period == 999:
+#        break
+#
+#print "***********"
+#print "Possible x3"
+#print "***********"
+#
+#for period in guns:
+#    if period < 350 and period % 15 in [5, 10]:
+#        print period, guns[period][0], guns[period*3][0], guns[period*3][0] * 1./guns[period][0]
