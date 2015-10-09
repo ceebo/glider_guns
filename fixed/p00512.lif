@@ -1,9 +1,0 @@
-#C p512 gun
-x = 61, y = 54, rule = B3/S23
-57bo$55b3o$54bo$46b2o6b2o$46bobo$31b2o14bo$31bo2bo3b2o$38b2o12b2o$27bo
-24b2o5b2o$25bo7b2o3bo20b2o$7b2o8b2o12b2o4b2o$7b2o9bo5bo11b3o$18bobo3bo
-3bo6b2o5b2o$19b2o7bo6bob2o3b2o$b2o22bobo8b3o$b2o54b2o$5b2o26b2o22bobo$
-5b2o26bo25bo$34bo24b2o2$32bo$2o33bo$2o30bo2bo$34b3o$34b3o$14bo18bo2bo
-23bo$13bo19bobo22bobo$13b3o17b3o23b2o6$7b2o$8bo$5b3o$5bo41b2o$47b2o4$
-42b2o$42b2o$46b2o$46b2o$5b2o21b2o$5b2o21bobo$11b2o17bo9b2o$11b2o17b2o
-8b2o3$9b2o$9b2o5b2o$16b2o!

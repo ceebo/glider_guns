@@ -49,7 +49,7 @@ def add_variable_gun(base, x, y, compression, x_slack, y_slack,
 # examine fixed guns
 for filename in listdir("fixed"):
     try:
-        if filename[-4:] != ".lif":
+        if filename[-4:] != ".rle":
             continue
 
         period = int(filename[1:6])
@@ -63,9 +63,9 @@ for filename in listdir("fixed"):
         raise
 
 # examine variable guns
-for filename in listdir("variable"):
+for filename in sorted(listdir("variable")):
     try:
-        if filename[-4:] != ".lif":
+        if filename[-4:] != ".rle":
             continue
 
         period = int(filename[1:6])
@@ -123,7 +123,7 @@ for filename in listdir("variable"):
 # examine tentative suggestions that have been confirmed
 for filename in listdir("confirmed"):
     try:
-        if filename[-4:] != ".lif":
+        if filename[-4:] != ".rle":
             continue
 
         period = int(filename[-9:-4])
