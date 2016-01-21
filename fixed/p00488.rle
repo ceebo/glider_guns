@@ -1,5 +1,3 @@
-#C p00288 gun based on Karel Suhajda's p288.
-#C Scot Ellison, 04 October 2003
 x = 58, y = 58, rule = LifeHistory
 10.2A4.2B4.2A$9.A2.A.6B.A2.A$9.3A2.6A2.3A18.A$12.2A6B2A19.3A$11.A2.6B
 2.A17.A$11.2A.A4BA.2A17.2A$16.2A20.4B$16.2B19.3B5.2A$17.2B8.B.12B3.B
