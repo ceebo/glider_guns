@@ -2,7 +2,7 @@ from os import listdir
 
 guns = {}
 tentative_guns = []
-stats = {'fixed' : 0}
+stats = {'fixed' : 0, 'test' : 0}
 confirmed = set()
 
 #if s2 is in s1 return the next digit in the string otherwise return 1
@@ -133,6 +133,24 @@ for filename in listdir("confirmed"):
                 area = int(line[2][:-1]) * int(line[5][:-1])
                 confirmed.add(filename[:-4])
                 add_gun(period, area, filename[:-4])
+    except:
+        print "***** Problem with gun %s" % filename
+        raise
+
+# examine test guns
+for filename in listdir("test"):
+    try:
+        if filename[-4:] != ".rle":
+            continue
+
+        period = int(filename[1:6])
+        for line in open("test/" + filename):
+            if line[0] == 'x':
+                line = line.split(" ")
+                area = int(line[2][:-1]) * int(line[5][:-1])
+                for signals in range(1, 10):
+                    if period % signals == 0 and period >= 74 * signals:
+                        add_gun(period // signals, area, "test")
     except:
         print "***** Problem with gun %s" % filename
         raise
