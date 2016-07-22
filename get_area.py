@@ -5,10 +5,22 @@ tentative_guns = []
 stats = {'fixed' : 0, 'test' : 0}
 confirmed = set()
 
-#if s2 is in s1 return the next digit in the string otherwise return 1
-def digit_after(s1, s2):
+#if s2 is in s1 return the following number otherwise return 1
+def number_after(s1, s2):
+
     i = s1.find(s2)
-    return int(s1[i + len(s2)]) if i >= 0 else 1
+
+    if i < 0:
+        return 1
+
+    ret = 0
+    i += len(s2)
+
+    while s1[i].isdigit():
+        ret = 10 * ret + int(s1[i])
+        i += 1
+
+    return ret
 
 def add_gun(period, area, desc):
 
@@ -27,7 +39,7 @@ def divisors(n, compression):
 
 def add_variable_gun(base, x, y, compression, x_slack, y_slack,
                      x_trips, y_trips, x_overhang, y_overhang,
-                     weird_x, weird_y, osc, factor, name):
+                     weird_x, weird_y, osc, osc_mod, factor, name):
     
     for d in range(100):
 
@@ -43,7 +55,7 @@ def add_variable_gun(base, x, y, compression, x_slack, y_slack,
 
         area = (x + add_x) * (y + add_y)
         for p in divisors(base + 8 * d, compression):
-            if p % osc == 0:
+            if p % osc in osc_mod:
                 add_gun(p * factor, area, name + "_" + str(d))
 
 # examine fixed guns
@@ -75,9 +87,10 @@ for filename in sorted(listdir("variable")):
         x_trips = y_trips = 1
         x_overhang = y_overhang = 0
         weird_x = weird_y = []
+        osc_mod = [0]
 
-        factor = digit_after(filename, "x")
-        osc = digit_after(filename, "osc")
+        factor = number_after(filename, "x")
+        osc = number_after(filename, "osc")
 
         for line in open("variable/" + filename):
             if line[0] == 'x':
@@ -104,10 +117,12 @@ for filename in sorted(listdir("variable")):
                 weird_x = eval(line.split("=")[-1])
             elif "weird_y" in line:
                 weird_y = eval(line.split("=")[-1])
+            elif "osc_mod" in line:
+                osc_mod = eval(line.split("=")[-1])
 
         gun_data = [period, x, y, compression, x_slack, y_slack,
                     x_trips, y_trips, x_overhang, y_overhang,
-                    weird_x, weird_y, osc, factor, filename[:-4]]
+                    weird_x, weird_y, osc, osc_mod, factor, filename[:-4]]
 
         stats[filename[:-4]] = 0
         add_variable_gun(*gun_data)
