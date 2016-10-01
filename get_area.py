@@ -45,13 +45,11 @@ def add_variable_gun(base, x, y, compression, x_slack, y_slack,
 
         add_x = (max(d - x_slack, 0) + x_trips - 1) // x_trips
         add_x -= min(d, x_overhang)
-        if d in weird_x:
-            add_x += 1
+        add_x += weird_x.count(d)
 
         add_y = (max(d - y_slack, 0) + y_trips - 1) // y_trips
         add_y -= min(d, y_overhang)
-        if d in weird_y:
-            add_y += 1
+        add_y += weird_y.count(d)
 
         area = (x + add_x) * (y + add_y)
         for p in divisors(base + 8 * d, compression):
