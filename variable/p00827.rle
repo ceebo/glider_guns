@@ -3,7 +3,6 @@
 #C y_slack = 2
 #C y_trips = 2
 #C x_trips = 2
-#C weird_x = [ 4 ]
 x = 82, y = 71, rule = LifeHistory
 38.2A3.2A$17.2A3.2A14.2A2.A.3A$17.2A2.A.3A16.A4.A$21.A4.A11.4A.2A2.A$
 17.4A.2A2.A11.A2.A.A.A.2A$17.A2.A.A.A.2A12.BABABA.A$19.BABABA.A14.B2A
