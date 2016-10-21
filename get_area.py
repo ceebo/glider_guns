@@ -25,12 +25,14 @@ def number_after(s1, s2):
 def add_gun(period, area, desc):
 
     if period in guns and guns[period][0] <= area:
-        return
+        return False
 
     if "%s_p%05d" % (desc, period) in confirmed:
-        return
+        return False
 
     guns[period] = (area, desc)
+
+    return True
 
 def divisors(n, compression):
     for x in range(1, n // compression + 1):
@@ -55,22 +57,6 @@ def add_variable_gun(base, x, y, compression, x_slack, y_slack,
         for p in divisors(base + 8 * d, compression):
             if p % osc in osc_mod:
                 add_gun(p * factor, area, name + "_" + str(d))
-
-# examine fixed guns
-for filename in listdir("fixed"):
-    try:
-        if filename[-4:] != ".rle":
-            continue
-
-        period = int(filename[1:6])
-        for line in open("fixed/" + filename):
-            if line[0] == 'x':
-                line = line.split(" ")
-                area = int(line[2][:-1]) * int(line[5][:-1])
-                add_gun(period, area, "fixed")
-    except:
-        print "***** Problem with gun %s" % filename
-        raise
 
 # examine variable guns
 for filename in sorted(listdir("variable")):
@@ -150,6 +136,25 @@ for filename in listdir("confirmed"):
         print "***** Problem with gun %s" % filename
         raise
 
+# examine fixed guns
+for filename in listdir("fixed"):
+    try:
+        if filename[-4:] != ".rle":
+            continue
+
+        period = int(filename[1:6])
+        for line in open("fixed/" + filename):
+            if line[0] == 'x':
+                line = line.split(" ")
+                area = int(line[2][:-1]) * int(line[5][:-1])
+                improve = add_gun(period, area, "fixed")
+                if not improve:
+#                    pass
+                    print filename
+    except:
+        print "***** Problem with gun %s" % filename
+        raise
+
 # examine test guns
 for filename in listdir("test"):
     try:
@@ -222,7 +227,7 @@ print "*************"
 print "Gun List"
 print "*************"
 
-for period in guns:
+for period in sorted(guns):
     if period < 1000:
         gun_type = guns[period][1].split("_")[0]
         stats[gun_type] += 1
