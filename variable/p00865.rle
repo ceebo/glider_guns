@@ -1,7 +1,8 @@
 #C compression = 865
 #C tentative_compression = 78
-#C y_slack = 17
+#C y_slack = 14
 #C y_trips = 3
+#C y_overhang = 1
 x = 105, y = 61, rule = LifeHistory
 74.2A$15.2A4.2A51.A.A$11.2A3.A4.A54.A4.2A$11.A4.A.2A.A50.4A.2A2.A2.A$
 12.3A.A.A.A51.A2.A.A.A.A.2A$14.A.2A2B54.BABABA.A$7.2A6.6B54.B2ABA.A$
