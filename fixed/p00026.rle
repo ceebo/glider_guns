@@ -1,6 +1,3 @@
-#C Pseudo p26 gun
-#C Karel Suhajda, 6 Apr 2003
-#C Reduced with NW31 H->G, Chris Cain, 26 Sep 2016
 x = 129, y = 112, rule = LifeHistory
 77.A11.2A$48.BA26.A.A9.B2AB$29.A14.2AB2A.A17.A3.2A2.A.A9.3B$29.3A11.A
 3BAB.A8.2A6.A.A2.A2.2A.2A9.B.B$32.A10.2B.A.A.2A6.B2A2B4.A.A3.A.A2.B8.
