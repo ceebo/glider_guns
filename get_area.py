@@ -228,7 +228,7 @@ print "Gun List"
 print "*************"
 
 for period in sorted(guns):
-    if period < 1000:
+    if period < 1025:
         gun_type = guns[period][1].split("_")[0]
         stats[gun_type] += 1
         print period, guns[period]
@@ -241,7 +241,7 @@ print "*************"
 for gun_type in sorted(stats, key=stats.get, reverse=True):
     print "%-*s%d" % (16, gun_type, stats[gun_type])
 
-print "variable        %d" % (1000 - 14 - stats["fixed"])
+print "variable        %d" % (1025 - 14 - stats["fixed"])
 
 for period in guns:
     guns[period] = guns[period][0], ""
@@ -255,7 +255,7 @@ print "Tentative guns"
 print "*************"
 
 for period in guns:
-    if period < 1000 and guns[period][1]:
+    if period < 1025 and guns[period][1]:
         print period, guns[period]
 
 
